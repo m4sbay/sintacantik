@@ -15,12 +15,12 @@ export default function Home() {
       <div className="mx-auto flex w-full max-w-3xl flex-col gap-8">
         <header className="flex items-center justify-between gap-4">
           <div>
-            <p className="text-sm font-semibold text-[var(--primary)]">sintacantik</p>
+            <p className="text-sm font-semibold text-[var(--primary)]">Semangat Sayangkuu</p>
             <h1 className="mt-2 text-3xl font-semibold leading-tight tracking-normal sm:text-4xl">
-              Buat sesi latihan
+              Buat sesi latihan dulu sayang
             </h1>
             <p className="mt-3 max-w-xl text-base text-[var(--text-secondary)]">
-              Atur sesi belajarmu sebelum mulai.
+              Atur sesi belajar sebelum mulai yah sayang
             </p>
           </div>
           <ThemeToggle />

@@ -105,52 +105,58 @@ export function SetupSessionForm() {
       </label>
 
       <div className="grid gap-4 sm:grid-cols-2">
-        <label className="grid gap-2 text-sm font-medium">
-          Jumlah Soal
+        <div className="grid gap-2 text-sm font-medium">
+          <span id="question-count-label">Jumlah Soal</span>
           <Select
             value={String(questionCount)}
-            onChange={(event) => {
-              const value = event.target.value;
+            aria-labelledby="question-count-label"
+            options={[
+              ...questionCountOptions.map((count) => ({
+                value: String(count),
+                label: String(count),
+                disabled: count > availableQuestions,
+              })),
+              { value: "all", label: "Semua" },
+            ]}
+            onValueChange={(value) => {
               setQuestionCount(value === "all" ? "all" : Number(value));
             }}
-          >
-            {questionCountOptions.map((count) => (
-              <option key={count} value={count} disabled={count > availableQuestions}>
-                {count}
-              </option>
-            ))}
-            <option value="all">Semua</option>
-          </Select>
-        </label>
+          />
+        </div>
 
-        <label className="grid gap-2 text-sm font-medium">
-          Tingkat Kesulitan
-          <Select value={difficulty} onChange={(event) => updateDifficulty(event.target.value as DifficultyFilter)}>
-            <option value="semua">Semua Tingkat</option>
-            <option value="mudah">Mudah</option>
-            <option value="sedang">Sedang</option>
-            <option value="sulit">Sulit</option>
-          </Select>
-        </label>
+        <div className="grid gap-2 text-sm font-medium">
+          <span id="difficulty-label">Tingkat Kesulitan</span>
+          <Select
+            value={difficulty}
+            aria-labelledby="difficulty-label"
+            options={[
+              { value: "semua", label: "Semua Tingkat" },
+              { value: "mudah", label: "Mudah" },
+              { value: "sedang", label: "Sedang" },
+              { value: "sulit", label: "Sulit" },
+            ]}
+            onValueChange={(value) => updateDifficulty(value as DifficultyFilter)}
+          />
+        </div>
       </div>
 
-      <label className="grid gap-2 text-sm font-medium">
-        Waktu
+      <div className="grid gap-2 text-sm font-medium">
+        <span id="timer-label">Waktu</span>
         <Select
           value={timerOption}
-          onChange={(event) => {
-            setTimerOption(event.target.value as TimerOption);
-          }}
-        >
-          <option value="none">Tanpa Timer</option>
-          <option value="10">10 Menit</option>
-          <option value="15">15 Menit</option>
-          <option value="30">30 Menit</option>
-          <option value="45">45 Menit</option>
-          <option value="60">60 Menit</option>
-          <option value="custom">Custom</option>
-        </Select>
-      </label>
+          aria-labelledby="timer-label"
+          options={[
+            { value: "none", label: "Tanpa Timer" },
+            { value: "10", label: "10 Menit" },
+            { value: "15", label: "15 Menit" },
+            { value: "30", label: "30 Menit" },
+            { value: "45", label: "45 Menit" },
+            { value: "60", label: "60 Menit" },
+            { value: "custom", label: "Custom" },
+          ]}
+          onValueChange={(value) => setTimerOption(value as TimerOption)}
+        />
+      </div>
 
       {timerOption === "custom" ? (
         <label className="grid gap-2 text-sm font-medium">

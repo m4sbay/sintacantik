@@ -8,12 +8,12 @@
   --text-primary: #17202a;
   --text-secondary: #5d6b7a;
   --border: #d9e0e8;
-  --primary: #2563eb;
-  --primary-contrast: #ffffff;
+  --primary: #bdb2ff;
+  --primary-contrast: #17202a;
   --warning: #b7791f;
   --success: #217a57;
   --danger: #c2413a;
-  --focus: #2563eb;
+  --focus: #bdb2ff;
   --radius: 10px;
 }
 
@@ -25,12 +25,12 @@
   --text-primary: #edf2f7;
   --text-secondary: #a7b4c2;
   --border: #303b45;
-  --primary: #6ea8ff;
+  --primary: #bdb2ff;
   --primary-contrast: #07111f;
   --warning: #f3b452;
   --success: #5fd39a;
   --danger: #ff8178;
-  --focus: #8bbcff;
+  --focus: #bdb2ff;
 }
 
 * {
@@ -70,8 +70,8 @@ select {
 }
 
 :focus-visible {
-  outline: 2px solid var(--focus);
-  outline-offset: 2px;
+  outline: 1px solid var(--focus);
+  outline-offset: 1px;
 }
 
 ::selection {
