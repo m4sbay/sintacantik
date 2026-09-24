@@ -3,7 +3,7 @@
 import { useMemo, useRef, useSyncExternalStore } from "react";
 import { useRouter } from "next/navigation";
 
-import { questions } from "@/data/questions";
+import { questions } from "@/data/question-bank";
 import {
   calculateQuizResult,
   completeQuizSession,

@@ -8,7 +8,7 @@ import { ResultActions } from "@/components/result/result-actions";
 import { ResultFilterTabs } from "@/components/result/result-filter";
 import { ResultSummary } from "@/components/result/result-summary";
 import { Card } from "@/components/ui/card";
-import { questions } from "@/data/questions";
+import { questions } from "@/data/question-bank";
 import { buildAnswerReviews, filterAnswerReviews } from "@/lib/quiz";
 import { QUIZ_RESULT_STORAGE_KEY, parseQuizResultSnapshot, readQuizResultSnapshot } from "@/lib/storage";
 import type { ResultFilter } from "@/types/quiz";
@@ -24,7 +24,7 @@ function subscribeToResult(onStoreChange: () => void): () => void {
 }
 
 export function ResultPageContent() {
-  const [filter, setFilter] = useState<ResultFilter>("salah");
+  const [filter, setFilter] = useState<ResultFilter>("semua");
   const isHydrated = useSyncExternalStore(() => () => undefined, () => true, () => false);
   const snapshot = useSyncExternalStore(subscribeToResult, readQuizResultSnapshot, () => null);
   const result = useMemo(() => parseQuizResultSnapshot(snapshot), [snapshot]);
@@ -70,7 +70,7 @@ export function ResultPageContent() {
           <div>
             <h2 className="text-2xl font-semibold">Pembahasan</h2>
             <p className="mt-1 text-sm text-[var(--text-secondary)]">
-              Fokus awal pada jawaban yang salah supaya sesi berikutnya lebih terarah.
+              Pelajari pembahasan semua soal, atau gunakan filter untuk meninjau jawaban benar, salah, dan yang belum dijawab.
             </p>
           </div>
           <ResultActions />

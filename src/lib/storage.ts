@@ -1,3 +1,4 @@
+import { ORTHO_MODULE_ID } from "@/data/question-modules";
 import type { QuizSession, StoredQuizResult } from "@/types/quiz";
 
 export const QUIZ_SESSION_STORAGE_KEY = "sintacantik-quiz-session";
@@ -16,6 +17,8 @@ export function parseQuizSessionSnapshot(serialized: string | null): QuizSession
     if (session.status !== "active" && session.status !== "completed") return null;
     if (typeof session.id !== "string" || !session.id) return null;
     if (typeof session.sessionName !== "string") return null;
+    if (session.selectedModuleIds !== undefined &&
+      (!Array.isArray(session.selectedModuleIds) || !session.selectedModuleIds.every((id) => typeof id === "string"))) return null;
     if (!Array.isArray(session.questionIds) || session.questionIds.length === 0) return null;
     if (!session.questionIds.every((questionId) => typeof questionId === "string")) return null;
     if (typeof session.answers !== "object" || session.answers === null) return null;
@@ -36,8 +39,7 @@ export function parseQuizSessionSnapshot(serialized: string | null): QuizSession
       answers: session.answers as QuizSession["answers"],
       flaggedQuestionIds: session.flaggedQuestionIds.filter((questionId): questionId is string => typeof questionId === "string"),
       currentQuestionIndex,
-      difficulty: session.difficulty ?? "semua",
-      requestedQuestionCount: session.requestedQuestionCount ?? session.questionIds.length,
+      selectedModuleIds: session.selectedModuleIds ?? [ORTHO_MODULE_ID],
       startedAt: session.startedAt,
       timeLimitMinutes: session.timeLimitMinutes ?? null,
       expiresAt: session.expiresAt ?? null,

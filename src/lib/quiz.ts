@@ -1,5 +1,5 @@
+import { ORTHO_MODULE_ID } from "@/data/question-modules";
 import type {
-  DifficultyFilter,
   Question,
   QuestionDifficulty,
   QuizAnswer,
@@ -12,12 +12,9 @@ import type {
   StoredQuizResult,
 } from "@/types/quiz";
 
-export function filterQuestionsByDifficulty(
-  questions: Question[],
-  difficulty: DifficultyFilter,
-): Question[] {
-  if (difficulty === "semua") return [...questions];
-  return questions.filter((question) => question.difficulty === difficulty);
+export function getQuestionsByModules(questions: Question[], selectedModuleIds: readonly string[]): Question[] {
+  const selected = new Set(selectedModuleIds);
+  return questions.filter((question) => selected.has(question.moduleId ?? ORTHO_MODULE_ID));
 }
 
 export function shuffleQuestions<T>(items: readonly T[], random: () => number = Math.random): T[] {
@@ -29,16 +26,6 @@ export function shuffleQuestions<T>(items: readonly T[], random: () => number = 
   }
 
   return shuffled;
-}
-
-export function selectRandomQuestions(
-  questions: Question[],
-  requestedCount: number | "all",
-  random: () => number = Math.random,
-): Question[] {
-  const shuffled = shuffleQuestions(questions, random);
-  if (requestedCount === "all") return shuffled;
-  return shuffled.slice(0, Math.max(0, Math.min(requestedCount, questions.length)));
 }
 
 export function isQuizComplete(session: Pick<QuizSession, "questionIds" | "answers">): boolean {
@@ -158,13 +145,13 @@ export function completeQuizSession(session: QuizSession, completedAt: string): 
   };
 }
 
-export function countQuestionsByDifficulty(questions: Question[]): Record<QuestionDifficulty, number> {
-  return questions.reduce<Record<QuestionDifficulty, number>>(
+export function countQuestionsByDifficulty(questions: Question[]): Record<QuestionDifficulty | "unknown", number> {
+  return questions.reduce<Record<QuestionDifficulty | "unknown", number>>(
     (counts, question) => {
-      counts[question.difficulty] += 1;
+      counts[question.difficulty ?? "unknown"] += 1;
       return counts;
     },
-    { mudah: 0, sedang: 0, sulit: 0 },
+    { mudah: 0, sedang: 0, sulit: 0, unknown: 0 },
   );
 }
 
@@ -193,11 +180,11 @@ export function createQuizSession(
   const idFactory = options.idFactory ?? (() => crypto.randomUUID());
   const now = options.now ?? (() => new Date());
   const startedAtDate = now();
-  const selectedQuestions = selectRandomQuestions(
-    filterQuestionsByDifficulty(questionBank, configuration.difficulty),
-    configuration.questionCount,
+  const selectedQuestions = shuffleQuestions(
+    getQuestionsByModules(questionBank, configuration.selectedModuleIds),
     options.random,
   );
+  if (selectedQuestions.length === 0) throw new Error("Tidak ada soal tersedia untuk modul yang dipilih.");
   const startedAt = startedAtDate.toISOString();
   const expiresAt =
     configuration.timeLimitMinutes === null
@@ -212,8 +199,7 @@ export function createQuizSession(
     answers: createEmptyAnswers(selectedQuestions),
     flaggedQuestionIds: [],
     currentQuestionIndex: 0,
-    difficulty: configuration.difficulty,
-    requestedQuestionCount: configuration.questionCount,
+    selectedModuleIds: [...new Set(configuration.selectedModuleIds)],
     startedAt,
     timeLimitMinutes: configuration.timeLimitMinutes,
     expiresAt,

@@ -1,3 +1,4 @@
+import { questionModules } from "@/data/question-modules";
 import type { Question, QuestionDifficulty, QuestionOptionId } from "@/types/quiz";
 
 const VALID_DIFFICULTIES = new Set<QuestionDifficulty>(["mudah", "sedang", "sulit"]);
@@ -6,19 +7,22 @@ export function validateQuestions(questions: Question[]): void {
   const errors: string[] = [];
   const ids = new Set<string>();
 
-  if (questions.length !== 60) {
-    errors.push(`Expected 60 questions, received ${questions.length}.`);
-  }
+  const moduleIds = new Set(questionModules.map((module) => module.id));
 
   for (const question of questions) {
+    if (question.moduleId !== undefined && !moduleIds.has(question.moduleId)) {
+      errors.push(`Question ${question.id}: unknown moduleId "${question.moduleId}".`);
+    }
     if (!question.id.trim()) errors.push(`Question ${question.number}: id is required.`);
     if (ids.has(question.id)) errors.push(`Question ${question.number}: duplicate id "${question.id}".`);
     ids.add(question.id);
 
     if (!question.question.trim()) errors.push(`Question ${question.id}: question text is required.`);
     if (!question.topic.trim()) errors.push(`Question ${question.id}: topic is required.`);
-    if (!question.explanation.trim()) errors.push(`Question ${question.id}: explanation is required.`);
-    if (!VALID_DIFFICULTIES.has(question.difficulty)) {
+    if (question.explanation !== undefined && typeof question.explanation !== "string") {
+      errors.push(`Question ${question.id}: explanation must be text when supplied.`);
+    }
+    if (question.difficulty !== undefined && !VALID_DIFFICULTIES.has(question.difficulty)) {
       errors.push(`Question ${question.id}: invalid difficulty "${question.difficulty}".`);
     }
 

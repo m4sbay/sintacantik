@@ -6,8 +6,8 @@ import { useMemo, useState, useSyncExternalStore, type FormEvent } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Select } from "@/components/ui/select";
-import { questions } from "@/data/questions";
-import { createQuizSession, filterQuestionsByDifficulty } from "@/lib/quiz";
+import { questions } from "@/data/question-bank";
+import { createQuizSession, getQuestionsByModules } from "@/lib/quiz";
 import {
   clearQuizSession,
   clearQuizResult,
@@ -16,9 +16,10 @@ import {
   readQuizSessionSnapshot,
   writeQuizSession,
 } from "@/lib/storage";
-import type { DifficultyFilter, QuizConfiguration } from "@/types/quiz";
+import { ModuleSelector } from "@/components/quiz/module-selector";
+import { ORTHO_MODULE_ID, questionModules } from "@/data/question-modules";
+import type { QuizConfiguration } from "@/types/quiz";
 
-const questionCountOptions = [10, 20, 30, 40, 50] as const;
 type TimerOption = "none" | "10" | "15" | "30" | "45" | "60" | "custom";
 
 function subscribeToQuizSession(onStoreChange: () => void): () => void {
@@ -34,8 +35,7 @@ function subscribeToQuizSession(onStoreChange: () => void): () => void {
 export function SetupSessionForm() {
   const router = useRouter();
   const [sessionName, setSessionName] = useState("");
-  const [questionCount, setQuestionCount] = useState<QuizConfiguration["questionCount"]>(10);
-  const [difficulty, setDifficulty] = useState<DifficultyFilter>("semua");
+  const [selectedModuleIds, setSelectedModuleIds] = useState<string[]>([ORTHO_MODULE_ID]);
   const [timerOption, setTimerOption] = useState<TimerOption>("none");
   const [customMinutes, setCustomMinutes] = useState("");
   const [hasConfirmedReplace, setHasConfirmedReplace] = useState(false);
@@ -45,11 +45,11 @@ export function SetupSessionForm() {
     return session?.status === "active" ? session : null;
   }, [activeSessionSnapshot]);
 
-  const availableQuestions = useMemo(
-    () => filterQuestionsByDifficulty(questions, difficulty).length,
-    [difficulty],
-  );
-  const selectedCount = questionCount === "all" ? availableQuestions : questionCount;
+  const moduleOptions = useMemo(() => questionModules.map((module) => ({
+    ...module, questionCount: getQuestionsByModules(questions, [module.id]).length,
+  })), []);
+  const availableQuestions = getQuestionsByModules(questions, selectedModuleIds).length;
+  const hasEmptyModules = moduleOptions.some((module) => selectedModuleIds.includes(module.id) && module.questionCount === 0);
   const parsedCustomMinutes = Number(customMinutes);
   const customTimerIsValid =
     timerOption !== "custom" ||
@@ -59,30 +59,16 @@ export function SetupSessionForm() {
   const isValid =
     sessionName.length <= 80 &&
     availableQuestions > 0 &&
-    selectedCount > 0 &&
-    selectedCount <= availableQuestions &&
+    selectedModuleIds.length > 0 &&
     customTimerIsValid &&
     (!activeSession || hasConfirmedReplace);
-  const difficultyLabel =
-    difficulty === "semua" ? "" : ` untuk tingkat ${difficulty[0].toUpperCase()}${difficulty.slice(1)}`;
-
-  function updateDifficulty(nextDifficulty: DifficultyFilter) {
-    const nextAvailableQuestions = filterQuestionsByDifficulty(questions, nextDifficulty).length;
-    setDifficulty(nextDifficulty);
-    setQuestionCount((currentCount) => {
-      if (currentCount === "all" || currentCount <= nextAvailableQuestions) return currentCount;
-      return "all";
-    });
-  }
-
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (!isValid) return;
 
     const configuration: QuizConfiguration = {
       sessionName: sessionName.trim() || "Latihan Soal",
-      questionCount,
-      difficulty,
+      selectedModuleIds,
       timeLimitMinutes,
     };
     const session = createQuizSession(configuration, questions);
@@ -104,41 +90,7 @@ export function SetupSessionForm() {
         />
       </label>
 
-      <div className="grid gap-4 sm:grid-cols-2">
-        <div className="grid gap-2 text-sm font-medium">
-          <span id="question-count-label">Jumlah Soal</span>
-          <Select
-            value={String(questionCount)}
-            aria-labelledby="question-count-label"
-            options={[
-              ...questionCountOptions.map((count) => ({
-                value: String(count),
-                label: String(count),
-                disabled: count > availableQuestions,
-              })),
-              { value: "all", label: "Semua" },
-            ]}
-            onValueChange={(value) => {
-              setQuestionCount(value === "all" ? "all" : Number(value));
-            }}
-          />
-        </div>
-
-        <div className="grid gap-2 text-sm font-medium">
-          <span id="difficulty-label">Tingkat Kesulitan</span>
-          <Select
-            value={difficulty}
-            aria-labelledby="difficulty-label"
-            options={[
-              { value: "semua", label: "Semua Tingkat" },
-              { value: "mudah", label: "Mudah" },
-              { value: "sedang", label: "Sedang" },
-              { value: "sulit", label: "Sulit" },
-            ]}
-            onValueChange={(value) => updateDifficulty(value as DifficultyFilter)}
-          />
-        </div>
-      </div>
+      <ModuleSelector modules={moduleOptions} value={selectedModuleIds} onChange={setSelectedModuleIds} />
 
       <div className="grid gap-2 text-sm font-medium">
         <span id="timer-label">Waktu</span>
@@ -178,7 +130,12 @@ export function SetupSessionForm() {
       ) : null}
 
       <p className="text-sm text-[var(--text-secondary)]" aria-live="polite">
-        {availableQuestions} soal tersedia{difficultyLabel}.
+        {selectedModuleIds.length === 0
+          ? "Pilih minimal 1 Modul Soal untuk memulai latihan."
+          : availableQuestions === 0
+            ? "Soal untuk modul yang dipilih belum tersedia."
+            : `${availableQuestions} soal akan digunakan dari modul yang dipilih.`}
+        {hasEmptyModules && availableQuestions > 0 ? " Modul yang belum memiliki soal dilewati pada sesi ini." : ""}
       </p>
 
       {activeSession ? (

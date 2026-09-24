@@ -7,9 +7,8 @@ import {
   calculateRemainingSeconds,
   filterAnswerReviews,
   getAnsweredCount,
-  filterQuestionsByDifficulty,
+  getQuestionsByModules,
   isQuizComplete,
-  selectRandomQuestions,
   shuffleQuestions,
   toggleFlaggedQuestion,
   updateQuizAnswer,
@@ -69,17 +68,6 @@ describe("quiz utilities", () => {
     expect(shuffled).not.toBe(questions);
   });
 
-  it("selects the requested number of random questions", () => {
-    expect(selectRandomQuestions(questions, 2, () => 0.5)).toHaveLength(2);
-    expect(selectRandomQuestions(questions, "all", () => 0.5)).toHaveLength(3);
-    expect(selectRandomQuestions(questions, 99, () => 0.5)).toHaveLength(3);
-  });
-
-  it("filters questions by difficulty", () => {
-    expect(filterQuestionsByDifficulty(questions, "mudah").map((question) => question.id)).toEqual(["q1"]);
-    expect(filterQuestionsByDifficulty(questions, "semua")).toHaveLength(3);
-  });
-
   it("checks completion from answer state", () => {
     const session: { questionIds: string[]; answers: Record<string, QuizAnswer> } = {
       questionIds: questions.map((question) => question.id),
@@ -98,8 +86,7 @@ describe("quiz utilities", () => {
     const session = createQuizSession(
       {
         sessionName: "Latihan Malam",
-        questionCount: 2,
-        difficulty: "semua",
+        selectedModuleIds: ["modul-ortho"],
         timeLimitMinutes: 10,
       },
       questions,
@@ -111,7 +98,7 @@ describe("quiz utilities", () => {
     );
 
     expect(session.id).toBe("session-1");
-    expect(session.questionIds).toHaveLength(2);
+    expect(session.questionIds).toHaveLength(3);
     expect(Object.keys(session.answers).sort()).toEqual([...session.questionIds].sort());
     expect(session.startedAt).toBe("2026-09-01T00:00:00.000Z");
     expect(session.expiresAt).toBe("2026-09-01T00:10:00.000Z");
@@ -120,7 +107,7 @@ describe("quiz utilities", () => {
 
   it("updates answers without double-counting and toggles flags", () => {
     const session = createQuizSession(
-      { sessionName: "", questionCount: "all", difficulty: "semua", timeLimitMinutes: null },
+      { sessionName: "", selectedModuleIds: ["modul-ortho"], timeLimitMinutes: null },
       questions,
       { idFactory: () => "session-1", now: () => new Date("2026-09-01T00:00:00.000Z"), random: () => 0 },
     );
@@ -144,7 +131,7 @@ describe("quiz utilities", () => {
 
   it("generates result counts for incorrect and unanswered answers", () => {
     const session = createQuizSession(
-      { sessionName: "Result", questionCount: "all", difficulty: "semua", timeLimitMinutes: null },
+      { sessionName: "Result", selectedModuleIds: ["modul-ortho"], timeLimitMinutes: null },
       questions,
       { idFactory: () => "session-1", now: () => new Date("2026-09-01T00:00:00.000Z"), random: () => 0 },
     );
@@ -251,5 +238,44 @@ describe("quiz utilities", () => {
         }),
       ),
     ).toBeNull();
+  });
+});
+
+
+describe("module selection", () => {
+  const configuration = { sessionName: "Modules", selectedModuleIds: ["modul-ortho"], timeLimitMinutes: null };
+
+  it("keeps all legacy Ortho questions and skips empty modules", () => {
+    expect(getQuestionsByModules(questions, ["modul-ortho", "oral-medicine"])).toEqual(questions);
+    expect(getQuestionsByModules(questions, ["orthodonti"])).toEqual([]);
+    expect(getQuestionsByModules(questions, [])).toEqual([]);
+    const session = createQuizSession({ ...configuration, selectedModuleIds: ["modul-ortho", "oral-medicine"] }, questions);
+    expect(session.questionIds).toHaveLength(3);
+    expect(parseQuizSessionSnapshot(JSON.stringify(session))?.selectedModuleIds).toEqual(["modul-ortho", "oral-medicine"]);
+  });
+
+  it("filters by moduleId without leaking unselected questions or duplicating selections", () => {
+    // Reuse existing test fixtures to exercise future module routing; no bank content is added.
+    const bank = questions.map((question, index) => ({ ...question, moduleId: index === 0 ? "periodontologi" : "oral-medicine" }));
+    const session = createQuizSession({ ...configuration, selectedModuleIds: ["periodontologi", "periodontologi"] }, bank);
+    expect(session.questionIds).toEqual(["q1"]);
+    expect(session.selectedModuleIds).toEqual(["periodontologi"]);
+    expect(getQuestionsByModules(bank, ["periodontologi", "oral-medicine"])).toHaveLength(3);
+  });
+
+  it("rejects empty pools even when called outside the UI", () => {
+    for (const selectedModuleIds of [[], ["oral-medicine"], ["unknown"]]) {
+      expect(() => createQuizSession({ ...configuration, selectedModuleIds }, questions)).toThrow("Tidak ada soal");
+    }
+  });
+
+  it("restores legacy sessions without changing their question IDs", () => {
+    const session = createQuizSession(configuration, questions);
+    const { selectedModuleIds: _modules, ...legacy } = session;
+    void _modules;
+    const restored = parseQuizSessionSnapshot(JSON.stringify({ ...legacy, difficulty: "mudah", requestedQuestionCount: 3 }));
+    expect(restored?.selectedModuleIds).toEqual(["modul-ortho"]);
+    expect(restored?.questionIds).toEqual(session.questionIds);
+    expect(parseQuizSessionSnapshot(JSON.stringify({ ...session, selectedModuleIds: [42] }))).toBeNull();
   });
 });

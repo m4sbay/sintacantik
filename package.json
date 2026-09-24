@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "typecheck": "next typegen --webpack && tsc --noEmit",
     "test": "vitest run",
-    "generate:questions": "node scripts/generate-questions.mjs"
+    "generate:questions": "node scripts/generate-questions.mjs && node scripts/generate-tryout.mjs",
+    "predev": "npm run generate:questions"
   },
   "dependencies": {
     "lucide-react": "^1.38.0",

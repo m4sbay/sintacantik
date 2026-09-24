@@ -1,29 +1,38 @@
 export type QuestionDifficulty = "mudah" | "sedang" | "sulit";
 
-export type DifficultyFilter = QuestionDifficulty | "semua";
-
 export type QuestionOptionId = "A" | "B" | "C" | "D" | "E";
 
 export type QuestionOption = {
   id: QuestionOptionId;
   text: string;
+  /** Display label from the source; id remains unique for scoring. */
+  sourceLabel?: string;
+};
+
+export type QuestionModule = {
+  id: string;
+  label: string;
+  group: "ortho" | "tryout";
 };
 
 export type Question = {
+  /** Legacy questions without moduleId belong to Modul Ortho. */
+  moduleId?: string;
   id: string;
   number: number;
   question: string;
   options: QuestionOption[];
   correctAnswer: QuestionOptionId;
-  difficulty: QuestionDifficulty;
+  difficulty?: QuestionDifficulty;
   topic: string;
-  explanation: string;
+  /** Optional plain text; blank text uses the review fallback. Supports paragraphs and bullet lines. */
+  explanation?: string;
+  image?: { src: string; alt: string };
 };
 
 export type QuizConfiguration = {
   sessionName: string;
-  questionCount: number | "all";
-  difficulty: DifficultyFilter;
+  selectedModuleIds: string[];
   timeLimitMinutes: number | null;
 };
 
@@ -41,8 +50,7 @@ export type QuizSession = {
   answers: Record<Question["id"], QuizAnswer>;
   flaggedQuestionIds: string[];
   currentQuestionIndex: number;
-  difficulty: DifficultyFilter;
-  requestedQuestionCount: QuizConfiguration["questionCount"];
+  selectedModuleIds: string[];
   startedAt: string;
   timeLimitMinutes: number | null;
   expiresAt: string | null;

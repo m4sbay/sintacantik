@@ -1,5 +1,6 @@
 "use client";
 
+import { QuestionImage } from "@/components/quiz/question-image";
 import { Flag } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
@@ -45,6 +46,8 @@ export function QuestionCard({
 
       <h2 className="mt-5 max-w-[70ch] text-xl font-semibold leading-relaxed sm:text-2xl">{question.question}</h2>
 
+      {question.image ? <QuestionImage key={question.image.src} image={question.image} /> : null}
+
       <fieldset className="mt-6 grid gap-3">
         <legend className="sr-only">Pilihan jawaban</legend>
         {question.options.map((option) => {
@@ -68,7 +71,7 @@ export function QuestionCard({
                 onChange={() => onSelectAnswer(option.id)}
               />
               <span>
-                <span className="font-semibold">{option.id}.</span> {option.text}
+                <span className="font-semibold">{option.sourceLabel ?? option.id}.</span> {option.text}
               </span>
             </label>
           );

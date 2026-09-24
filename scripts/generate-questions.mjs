@@ -30,7 +30,7 @@ for (let index = 0; index < parts.length; index += 2) {
   const correctAnswer = requiredMatch(body, /- \*\*correct_answer:\*\* `([^`]+)`/, "correct_answer", numberText);
   const question = requiredMatch(body, /### Pertanyaan\s*\n\n([\s\S]*?)\n\n### Pilihan/, "question", numberText);
   const optionBlock = requiredMatch(body, /### Pilihan\s*\n\n([\s\S]*?)\n\n### Pembahasan/, "options", numberText);
-  const explanation = requiredMatch(body, /### Pembahasan\s*\n\n([\s\S]*?)(?:\n\n---|\s*$)/, "explanation", numberText);
+  const explanation = body.match(/### Pembahasan\s*\n([\s\S]*?)(?:\n\n---|\s*$)/)?.[1]?.trim() || undefined;
   const options = [...optionBlock.matchAll(/^- \*\*([A-E])\.\*\* (.*)$/gm)].map((match) => ({
     id: match[1],
     text: match[2].trim(),

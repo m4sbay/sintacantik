@@ -1,7 +1,9 @@
 "use client";
 
-import { Check, CircleHelp, Flag, MinusCircle, X } from "lucide-react";
+import { Check, Flag, MinusCircle, X } from "lucide-react";
 
+import { QuestionExplanation } from "@/components/result/question-explanation";
+import { QuestionImage } from "@/components/quiz/question-image";
 import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import type { AnswerReview } from "@/types/quiz";
@@ -51,6 +53,8 @@ export function AnswerReviewCard({ review }: { review: AnswerReview }) {
 
       <h2 className="mt-5 max-w-[70ch] text-lg font-semibold leading-relaxed">{review.question.question}</h2>
 
+      {review.question.image ? <QuestionImage key={review.question.image.src} image={review.question.image} /> : null}
+
       <div className="mt-5 grid gap-3">
         <div
           className={`rounded-[var(--radius)] border p-4 ${
@@ -72,7 +76,7 @@ export function AnswerReviewCard({ review }: { review: AnswerReview }) {
             Jawaban kamu
           </p>
           <p className="mt-2 text-sm text-[var(--text-primary)]">
-            {review.selectedAnswer ? `${review.selectedAnswer.id}. ${review.selectedAnswer.text}` : "Tidak dijawab"}
+            {review.selectedAnswer ? `${review.selectedAnswer.sourceLabel ?? review.selectedAnswer.id}. ${review.selectedAnswer.text}` : "Tidak dijawab"}
           </p>
         </div>
 
@@ -82,18 +86,12 @@ export function AnswerReviewCard({ review }: { review: AnswerReview }) {
             Jawaban benar
           </p>
           <p className="mt-2 text-sm text-[var(--text-primary)]">
-            {review.correctAnswer.id}. {review.correctAnswer.text}
+            {review.correctAnswer.sourceLabel ?? review.correctAnswer.id}. {review.correctAnswer.text}
           </p>
         </div>
       </div>
 
-      <div className="mt-5 max-w-[70ch] rounded-[var(--radius)] border border-[var(--border)] bg-[var(--surface-muted)] p-4">
-        <p className="flex items-center gap-2 text-sm font-medium">
-          <CircleHelp aria-hidden="true" className="text-[var(--primary)]" size={16} />
-          Pembahasan
-        </p>
-        <p className="mt-2 text-sm leading-relaxed text-[var(--text-secondary)]">{review.question.explanation}</p>
-      </div>
+      <QuestionExplanation explanation={review.question.explanation} />
     </Card>
   );
 }

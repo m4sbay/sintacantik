@@ -27,24 +27,23 @@ export function QuizControls({
   const isLastQuestion = currentIndex >= totalQuestions - 1;
 
   return (
-    <div className="flex flex-col gap-3 rounded-[var(--radius)] border border-[var(--border)] bg-[var(--surface)] p-4 sm:flex-row sm:items-center sm:justify-between">
+    <div className="flex items-center justify-between gap-3 rounded-[var(--radius)] border border-[var(--border)] bg-[var(--surface)] p-4">
       <Button disabled={currentIndex === 0} variant="secondary" onClick={onPrevious}>
         <ChevronLeft aria-hidden="true" size={17} />
-        Sebelumnya
+        Previous
       </Button>
 
-      <div className="flex flex-col gap-3 sm:flex-row">
+      {isComplete ? (
+        <Button ref={submitButtonRef} onClick={onSubmit}>
+          Submit
+          <Send aria-hidden="true" size={17} />
+        </Button>
+      ) : (
         <Button disabled={isLastQuestion} variant="secondary" onClick={onNext}>
-          Selanjutnya
+          Next
           <ChevronRight aria-hidden="true" size={17} />
         </Button>
-        {isComplete ? (
-          <Button ref={submitButtonRef} onClick={onSubmit}>
-            <Send aria-hidden="true" size={17} />
-            Submit Jawaban
-          </Button>
-        ) : null}
-      </div>
+      )}
     </div>
   );
 }

@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import { SetupSessionForm } from "@/components/quiz/setup-session-form";
 import { ThemeToggle } from "@/components/ui/theme-toggle";
-import { questions } from "@/data/questions";
+import { questions } from "@/data/question-bank";
 import { countQuestionsByDifficulty } from "@/lib/quiz";
 
 const counts = countQuestionsByDifficulty(questions);
@@ -41,7 +41,7 @@ export default function Home() {
               <div className="flex items-center justify-between gap-3">
                 <div>
                   <h2 className="text-lg font-semibold">Bank Soal</h2>
-                  <p className="text-sm text-[var(--text-secondary)]">Data tervalidasi dari soal.md.</p>
+                  <p className="text-sm text-[var(--text-secondary)]">Bank Ortho dan TRY OUT dari berkas soal terverifikasi.</p>
                 </div>
                 <Database aria-hidden="true" className="text-[var(--primary)]" size={22} />
               </div>
@@ -50,6 +50,7 @@ export default function Home() {
                 <Badge tone="success">{counts.mudah} mudah</Badge>
                 <Badge tone="warning">{counts.sedang} sedang</Badge>
                 <Badge tone="danger">{counts.sulit} sulit</Badge>
+                {counts.unknown > 0 ? <Badge>{counts.unknown} belum diklasifikasi</Badge> : null}
               </div>
             </Card>
 
@@ -59,7 +60,7 @@ export default function Home() {
                 <div>
                   <h2 className="text-lg font-semibold">Validasi Build-Time</h2>
                   <p className="mt-1 text-sm text-[var(--text-secondary)]">
-                    Database soal akan gagal build jika ID, opsi, difficulty, atau pembahasan tidak valid.
+                    Bank soal diperiksa saat build: jumlah soal, ID unik, pilihan jawaban, dan kecocokan kunci jawaban.
                   </p>
                 </div>
               </div>
