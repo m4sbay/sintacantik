@@ -22,6 +22,9 @@ Seorang laki-laki berusia 50 tahun datang ke RSGM dengan keluhan gusi berdarah d
 **Jawaban Benar:**  
 A. Non-maleficence
 
+**Pembahasan:**
+Non-maleficence menuntut tenaga kesehatan menghindari tindakan maupun kelalaian yang memperburuk keselamatan pasien. Menolak begitu saja perdarahan yang tidak berhenti dapat menambah bahaya; risiko infeksi harus dikelola dengan prosedur perlindungan dan rujukan yang aman bila diperlukan.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Seorang laki-laki 25 tahun datang ke tempat praktek dokter gigi dengan keluhan g
 
 **Jawaban Benar:**  
 C. Autonomy
+
+**Pembahasan:**
+Autonomy menghormati hak pasien untuk menentukan tindakan setelah menerima informasi yang memadai. Penjelasan manfaat, risiko, alternatif, dan konsekuensi penolakan menjadi dasar persetujuan yang benar-benar dipahami pasien.
 
 ---
 
@@ -56,6 +62,9 @@ Pasien A ingin memeriksakan giginya ke dokter gigi B. pasien menceritakan riwaya
 **Jawaban Benar:**  
 D. Kontrak terapeutik
 
+**Pembahasan:**
+Kontrak terapeutik timbul dari kesepakatan pemberian pelayanan antara dokter dan pasien. Kewajiban dokter adalah melakukan upaya profesional sesuai standar, bukan menjamin kesembuhan tertentu sebagai hasil yang pasti.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang dokter gigi menjalankan praktik dengan menerapkan teknologi yang belum d
 
 **Jawaban Benar:**  
 B. MKDKI (Majelis Kehormatan Disiplin Kedokteran Indonesia)
+
+**Pembahasan:**
+Pelanggaran penerapan keilmuan dan standar praktik termasuk ranah disiplin profesi, yang dalam kerangka lama diperiksa MKDKI. Perlu review manual untuk konteks regulasi: mekanisme dan nomenklatur lembaga disiplin telah berubah, sehingga jawaban historis ini tidak boleh langsung dipakai sebagai petunjuk pengaduan terkini.
 
 ---
 
@@ -90,6 +102,9 @@ Seorang pasien berusia 5 tahun bersama ibunya datang ke tempat praktik dokter gi
 **Jawaban Benar:**  
 B. Nonmaleficence
 
+**Pembahasan:**
+Mengutamakan anak yang mengalami perdarahan merupakan upaya mencegah bahaya lebih lanjut. Prinsip non-maleficence mendukung prioritas berdasarkan kegawatan, bukan urutan kedatangan semata.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Seorang perempuan usia 25 tahun datang ke klinik paktek dokter gigi langganannya
 
 **Jawaban Benar:**  
 A. Memberikan RM dalam wujud ringkasan
+
+**Pembahasan:**
+Pasien berhak memperoleh informasi medis untuk melanjutkan perawatan. Ringkasan atau salinan isi rekam medis dapat diberikan melalui prosedur yang berlaku, sementara pengelolaan dokumen asli tetap menjadi tanggung jawab fasilitas pelayanan.
 
 ---
 
@@ -124,6 +142,9 @@ Seorang mahasiswa kedokteran gigi menjalankan praktek di suatu klinik milik kena
 **Jawaban Benar:**  
 D. Hukum dan disiplin
 
+**Pembahasan:**
+Selesainya requirement pendidikan tidak otomatis memberi kewenangan praktik mandiri. Praktik tanpa memenuhi kualifikasi, registrasi, perizinan, dan supervisi yang diperlukan menimbulkan persoalan hukum serta kepatuhan terhadap aturan profesi.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Seorang dokter gigi berdomisili di kota B, dan sudah terdaftar sebagai anggota P
 
 **Jawaban Benar:**  
 E. Mengajukan permohonan surat rekomendasi dari PDGI kota B untuk kemudian diserahkan pada PDGl kota C
+
+**Pembahasan:**
+Kunci menggambarkan alur rekomendasi antar-cabang organisasi profesi dalam prosedur lama. Perlu review manual: persyaratan perizinan praktik telah berubah, sehingga rekomendasi PDGI asal tidak boleh dinyatakan sebagai persyaratan universal SIP masa kini.
 
 ---
 
@@ -158,6 +182,9 @@ Seorang dokter gigi telah selesai menjalankan program studi kedokteran giginya. 
 **Jawaban Benar:**  
 E. Konsil Kedokteran Indonesia
 
+**Pembahasan:**
+Dalam kerangka hukum lama praktik kedokteran, Konsil Kedokteran Indonesia menerbitkan STR dokter dan dokter gigi. Perlu review manual untuk konteks waktu karena sistem registrasi dan kelembagaan kini mengikuti kerangka Konsil Kesehatan Indonesia serta peraturan pelaksananya.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Seorang dokter melakukan penelitian di dalam RSGM dan menggunakan rekam medik se
 
 **Jawaban Benar:**  
 D. Education value
+
+**Pembahasan:**
+Rekam medis dapat menjadi bahan pembelajaran melalui evaluasi kasus dan pengembangan pengetahuan. Perlu review manual: bila fokusnya penggunaan sebagai data penelitian, istilah research value lebih spesifik daripada education value, walaupun keduanya dapat saling berkaitan.
 
 ---
 
@@ -192,6 +222,9 @@ Seorang pasien perempuan datang ke klinik dokter gigi dengan keluhan terdapat be
 **Jawaban Benar:**  
 A. Level 1
 
+**Pembahasan:**
+Mendengar tanpa memberi tanggapan empatik yang jelas menunjukkan keterlibatan yang masih rendah. Perlu review manual: level empati Bylund–Makoul dinilai dari respons terhadap kesempatan empatik, sehingga aktivitas mendengar sambil menyiapkan alat saja belum cukup memastikan level 1.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Dokter gigi memiliki keahlian estetik memiliki peralatan modern dan praktek di k
 
 **Jawaban Benar:**  
 A. Etik murni
+
+**Pembahasan:**
+Promosi yang bersifat memuji diri atau menyesatkan dapat melanggar etika profesi. Perlu review manual: baliho dan internet sebagai media tidak otomatis merupakan pelanggaran; isi serta cara promosi dan aturan yang berlaku harus diketahui untuk menetapkan etik murni.
 
 ---
 
@@ -226,6 +262,9 @@ Dalam menjalankan prakteknya, dokter gigi A memilih pasien yang sesuai dengan pa
 **Jawaban Benar:**  
 D. Justice
 
+**Pembahasan:**
+Justice mengharuskan pelayanan diberikan secara adil tanpa diskriminasi yang tidak relevan secara klinis. Memilih pasien berdasarkan kesamaan partai mengutamakan preferensi pribadi dan melanggar kesetaraan akses pelayanan.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ seorang dokter gigi mendengarkan keluhan sakit yang dirasakan pasien. Dokter gig
 
 **Jawaban Benar:**  
 C. empati
+
+**Pembahasan:**
+Empati adalah memahami pengalaman serta perasaan pasien dan menyampaikan pemahaman itu secara profesional. Mendengarkan dengan perhatian membantu dokter menangkap dampak keluhan dari sudut pandang pasien.
 
 ---
 
@@ -260,6 +302,9 @@ dokter gigi yang bertugas di puskesmas x ingin menilai kebutuhan perawatan perio
 **Jawaban Benar:**  
 E. CPITN
 
+**Pembahasan:**
+CPITN dikembangkan untuk menilai kondisi periodontal dan kebutuhan perawatan pada tingkat populasi. Indeks ini menggunakan temuan seperti perdarahan, kalkulus, dan poket untuk mengelompokkan kebutuhan intervensi.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ hasil penelitian di wilayah pesisir kabupaten x yang 95 % penduduknya adalah nel
 
 **Jawaban Benar:**  
 D. tingkat kunjungan ke puskesmas rendah
+
+**Pembahasan:**
+Rendahnya kunjungan dapat menghambat deteksi serta penanganan masalah gigi di masyarakat dengan akses sulit. Perlu review manual: rendahnya kunjungan tidak menjelaskan langsung penyebab bercak email; paparan fluor, perkembangan email, dan diagnosis lesi perlu ditelusuri sebelum menyimpulkan faktor pemicu.
 
 ---
 
@@ -294,6 +342,9 @@ pasien datang ke drg dengan kondisi pipi bengkak dan tidak bisa buka mulut (tris
 **Jawaban Benar:**  
 D. lebih banyak menggunakan close question
 
+**Pembahasan:**
+Pertanyaan tertutup memungkinkan jawaban singkat atau isyarat ketika pasien sulit berbicara akibat trismus. Cara ini memudahkan penggalian informasi penting tanpa menambah beban komunikasi, kemudian riwayat dilengkapi setelah kondisi lebih memungkinkan.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ pasien yang rutin berobat gigi ke klinik suatu RS bermaksud untuk meminta ketera
 
 **Jawaban Benar:**  
 A. isi rekam medis
+
+**Pembahasan:**
+Isi rekam medis memuat informasi kesehatan yang menjadi hak pasien untuk diketahui dan diakses sesuai ketentuan. Hak ini berbeda dari kepemilikan atau penguasaan fisik dokumen yang dikelola fasilitas pelayanan kesehatan.
 
 ---
 
@@ -328,6 +382,9 @@ akibat pencabutan gigi saat pelaksanaan UKGS di sekolahnya seorang pasien harus 
 **Jawaban Benar:**  
 C. adverse event
 
+**Pembahasan:**
+Adverse event menggambarkan kejadian merugikan selama pelayanan yang perlu ditelaah penyebabnya dan tidak otomatis berarti kelalaian. Perlu review manual: munculnya diagnosis ameloblastoma setelah pencabutan tidak membuktikan tumor disebabkan pencabutan; hubungan kausal dan proses diagnosis harus diperiksa.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ seorang pasien mengalami syok anafilaktik setelah mendapat suntikan anestesi loc
 
 **Jawaban Benar:**  
 B. professional misconduct
+
+**Pembahasan:**
+Tindakan tanpa indikasi yang dapat dipertanggungjawabkan merupakan penyimpangan dari kewajiban profesional. Professional misconduct dinilai dari dasar tindakan dan kepatuhannya terhadap standar, bukan hanya karena reaksi anafilaksis terjadi.
 
 ---
 
@@ -362,6 +422,9 @@ drg menemukan tanda gumma yang diduga penyakit sifilis pada pasien pria yang dat
 **Jawaban Benar:**  
 E. menanyakan kepada pasien apakah istrinya boleh mendengarkan perihal penyakitnya
 
+**Pembahasan:**
+Meminta izin sebelum membahas penyakit di hadapan pasangan menghormati kerahasiaan dan autonomy pasien. Risiko penularan perlu dikomunikasikan serta dikelola sesuai ketentuan kesehatan masyarakat, tanpa otomatis membuka semua informasi kepada pendamping.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ seorang drg telah memasang papan nama praktek namun tidak datang praktek tanpa a
 
 **Jawaban Benar:**  
 D. penyimpangan kewajiban (dereliction of duty)
+
+**Pembahasan:**
+Dereliction of duty berarti tidak menjalankan kewajiban pelayanan yang telah timbul. Tidak hadir tanpa pengaturan pengganti atau informasi yang memadai dapat menjadi bentuk penyimpangan kewajiban, sedangkan kelalaian hukum secara lengkap juga memerlukan penilaian kerugian dan hubungan sebab akibat.
 
 ---
 
@@ -396,6 +462,9 @@ seorang laki-laki usia 42 th datang ke drg X dengan keluhan utama ada bercak ata
 **Jawaban Benar:**  
 E. justice
 
+**Pembahasan:**
+Menolak pasien hanya karena dugaan status HIV atau kadar CD4 merupakan perlakuan diskriminatif. Prinsip justice menuntut kebutuhan klinis dinilai secara adil, dengan kewaspadaan standar dan rujukan bila kompetensi atau fasilitas tidak memadai.
+
 ---
 
 ## Soal 24
@@ -413,6 +482,9 @@ Laki -laki usia 50 th datang ke klinik gigi ingin mencabut geraham bawah kanan a
 **Jawaban Benar:**  
 B. malefience
 
+**Pembahasan:**
+Riwayat obat perlu digali sebelum tindakan agar risiko perdarahan dapat diantisipasi. Kunci “malefience” merujuk pada aspek menimbulkan bahaya atau pelanggaran non-maleficence; penggunaan aspirin tidak otomatis harus dihentikan, tetapi harus masuk dalam penilaian dan rencana hemostasis.
+
 ---
 
 ## Soal 25
@@ -429,5 +501,8 @@ seorang drg melaksanaan penelitian dengan prosedur penelitian guna mendapat hasi
 
 **Jawaban Benar:**  
 C. beneficence
+
+**Pembahasan:**
+Beneficence menuntut penelitian memiliki manfaat yang bermakna dan dapat dipertanggungjawabkan. Manfaat potensial tetap harus ditimbang terhadap penderitaan hewan, disertai prinsip replacement, reduction, refinement, dan penilaian etik.
 
 ---

@@ -41,11 +41,11 @@ Generator menolak soal hilang, format tak dikenal, ID/nomor duplikat, dan kunci 
 
 ### Gambar soal
 
-Gunakan field `**Gambar:**` atau `**Gambar/Radiograf:**` dengan placeholder `[PLACEHOLDER GAMBAR — …]` seperti sumber yang ada. Generator mendeteksi field ini dan menentukan path `public/questions/<moduleId>/question-<nomor 2 digit>.webp`.
+Gunakan field `**Gambar:**` atau `**Gambar/Radiograf:**` dengan placeholder `[PLACEHOLDER GAMBAR — …]` seperti sumber yang ada. Generator mendeteksi field ini dan menentukan path `public/questions/<moduleId>/question-<nomor 2 digit>.png`.
 
 Letakkan gambar asli pada path yang dicatat di `docs/tryout-integration.md`, kemudian muat ulang halaman. Gambar langsung digunakan di kuis dan pembahasan; tidak perlu mengubah komponen atau menghapus penanda sumber. Gambar yang belum ada/gagal dimuat menampilkan fallback. Saat mempublikasikan versi berikutnya, sertakan file gambar dalam build.
 
-Sumber TRY OUT saat ini tidak menyertakan tingkat kesulitan maupun pembahasan. Keduanya opsional; UI menampilkan status belum diklasifikasi/belum tersedia, tanpa mengarang konten.
+Seluruh 355 soal TRY OUT sudah memiliki pembahasan pada sumber Markdown. Tingkat kesulitan tetap opsional dan belum diklasifikasi. Catatan soal yang perlu review manual tersedia di `docs/tryout-explanations.md`; kunci sumber tetap dipertahankan.
 
 ### Pembahasan soal
 
@@ -61,3 +61,5 @@ Paragraf singkat berikutnya bila diperlukan.
 ```
 
 Untuk Modul Ortho, isi bagian `### Pembahasan` di `soal.md`. Bagian ini boleh kosong/belum tersedia. Jalankan `npm run generate:questions` setelah mengedit sumber. Jangan edit file TypeScript hasil generate. Pembahasan baru otomatis tampil untuk soal terkait pada halaman hasil, tanpa mengubah kunci, opsi, atau perhitungan nilai.
+
+Gambar aktif: Konservasi soal 21 dan Radiologi Dental soal 19, menggunakan PNG asli. Generator membaca dimensi PNG untuk menjaga aspect ratio dan mengurangi layout shift. Metadata gambar Orthodonti dan Dental Material sudah dihapus; teks soal tetap dipertahankan.

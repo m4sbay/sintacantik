@@ -98,7 +98,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Infeksi dari molar ketiga mandibula dapat menyebar ke ruang submandibula dan menimbulkan pembengkakan rahang bawah. Kunci menunjuk abses submandibular kiri, tetapi batas anatomis ruang yang terlibat perlu dikonfirmasi melalui pemeriksaan klinis; data stem belum merincinya."
   },
   {
     "id": "tryout-bedah-mulut-002",
@@ -133,7 +134,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Enukleasi mengangkat seluruh dinding kista beserta isinya. Pada kista nasopalatina berbatas tegas dengan ukuran yang memungkinkan pengangkatan menyeluruh, tindakan ini juga menyediakan jaringan untuk pemeriksaan histopatologi."
   },
   {
     "id": "tryout-bedah-mulut-003",
@@ -168,7 +170,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Riwayat bibir tergigit dapat merusak saluran kelenjar ludah minor sehingga mukus keluar dan terkumpul di jaringan. Benjolan kebiruan, lunak-kistik pada bibir bawah merupakan gambaran khas mukokel."
   },
   {
     "id": "tryout-bedah-mulut-004",
@@ -203,7 +206,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Flap mukoperiosteal ketebalan penuh mengangkat mukosa dan periosteum sebagai satu kesatuan. Flap ini membuka akses ke tulang dan sisa akar sehingga ekstraksi terbuka dapat dilakukan dengan visualisasi yang memadai."
   },
   {
     "id": "tryout-bedah-mulut-005",
@@ -238,7 +242,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Nervus fasialis mengendalikan otot ekspresi wajah, termasuk penutupan kelopak mata. Anestetik yang masuk terlalu posterior ke daerah parotis saat blok mandibula dapat menimbulkan kelumpuhan fasialis sementara; arah tarikan mulut dalam stem perlu review manual karena biasanya tertarik ke sisi sehat."
   },
   {
     "id": "tryout-bedah-mulut-006",
@@ -273,7 +278,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Ketidakmampuan menutup mulut setelah membuka terlalu lebar mengarah ke dislokasi TMJ. Kondilus melewati eminensia artikularis dan tidak dapat kembali ke fossa, sehingga mandibula terkunci dalam posisi terbuka."
   },
   {
     "id": "tryout-bedah-mulut-007",
@@ -308,7 +314,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Gigi permanen yang avulsi dapat direplantasi, dan waktu ekstraoral yang singkat mendukung peluang mempertahankan jaringan periodontal. Penyimpanan dalam air mineral bukan media ideal, tetapi tidak otomatis meniadakan indikasi replantasi; penanganan lanjutan mempertimbangkan kondisi akar dan jaringan pendukung."
   },
   {
     "id": "tryout-bedah-mulut-008",
@@ -343,7 +350,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Struktur epitel menyerupai duktus atau kelenjar merupakan petunjuk histologis tumor odontogenik adenomatoid, yang pada opsi disebut ameloblastik adenomatoid tumor. Lokasi posterior mandibula dan radiolusensi multilokular kurang khas untuk lesi ini, sehingga kesesuaian keseluruhan kasus perlu review manual."
   },
   {
     "id": "tryout-bedah-mulut-009",
@@ -378,7 +386,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Glibenklamid menunjukkan riwayat pengobatan diabetes, sedangkan gula darah sewaktu 210 mg/dL memerlukan penilaian kontrol metabolik. Konsultasi penyakit dalam membantu menentukan kondisi sistemik dan rencana perawatan, bukan semata-mata memakai satu angka sebagai batas mutlak pencabutan."
   },
   {
     "id": "tryout-bedah-mulut-010",
@@ -413,7 +422,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Parasetamol tidak menghambat fungsi trombosit seperti aspirin dan sebagian NSAID. Karena pasien memakai clopidogrel dengan risiko perdarahan, parasetamol merupakan pilihan analgesik yang umumnya lebih sesuai dengan tetap memperhatikan dosis dan fungsi hati."
   },
   {
     "id": "tryout-bedah-mulut-011",
@@ -448,7 +458,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Gigi impaksi dengan operkulum meradang dapat menjadi sumber perikoronitis. Odontektomi menghilangkan sumber anatomis tersebut setelah kondisi akut dinilai dan ditangani; keputusan definitif mempertimbangkan risiko kekambuhan serta manfaat-risiko operasi."
   },
   {
     "id": "tryout-bedah-mulut-012",
@@ -483,7 +494,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Flap triangular memiliki insisi sulkular dan satu insisi pelepas sehingga akses ke gigi impaksi dan tulang sekitarnya lebih luas. Desain ini membantu visualisasi dan mobilisasi flap pada odontektomi molar ketiga."
   },
   {
     "id": "tryout-bedah-mulut-013",
@@ -518,7 +530,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Akar yang patah dan berada di bawah servikal sulit dijangkau dengan teknik tertutup. Metode terbuka memungkinkan pembuatan flap dan akses tulang seperlunya untuk mengambil akar secara terkontrol."
   },
   {
     "id": "tryout-bedah-mulut-014",
@@ -553,7 +566,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Perikoronitis merupakan inflamasi jaringan yang menutupi mahkota gigi yang erupsi sebagian. Operkulum merah, edema, nyeri, dan halitosis di sekitar molar ketiga merupakan petunjuk utamanya."
   },
   {
     "id": "tryout-bedah-mulut-015",
@@ -588,7 +602,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Trismus adalah keterbatasan membuka mulut akibat spasme atau inflamasi otot pengunyahan. Setelah blok mandibula, trauma jarum atau perdarahan di sekitar otot dapat memicu keluhan tersebut."
   },
   {
     "id": "tryout-bedah-mulut-016",
@@ -623,7 +638,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Kunci memilih anestesi tanpa adrenalin untuk menghindari tambahan efek simpatomimetik. Perlu review manual: tekanan darah 120/180 mmHg pada stem tidak konsisten, dan hipertensi atau diabetes terkontrol tidak selalu mengharuskan anestesi tanpa vasokonstriktor; keputusan memerlukan pengukuran ulang dan penilaian individual."
   },
   {
     "id": "tryout-bedah-mulut-017",
@@ -658,7 +674,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Napas berbau aseton dan kulit kering mengarah ke hiperglikemia dengan kemungkinan ketosis serta dehidrasi. Penurunan kesadaran pada konteks ini merupakan kegawatan yang membutuhkan pemeriksaan glukosa dan penanganan medis segera."
   },
   {
     "id": "tryout-bedah-mulut-018",
@@ -693,7 +710,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Kista dentigerous berhubungan dengan mahkota gigi yang belum erupsi dan biasanya melekat di sekitar pertemuan email-sementum. Radiolusensi berbatas kortikasi yang mengelilingi mahkota gigi impaksi merupakan petunjuk penting."
   },
   {
     "id": "tryout-bedah-mulut-019",
@@ -728,7 +746,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Kedekatan akar molar atas dengan sinus meningkatkan risiko komunikasi oroantral setelah ekstraksi. Kunci menyebut nose blowing test untuk mendeteksi aliran udara melalui soket, tetapi manuver tidak boleh dilakukan kuat atau berulang karena dapat memperbesar defek; perlu review manual terhadap cara evaluasinya."
   },
   {
     "id": "tryout-bedah-mulut-020",
@@ -763,7 +782,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Vasodilatasi dapat menurunkan tekanan darah dan perfusi serebral. Namun nyeri injeksi, tangan dingin-berkeringat, dan hipotensi juga mendukung respons vasovagal; penyebab tidak dapat dipastikan sebagai efek anestetik hanya dari stem, sehingga kunci ini perlu review manual."
   },
   {
     "id": "tryout-bedah-mulut-021",
@@ -798,7 +818,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Sinusitis berada di sinus maksilaris kiri, sehingga sumber gigi yang sesuai juga dicari di sisi kiri. Lesi periapikal gigi 26 dan 27 berdekatan dengan dasar sinus dan dapat menjadi fokus infeksi odontogenik."
   },
   {
     "id": "tryout-bedah-mulut-022",
@@ -833,7 +854,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Fraktur Le Fort II berpola piramidal dan melibatkan kompleks maksila serta nasal. Mobilitas maksila bersama tulang hidung disertai ekimosis periorbital mendukung pola tersebut."
   },
   {
     "id": "tryout-bedah-mulut-023",
@@ -868,7 +890,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Pada resusitasi orang dewasa tanpa jalan napas lanjut, kompresi dan ventilasi diberikan dengan rasio 30:2. Rasio ini menjaga sirkulasi melalui kompresi berulang sambil menyediakan ventilasi di antara siklusnya."
   },
   {
     "id": "tryout-bedah-mulut-024",
@@ -903,7 +926,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Mepivakain 3% tersedia sebagai anestetik lokal tanpa vasokonstriktor dan memiliki efek vasodilatasi yang relatif kecil. Ini menjelaskan pilihan pada soal, tetapi diabetes sendiri bukan larangan mutlak pemakaian adrenalin dalam dosis yang sesuai."
   },
   {
     "id": "tryout-bedah-mulut-025",
@@ -938,7 +962,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Molar pertama atas terutama dipersarafi cabang alveolar superior posterior, dengan kontribusi cabang media pada akar mesiobukal yang bervariasi. Jaringan palatalnya mendapat persarafan nervus palatinus mayor, sehingga pencabutan memerlukan anestesi pulpal dan palatal yang memadai."
   },
   {
     "id": "tryout-bedah-mulut-026",
@@ -973,7 +998,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Pada anak, tulang lebih lentur sehingga dapat mengalami fraktur tidak lengkap atau greenstick. Usia muda dan tidak adanya pergeseran fragmen mendukung kunci, meskipun fraktur tanpa displacement saja belum membuktikan pola greenstick tanpa gambaran korteks yang lebih jelas."
   },
   {
     "id": "tryout-bedah-mulut-027",
@@ -1008,7 +1034,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Tekanan tampon membantu pembentukan dan stabilisasi bekuan darah di soket. Menghindari berkumur keras mengurangi terlepasnya bekuan secara mekanis, sehingga penyembuhan lebih terlindungi; istilah lisis pada opsi dipakai secara luas untuk kehilangan bekuan."
   },
   {
     "id": "tryout-bedah-mulut-028",
@@ -1043,7 +1070,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Artrosentesis adalah pembilasan ruang sendi melalui jarum untuk mengeluarkan mediator inflamasi dan membantu melepaskan adhesi ringan. Deskripsi dua saluran untuk irigasi TMJ sesuai dengan prosedur ini."
   },
   {
     "id": "tryout-bedah-mulut-029",
@@ -1078,7 +1106,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Fistula bernanah, pembengkakan menetap, sumber infeksi gigi, dan parestesia mendukung keterlibatan tulang berupa osteomielitis supuratif. Namun durasi tujuh hari saja belum cukup membuktikan bentuk kronis, sehingga penetapan kronis perlu review manual dan pemeriksaan radiologis."
   },
   {
     "id": "tryout-bedah-mulut-030",
@@ -1113,7 +1142,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Bedah Mulut"
+    "topic": "Bedah Mulut",
+    "explanation": "Pada dislokasi anterior TMJ, kondilus bergerak melewati eminensia artikularis. Posisi di depan eminensia membuat kondilus sulit kembali ke fossa, sehingga mulut tidak dapat ditutup."
   },
   {
     "id": "tryout-konservasi-001",
@@ -1148,7 +1178,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Nyeri saat menggigit dan perkusi positif menunjukkan inflamasi jaringan sekitar apeks. Pelebaran ligamen periodontal mendukung periodontitis apikalis simtomatik meskipun gigi sudah menjalani perawatan saluran akar."
   },
   {
     "id": "tryout-konservasi-002",
@@ -1183,7 +1214,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Saluran akar yang telah diisi dan riwayat perawatan endodontik lengkap masuk kategori previously treated. Istilah ini menjelaskan status perawatan pulpa, sedangkan nyeri perkusi dinilai terpisah sebagai diagnosis jaringan apikal."
   },
   {
     "id": "tryout-konservasi-003",
@@ -1218,7 +1250,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Nyeri spontan, menetap, menjalar, dan mengganggu tidur menunjukkan inflamasi pulpa yang berat. Pulpektomi mengangkat jaringan pulpa dari kamar dan saluran akar sebagai bagian perawatan endodontik pada gigi yang masih dapat dipertahankan."
   },
   {
     "id": "tryout-konservasi-004",
@@ -1253,7 +1286,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Kunci mengaitkan pemilihan file awal dengan perkiraan diameter apikal pada radiograf. Perlu review manual: initial apical file secara klinis ditentukan dengan penilaian saluran dan file yang mengikat di panjang kerja, bukan semata-mata menyamakan ukuran file dengan foto dua dimensi."
   },
   {
     "id": "tryout-konservasi-005",
@@ -1288,7 +1322,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Kon utama dan kon tambahan yang dipadatkan ke samping tanpa pemanasan merupakan ciri cold lateral condensation. Spreader membentuk ruang bagi kon aksesori sehingga pengisian saluran menjadi lebih rapat."
   },
   {
     "id": "tryout-konservasi-006",
@@ -1323,7 +1358,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Karies pada permukaan proksimal gigi posterior termasuk kelas II. Resin komposit memenuhi kebutuhan restorasi sewarna gigi bila isolasi dan sisa struktur gigi memadai."
   },
   {
     "id": "tryout-konservasi-007",
@@ -1358,7 +1394,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Etsa menyiapkan permukaan untuk retensi mikromekanis, kemudian bonding membentuk perlekatan ke jaringan gigi. Pada sistem yang disebutkan, bonding disinar sebelum penempatan komposit, lalu komposit dipolimerisasi dan restorasi diakhiri dengan finishing serta polishing."
   },
   {
     "id": "tryout-konservasi-008",
@@ -1393,7 +1430,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Kehilangan jaringan yang cukup lebar pada gigi pascaperawatan saluran akar meningkatkan risiko fraktur cusp. Onlay memberikan perlindungan cusp sambil mempertahankan jaringan bukal dan lingual yang masih baik."
   },
   {
     "id": "tryout-konservasi-009",
@@ -1428,7 +1466,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Nyeri spontan pada pulpa yang masih vital mendukung pulpitis ireversibel simtomatik. Nyeri mengunyah, perkusi positif, dan pelebaran ligamen periodontal menunjukkan keterlibatan apikal berupa periodontitis apikalis simtomatik."
   },
   {
     "id": "tryout-konservasi-010",
@@ -1463,7 +1502,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Lesi proksimal-oklusal gigi posterior merupakan kavitas kelas II. Ukuran yang relatif terbatas dan cusp yang masih terdukung memungkinkan restorasi langsung resin komposit."
   },
   {
     "id": "tryout-konservasi-011",
@@ -1498,7 +1538,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Tes vitalitas negatif dan lesi periapikal menunjukkan saluran akar sebagai sumber infeksi. Perawatan saluran akar membersihkan serta mendisinfeksi sistem saluran sebelum pengisian dan restorasi koronal."
   },
   {
     "id": "tryout-konservasi-012",
@@ -1533,7 +1574,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Paparan pulpa kecil akibat preparasi dapat dipertimbangkan untuk direct pulp capping bila pulpa masih sesuai untuk terapi vital dan perdarahan dapat dikendalikan. Bahan penutup diletakkan langsung pada paparan untuk melindungi pulpa dan mendukung pembentukan jaringan keras."
   },
   {
     "id": "tryout-konservasi-013",
@@ -1568,7 +1610,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Anestesi dan akses memungkinkan pengangkatan pulpa serta pembersihan sistem saluran. Preparasi dilakukan bersama irigasi, kemudian medikamen bila diperlukan dan tumpatan sementara menjaga saluran dari kontaminasi antar-kunjungan."
   },
   {
     "id": "tryout-konservasi-014",
@@ -1603,7 +1646,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Pulpa masih vital dan dipisahkan dari karies oleh lapisan dentin tipis, tanpa tanda jelas penyakit apikal. Indirect pulp capping bertujuan mempertahankan vitalitas dengan menghindari paparan pulpa dan memberi segel restorasi yang baik."
   },
   {
     "id": "tryout-konservasi-015",
@@ -1638,7 +1682,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Crown down dimulai dari pelebaran bagian koronal lalu bergerak ke arah apikal. Urutan ini berbeda dari step back yang membentuk bagian apikal lebih dahulu lalu mundur ke koronal."
   },
   {
     "id": "tryout-konservasi-016",
@@ -1673,7 +1718,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Gigi nonvital dengan bengkak dan nyeri apikal mengarah ke infeksi endodontik akut. Trepanasi membuka akses untuk debridemen dan kemungkinan drainase melalui saluran, dilanjutkan pengendalian infeksi; gigi tidak dibiarkan terbuka tanpa rencana perawatan."
   },
   {
     "id": "tryout-konservasi-017",
@@ -1708,7 +1754,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Tes anestesi selektif membantu melokalisasi sumber nyeri ketika pasien sulit menunjuk gigi penyebab. Hilangnya nyeri setelah suatu wilayah dianestesi menjadi petunjuk, tetapi hasilnya harus dikaitkan dengan pemeriksaan lain karena anestesi dapat menyebar."
   },
   {
     "id": "tryout-konservasi-018",
@@ -1743,7 +1790,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Veneer komposit menutupi permukaan labial sehingga dapat memperbaiki warna dan defek email anterior. Pendekatan ini sesuai bila gigi vital dan kebutuhan estetik tidak memerlukan pengurangan jaringan untuk mahkota penuh."
   },
   {
     "id": "tryout-konservasi-019",
@@ -1778,7 +1826,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Bahan adhesif membentuk perlekatan antara jaringan gigi dan resin komposit setelah persiapan permukaan yang sesuai. Ikatan ini membantu retensi serta mengurangi celah marginal pada restorasi anterior."
   },
   {
     "id": "tryout-konservasi-020",
@@ -1813,7 +1862,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Kelas I mencakup karies pada pit dan fisur, termasuk pit lingual di sekitar singulum gigi anterior. Klasifikasi ditentukan oleh lokasi pit tersebut, bukan hanya karena giginya berada di regio anterior."
   },
   {
     "id": "tryout-konservasi-021",
@@ -1849,9 +1899,12 @@ export const tryoutQuestions = [
     ],
     "correctAnswer": "C",
     "topic": "Konservasi",
+    "explanation": "Penelusuran saluran sinus dengan bahan radiopak membantu menentukan ujung jalur drainase pada radiograf. Jalur tersebut dapat mengarah ke gigi penyebab infeksi, yang tidak selalu tepat di sebelah benjolan gingiva.",
     "image": {
-      "src": "/questions/konservasi/question-21.webp",
-      "alt": "Gambar soal 21 — Konservasi"
+      "src": "/questions/konservasi/question-21.png",
+      "alt": "Gambar soal 21 — Konservasi",
+      "width": 488,
+      "height": 492
     }
   },
   {
@@ -1887,7 +1940,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Nyeri yang hanya dipicu rangsangan, tanpa nyeri spontan, mendukung upaya mempertahankan pulpa vital. Indirect pulp capping menjaga dentin yang tersisa di dekat pulpa dan menutup kavitas untuk mengendalikan rangsangan serta bakteri."
   },
   {
     "id": "tryout-konservasi-023",
@@ -1922,7 +1976,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Gigi nonvital dengan perkusi positif memerlukan pengendalian infeksi di dalam sistem saluran akar. Perawatan endodontik intrakanal mencakup pembersihan, disinfeksi, dan pengisian saluran untuk mempertahankan gigi."
   },
   {
     "id": "tryout-konservasi-024",
@@ -1957,7 +2012,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Resorpsi internal berasal dari dinding bagian dalam ruang pulpa. Radiograf dapat memperlihatkan pelebaran membulat yang menyatu dengan kontur saluran, berbeda dari defek yang berasal dari permukaan akar luar."
   },
   {
     "id": "tryout-konservasi-025",
@@ -1992,7 +2048,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Kerusakan yang meluas ke cusp membuat restorasi intrakoronal saja kurang memberi perlindungan. Onlay menutupi cusp yang terlibat sehingga membantu menahan beban kunyah dan mengurangi risiko fraktur lebih lanjut."
   },
   {
     "id": "tryout-konservasi-026",
@@ -2027,7 +2084,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Jaringan granulasi yang mudah berdarah dari kavitas besar menunjukkan pulpa masih memiliki jaringan vital yang meradang. Perlu review manual: istilah kunci “Pulpekpotomi” tidak baku dan dapat tertukar dengan pulpektomi atau pulpotomi; pilihan prosedur perlu diperjelas tanpa mengubah kunci sumber."
   },
   {
     "id": "tryout-konservasi-027",
@@ -2062,7 +2120,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Tulang kortikal maksila anterior relatif tipis sehingga anestesi infiltrasi dapat mencapai cabang saraf gigi 21. Karena itu infiltrasi lazim digunakan untuk memperoleh anestesi pulpal pada insisivus atas."
   },
   {
     "id": "tryout-konservasi-028",
@@ -2097,7 +2156,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Nyeri yang dipicu termal lalu menjalar dan bertambah saat berbaring menunjukkan inflamasi pulpa yang bermakna. Kunci memakai istilah lama pulpitis akut serosa; gejala saja tidak memastikan bentuk histologis serosa, sehingga padanannya dengan diagnosis pulpa modern perlu review manual."
   },
   {
     "id": "tryout-konservasi-029",
@@ -2132,7 +2192,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "GIC pada fase awal pengerasan sensitif terhadap kehilangan maupun penyerapan air. Lapisan varnish atau pelindung permukaan membantu menjaga keseimbangan air sehingga mengurangi retak permukaan akibat pengeringan."
   },
   {
     "id": "tryout-konservasi-030",
@@ -2167,7 +2228,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Konservasi"
+    "topic": "Konservasi",
+    "explanation": "Panjang kerja menentukan batas preparasi dan pengisian saluran akar. Setelah akses serta eksplorasi awal, panjang ini ditetapkan dengan penilaian elektronik/radiografis agar instrumentasi tidak terlalu pendek atau melewati apeks."
   },
   {
     "id": "tryout-oral-medicine-001",
@@ -2202,7 +2264,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Asiklovir menghambat replikasi virus herpes simpleks penyebab gingivostomatitis herpetik primer. Terapi antivirus terutama dipertimbangkan pada fase dini atau gejala yang berat, disertai perawatan suportif untuk nyeri dan kecukupan cairan."
   },
   {
     "id": "tryout-oral-medicine-002",
@@ -2237,7 +2300,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Actinic cheilitis berkaitan dengan kerusakan kronis akibat radiasi ultraviolet, terutama pada bibir bawah yang lebih terpapar. Bibir kering, bersisik, dan batas vermilion yang mengabur merupakan petunjuk klinisnya."
   },
   {
     "id": "tryout-oral-medicine-003",
@@ -2272,7 +2336,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Aspirin yang ditempel langsung pada mukosa dapat menyebabkan luka bakar kimia. Jaringan epitel mengalami nekrosis sehingga tampak putih, nyeri, dan dapat terkelupas; aspirin bukan bahan obat topikal untuk gigi berlubang."
   },
   {
     "id": "tryout-oral-medicine-004",
@@ -2307,7 +2372,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Linea alba biasanya berupa garis putih horizontal pada mukosa bukal setinggi bidang oklusal. Bentuk dan lokasi khas akibat gesekan memungkinkan diagnosis klinis, sedangkan lesi yang tidak khas atau berubah memerlukan evaluasi tambahan."
   },
   {
     "id": "tryout-oral-medicine-005",
@@ -2342,7 +2408,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Hubungan waktu timbulnya ulkus dengan gigitan, tepi gigi tajam, atau trauma lain merupakan petunjuk utama ulkus traumatik. Diagnosis diperkuat oleh perbaikan setelah penyebab dihilangkan; ulkus menetap perlu diperiksa lebih lanjut."
   },
   {
     "id": "tryout-oral-medicine-006",
@@ -2377,7 +2444,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Karsinoma adenoid kistik berasal dari kelenjar saliva dan dapat menunjukkan pola tubular atau kribriform. Perlu review manual: kelenjar irregular dan sel atipik saja tidak spesifik untuk tumor ini, sehingga pola histopatologi dan pemeriksaan lanjutan diperlukan untuk mendukung kunci."
   },
   {
     "id": "tryout-oral-medicine-007",
@@ -2412,7 +2480,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Geographic tongue ditandai area depapilasi kemerahan yang bentuk dan lokasinya berubah dari waktu ke waktu. Sifat berpindah serta dapat menghilang spontan membedakannya dari lesi merah yang menetap."
   },
   {
     "id": "tryout-oral-medicine-008",
@@ -2447,7 +2516,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Partikel amalgam yang masuk ke jaringan dapat menghasilkan makula abu-abu kehitaman di dekat restorasi. Kedekatan lesi dengan tambalan amalgam subgingiva mendukung amalgam tattoo, tetapi pigmentasi yang tidak khas tetap perlu evaluasi."
   },
   {
     "id": "tryout-oral-medicine-009",
@@ -2482,7 +2552,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Ranula adalah kumpulan mukus pada dasar mulut, umumnya berkaitan dengan kelenjar sublingual. Benjolan kebiruan, lunak, dan dapat menggeser lidah sesuai dengan gambaran tersebut."
   },
   {
     "id": "tryout-oral-medicine-010",
@@ -2517,7 +2588,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Eritema multiforme dapat muncul akut dengan erosi mulut dan krusta hemoragik pada bibir setelah pemicu tertentu. Hubungan dengan obat mendukung kecurigaan, tetapi keterlibatan mata, kulit luas, atau kondisi sistemik berat perlu segera dinilai untuk reaksi mukokutan yang lebih serius."
   },
   {
     "id": "tryout-oral-medicine-011",
@@ -2552,7 +2624,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Tepi gigi 46 yang tajam dapat terus melukai sisi lidah saat berfungsi. Menghaluskan bagian tajam menghilangkan penyebab mekanis ulkus, kemudian penyembuhannya perlu dipantau."
   },
   {
     "id": "tryout-oral-medicine-012",
@@ -2587,7 +2660,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Atrophic glossitis ditandai hilangnya papila sehingga lidah terlihat merah, licin, dan mengilap. Nyeri serta gangguan pengecapan dapat menyertainya; penyebab nutrisi, hematologis, maupun lokal perlu ditelusuri, bukan disimpulkan hanya dari riwayat maag."
   },
   {
     "id": "tryout-oral-medicine-013",
@@ -2622,7 +2696,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Kemerahan mengikuti basis gigi tiruan yang jarang dibersihkan mendukung denture stomatitis dengan keterlibatan Candida. Antijamur perlu disertai pembersihan gigi tiruan dan pelepasan saat tidur agar faktor pemicunya teratasi."
   },
   {
     "id": "tryout-oral-medicine-014",
@@ -2657,7 +2732,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Massa gingiva merah, lunak, bertangkai, dan mudah berdarah mendukung lesi reaktif granulomatosa. Kalkulus menjadi iritan lokal yang dapat memicu pertumbuhan tersebut, sedangkan diagnosis pasti memerlukan pemeriksaan jaringan bila lesi diangkat."
   },
   {
     "id": "tryout-oral-medicine-015",
@@ -2692,7 +2768,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Scrotal tongue merupakan istilah lain untuk fissured tongue atau lidah berfisur. Alur-alur pada lidah tanpa perubahan warna atau gejala berat umumnya merupakan variasi jinak; kebersihan lidah membantu mencegah penumpukan debris."
   },
   {
     "id": "tryout-oral-medicine-016",
@@ -2727,7 +2804,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Ulkus kecil pada palatum lunak, tonsil, dan pilar fauces setelah demam merupakan pola herpangina. Penyakit ini umumnya disebabkan enterovirus, termasuk Coxsackie virus."
   },
   {
     "id": "tryout-oral-medicine-017",
@@ -2762,7 +2840,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Lesi berkelompok di batas bibir-kulit yang berkembang menjadi erosi dan krusta khas untuk herpes labialis. Rasa gatal atau perih sebelum lesi muncul dapat menjadi gejala prodromal reaktivasi HSV."
   },
   {
     "id": "tryout-oral-medicine-018",
@@ -2797,7 +2876,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Plak putih yang dapat dikerok dan meninggalkan mukosa merah merupakan ciri kandidiasis pseudomembran. Penggunaan antibiotik berkepanjangan mengganggu flora normal sehingga memudahkan pertumbuhan Candida."
   },
   {
     "id": "tryout-oral-medicine-019",
@@ -2832,7 +2912,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Pembengkakan nyeri di depan telinga dengan demam mengarah ke parotitis epidemika atau gondongan. Virus penyebabnya termasuk keluarga Paramyxoviridae, sesuai pilihan Paramyxovirus."
   },
   {
     "id": "tryout-oral-medicine-020",
@@ -2867,7 +2948,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Riwayat jatuh dengan luka bibir dan gigi yang fraktur menunjukkan penyebab mekanis yang jelas. Ulkus traumatik timbul akibat kerusakan mukosa, sehingga penanganan juga harus mengatasi bagian gigi yang melukai jaringan."
   },
   {
     "id": "tryout-oral-medicine-021",
@@ -2902,7 +2984,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Nyeri dan bengkak yang meningkat ketika produksi saliva dirangsang menunjukkan hambatan aliran kelenjar. Massa keras dalam duktus dengan gambaran radiopak mendukung batu saliva atau sialolitiasis."
   },
   {
     "id": "tryout-oral-medicine-022",
@@ -2937,7 +3020,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Defisiensi vitamin B12 dapat mengganggu pembentukan darah serta kesehatan mukosa dan berhubungan dengan angular cheilitis. Perlu review manual: pola makan buruk dan fisura komisura tidak cukup menentukan anemia B12 secara spesifik; pemeriksaan darah serta penilaian zat besi dan vitamin lain diperlukan."
   },
   {
     "id": "tryout-oral-medicine-023",
@@ -2972,7 +3056,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Epulis fissuratum adalah hiperplasia jaringan akibat iritasi kronis tepi gigi tiruan. Lipatan di vestibulum dekat basis yang longgar sesuai dengan jaringan yang berulang kali tertekan dan tergesek."
   },
   {
     "id": "tryout-oral-medicine-024",
@@ -3007,7 +3092,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Gigi tiruan yang tidak sesuai dapat menyebabkan trauma dan menciptakan lingkungan yang mendukung denture stomatitis. Namun haus, lapar, dan sering berkemih juga mengarah ke kemungkinan diabetes, sehingga faktor sistemik ini perlu diperiksa dan tidak diabaikan."
   },
   {
     "id": "tryout-oral-medicine-025",
@@ -3042,7 +3128,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Hubungan lesi bibir akut dengan obat baru mengharuskan identifikasi serta penghentian pemicu yang dicurigai melalui evaluasi klinis. Terapi antiinflamasi dapat dipertimbangkan sesuai diagnosis dan derajat keparahan, disertai penilaian tanda reaksi obat berat."
   },
   {
     "id": "tryout-oral-medicine-026",
@@ -3077,7 +3164,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Kombinasi vesikel atau ulkus mulut dengan lesi pada telapak tangan dan kaki khas untuk hand, foot, and mouth disease. Coxsackie virus merupakan salah satu enterovirus penyebab utama penyakit ini."
   },
   {
     "id": "tryout-oral-medicine-027",
@@ -3112,7 +3200,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Garis putih berbentuk jala yang tidak dapat dikerok merupakan striae Wickham, petunjuk oral lichen planus. Dasar eritematous dapat menyebabkan rasa terbakar, terutama saat terkena makanan pedas."
   },
   {
     "id": "tryout-oral-medicine-028",
@@ -3147,7 +3236,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Ranula dapat ditangani dengan marsupialisasi, yaitu membuka lesi dan mempertahankan jalan drainase ke rongga mulut. Pemilihan teknik mempertimbangkan ukuran, kekambuhan, serta keterlibatan kelenjar sublingual karena beberapa kasus memerlukan tindakan lain."
   },
   {
     "id": "tryout-oral-medicine-029",
@@ -3182,7 +3272,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Bentuk obat kumur dapat menjangkau banyak ulkus kecil yang tersebar di beberapa lokasi mukosa. Bahan aktif dipilih sesuai diagnosis; distribusi lesi pada mukosa berkeratin dan tidak berkeratin tetap perlu dinilai agar tidak salah menganggap semua ulkus sebagai aftosa."
   },
   {
     "id": "tryout-oral-medicine-030",
@@ -3217,7 +3308,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Oral Medicine"
+    "topic": "Oral Medicine",
+    "explanation": "Defisiensi B12 dapat berkaitan dengan ulkus berulang dan gangguan mukosa. Perlu review manual: stem justru menyebut trauma gigitan dan tidak memberikan bukti defisiensi, sehingga B12 belum dapat dinyatakan sebagai faktor risiko paling berperan tanpa evaluasi tambahan."
   },
   {
     "id": "tryout-periodontologi-001",
@@ -3252,7 +3344,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Bleeding on probing menunjukkan jaringan gingiva mudah berdarah ketika diperiksa dengan tekanan probing yang sesuai. Temuan ini merupakan tanda inflamasi, terutama bila disertai plak atau kalkulus, tetapi tidak sendirian membuktikan kehilangan perlekatan periodontal."
   },
   {
     "id": "tryout-periodontologi-002",
@@ -3287,7 +3380,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Aggregatibacter actinomycetemcomitans dikaitkan dengan sebagian pola periodontitis progresif pada usia muda. Kerusakan berat dengan plak relatif sedikit mendukung alasan kunci, tetapi bakteri dominan tidak dapat dipastikan hanya melalui gambaran klinis tanpa pemeriksaan mikrobiologis."
   },
   {
     "id": "tryout-periodontologi-003",
@@ -3322,7 +3416,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kalkulus/plak yang banyak, inflamasi, kegoyangan, dan kehilangan tulang horizontal mendukung periodontitis yang dalam klasifikasi lama disebut kronis. Diabetes dapat memodifikasi risiko serta respons penyembuhan; klasifikasi modern menggunakan stadium dan derajat penyakit."
   },
   {
     "id": "tryout-periodontologi-004",
@@ -3357,7 +3452,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Papila berbentuk crater, nyeri, perdarahan, dan gejala sistemik sesuai penyakit gingiva nekrotik. Kunjungan awal berfokus pada debridemen lembut, pembersihan supragingiva, serta medikasi sesuai kebutuhan untuk mengendalikan fase akut."
   },
   {
     "id": "tryout-periodontologi-005",
@@ -3392,7 +3488,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Trauma oklusi sekunder terjadi ketika gaya oklusal bekerja pada jaringan penyangga yang sudah berkurang. Poket dalam dan kerusakan tulang menandakan dukungan periodontal terganggu, sedangkan gigi yang miring setelah kehilangan tetangga dapat menerima beban tidak menguntungkan."
   },
   {
     "id": "tryout-periodontologi-006",
@@ -3427,7 +3524,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Alat ortodontik dapat memudahkan retensi plak sehingga memicu pembesaran gingiva inflamatorik kronis. Gingiva merah, BOP positif, dan tidak adanya kehilangan tulang mendukung pembesaran dengan pseudopoket dibanding kerusakan periodontal tulang."
   },
   {
     "id": "tryout-periodontologi-007",
@@ -3462,7 +3560,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Pada poket infraboni, dasar poket terletak lebih apikal daripada puncak tulang alveolar yang berdekatan. Defek tulang anguler atau vertikal mendukung konfigurasi ini."
   },
   {
     "id": "tryout-periodontologi-008",
@@ -3497,7 +3596,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Gingivektomi dapat menghilangkan pembesaran gingiva dan pseudopoket tanpa kehilangan tulang bila kondisi jaringan memungkinkan. Tindakan dilakukan setelah pengendalian plak dan evaluasi obat penyebab, bukan hanya karena pasien memiliki hipertensi."
   },
   {
     "id": "tryout-periodontologi-009",
@@ -3532,7 +3632,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Eksisi dapat dipertimbangkan bila epulis mengganggu fungsi atau menyebabkan perdarahan yang sulit dikendalikan. Perlu review manual: trimester pertama bukan waktu rutin yang wajib untuk eksisi elektif; lesi kehamilan sering ditangani dengan kontrol iritan dan pemantauan, sedangkan tindakan ditentukan kebutuhan klinis."
   },
   {
     "id": "tryout-periodontologi-010",
@@ -3567,7 +3668,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Pocket marker menandai kedalaman poket pada permukaan gingiva sebelum eksisi. Pisau Kirkland digunakan pada permukaan fasial/lingual, sedangkan pisau Orban membantu area interdental dalam prosedur gingivektomi."
   },
   {
     "id": "tryout-periodontologi-011",
@@ -3602,7 +3704,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kegoyangan derajat 2 berarti pergerakan horizontal lebih dari 1 mm tanpa mobilitas vertikal. Perlu review manual: resesi Miller kelas II justru mencapai atau melewati mucogingival junction tanpa kehilangan jaringan interdental, sehingga bagian deskripsi resesi dalam kunci tidak konsisten."
   },
   {
     "id": "tryout-periodontologi-012",
@@ -3637,7 +3740,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kuret Gracey merupakan instrumen spesifik area untuk debridemen subgingiva dan permukaan akar. Instrumen ini dapat dipakai dalam tindakan periodontal, tetapi istilah fase 2 perlu diperjelas karena SRP umumnya termasuk terapi awal nonbedah."
   },
   {
     "id": "tryout-periodontologi-013",
@@ -3672,7 +3776,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kebersihan mulut yang buruk menunjukkan biofilm dan kalkulus sebagai faktor lokal yang harus dikendalikan terlebih dahulu. Skeling merupakan langkah awal untuk mengurangi inflamasi sebelum menilai kebutuhan splint atau tindakan lanjutan."
   },
   {
     "id": "tryout-periodontologi-014",
@@ -3707,7 +3812,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Penyakit gingiva nekrotik dengan nyeri dan demam memerlukan penanganan kegawatan terlebih dahulu. Preliminary phase bertujuan mengendalikan gejala akut sebelum melanjutkan terapi periodontal komprehensif."
   },
   {
     "id": "tryout-periodontologi-015",
@@ -3742,7 +3848,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Amoksisilin dan metronidazol memberikan cakupan terhadap kelompok bakteri periodontal yang berbeda. Kombinasi ini dapat menjadi tambahan pada kasus terpilih dengan progresi cepat, tetapi tidak rutin diberikan hanya karena poket dalam dan tidak menggantikan debridemen mekanis."
   },
   {
     "id": "tryout-periodontologi-016",
@@ -3777,7 +3884,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Periodontitis ditandai kerusakan perlekatan dan tulang penyangga, bukan sekadar gingiva merah. Kombinasi poket, inflamasi, dan kehilangan tulang pada radiograf mendukung diagnosis yang disebut kronis dalam klasifikasi lama."
   },
   {
     "id": "tryout-periodontologi-017",
@@ -3812,7 +3920,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Edema dapat menggeser margin gingiva ke arah koronal sehingga kedalaman probing meningkat tanpa migrasi perlekatan ke apikal. Kondisi ini disebut pseudopoket, berbeda dari poket periodontal sejati dengan kehilangan perlekatan."
   },
   {
     "id": "tryout-periodontologi-018",
@@ -3847,7 +3956,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kunci menafsirkan perubahan puncak tulang sebagai periodontitis generalis. Perlu review manual: jarak crest sekitar 2 mm dari CEJ dan poket 3 mm dapat masih berada dalam rentang normal, sehingga diperlukan bukti kehilangan perlekatan serta distribusinya untuk membedakan periodontitis dari gingivitis."
   },
   {
     "id": "tryout-periodontologi-019",
@@ -3882,7 +3992,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Splint membantu menstabilkan gigi yang goyang sehingga fungsi dan kenyamanan membaik. Pada poket dalam yang menetap setelah terapi awal, flap periodontal memberi akses debridemen dan penilaian defek vertikal untuk perawatan lanjutan."
   },
   {
     "id": "tryout-periodontologi-020",
@@ -3917,7 +4028,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Gracey 11–12 dirancang untuk permukaan mesial gigi posterior. Bentuk shank dan working end memungkinkan adaptasi pada akar molar atas sehingga kalkulus subgingiva mesial dapat dibersihkan."
   },
   {
     "id": "tryout-periodontologi-021",
@@ -3952,7 +4064,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Fluktuasi menunjukkan kumpulan pus yang membutuhkan jalan keluar. Drainase mengurangi tekanan dan nyeri, disertai pengeluaran benda asing atau faktor lokal yang memicu abses gingiva."
   },
   {
     "id": "tryout-periodontologi-022",
@@ -3987,7 +4100,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Scalpel membuat insisi, rasparatorium mengangkat flap mukoperiosteal, dan kuret membersihkan jaringan granulasi serta deposit pada akar. Kombinasi instrumen ini mendukung akses bedah pada lesi periodontal dengan kerusakan tulang."
   },
   {
     "id": "tryout-periodontologi-023",
@@ -4022,7 +4136,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Occlusal adjustment mengurangi kontak prematur atau beban berlebihan sebagai bagian pengendalian faktor etiologis. Karena dilakukan pada terapi awal untuk mengurangi trauma oklusi, tindakan ini termasuk fase inisial."
   },
   {
     "id": "tryout-periodontologi-024",
@@ -4057,7 +4172,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "DHE membantu pasien mengendalikan plak setiap hari, sedangkan scaling-root planing menghilangkan deposit dan biofilm subgingiva. Kombinasi keduanya merupakan dasar terapi awal pada inflamasi periodontal dengan kehilangan perlekatan."
   },
   {
     "id": "tryout-periodontologi-025",
@@ -4092,7 +4208,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Kedalaman poket diukur dari margin gingiva ke dasar sulkus atau poket menggunakan probe. Ini berbeda dari clinical attachment level yang memakai CEJ sebagai titik acuan tetap."
   },
   {
     "id": "tryout-periodontologi-026",
@@ -4127,7 +4244,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Splinting menghubungkan gigi goyang dengan gigi lain agar beban terbagi dan fungsi lebih nyaman. Tindakan ini bersifat pendukung sambil kondisi metabolik serta penyakit periodontal ditangani, bukan pengganti kontrol infeksi."
   },
   {
     "id": "tryout-periodontologi-027",
@@ -4162,7 +4280,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Palm-up extraoral fulcrum dapat dipakai untuk memperoleh penopang tangan saat menginstrumentasi posterior maksila kanan. Penopang yang stabil membantu kontrol gerakan dan tekanan kuret pada permukaan bukal."
   },
   {
     "id": "tryout-periodontologi-028",
@@ -4197,7 +4316,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Bakteri orange complex berperan dalam pematangan biofilm dan berasosiasi dengan inflamasi periodontal. Spesies yang dicantumkan pada kunci termasuk kelompok tersebut, tetapi warna gingiva dan indeks plak tidak dapat menentukan komposisi bakteri secara pasti."
   },
   {
     "id": "tryout-periodontologi-029",
@@ -4232,7 +4352,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Plunger cusp adalah cusp yang mendorong makanan ke ruang interproksimal gigi lawan saat oklusi. Kontak cusp gigi 17 tepat di antara 46 dan 47 menjelaskan impaksi makanan dan iritasi periodontal lokal."
   },
   {
     "id": "tryout-periodontologi-030",
@@ -4267,7 +4388,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Periodontologi"
+    "topic": "Periodontologi",
+    "explanation": "Nyeri, perdarahan, bau atau rasa logam, serta pseudomembran keabuan mendukung necrotizing ulcerative gingivitis. Tidak adanya kehilangan tulang membedakannya dari penyakit periodontal nekrotik yang sudah merusak jaringan penyangga."
   },
   {
     "id": "tryout-orthodonti-001",
@@ -4302,7 +4424,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Bernapas melalui mulut dapat berkaitan dengan postur bibir terbuka, bibir kering, dan perubahan keseimbangan otot sekitar lengkung gigi. Temuan tersebut mendukung kunci mouth breathing, tetapi penyebab harus dikonfirmasi melalui anamnesis dan penilaian jalan napas."
   },
   {
     "id": "tryout-orthodonti-002",
@@ -4337,7 +4460,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Hubungan cusp mesiobukal molar atas dengan groove bukal molar bawah menunjukkan kelas I Angle. Crowding sesuai Dewey tipe 1, sedangkan overjet negatif pada insisivus menunjukkan crossbite anterior yang sesuai tipe 3."
   },
   {
     "id": "tryout-orthodonti-003",
@@ -4372,7 +4496,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Lengkung atas yang sempit dan crossbite posterior bilateral menunjukkan kebutuhan koreksi transversal. Plat aktif dengan sekrup ekspansi dapat memperlebar lengkung pada kasus dental yang sesuai, dengan batas ekspansi ditentukan analisis klinis."
   },
   {
     "id": "tryout-orthodonti-004",
@@ -4407,7 +4532,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Pegas anterior memberi gaya ke labial untuk mengoreksi crossbite, sedangkan bite plane posterior membebaskan interlocking oklusal. Perlu review manual terhadap overbite -3 mm pada stem karena menunjukkan open bite, sehingga kebutuhan pembukaan gigitan harus dinilai ulang."
   },
   {
     "id": "tryout-orthodonti-005",
@@ -4442,7 +4568,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Aktivator atau bionator merupakan alat fungsional untuk memanfaatkan pertumbuhan pada pasien kelas II yang sesuai. Usia pertumbuhan dan overjet besar mendukung pertimbangan ini, tetapi kontribusi mandibula dan tahap maturasi harus dinilai sebelum memilih alat."
   },
   {
     "id": "tryout-orthodonti-006",
@@ -4478,10 +4605,7 @@ export const tryoutQuestions = [
     ],
     "correctAnswer": "A",
     "topic": "Orthodonti",
-    "image": {
-      "src": "/questions/orthodonti/question-06.webp",
-      "alt": "Gambar soal 6 — Orthodonti"
-    }
+    "explanation": "Rahang atas yang relatif lebih maju dibanding mandibula menghasilkan profil cembung. Kebiasaan mengisap bibir bawah juga dapat mendorong insisivus atas ke labial dan memperbesar overjet."
   },
   {
     "id": "tryout-orthodonti-007",
@@ -4516,7 +4640,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "ANB sekitar 2° mendukung hubungan skeletal kelas I, meskipun relasi dental molar dapat menunjukkan kelas III. Perlu review manual untuk label Angle kelas III tipe 3 karena stem belum menjelaskan ciri lengkung atau posisi insisivus yang membedakan subtipe tersebut."
   },
   {
     "id": "tryout-orthodonti-008",
@@ -4551,7 +4676,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Frenulum tinggi dapat menghambat penutupan diastema atau mempertahankan celah setelah koreksi. Penutupan ruang ortodontik dan frenektomi dapat dikombinasikan bila benar-benar diindikasikan, dengan waktu operasi ditentukan agar jaringan parut tidak mengganggu pergerakan gigi."
   },
   {
     "id": "tryout-orthodonti-009",
@@ -4586,7 +4712,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Finger spring dapat diarahkan untuk menggerakkan insisivus ke mesial setelah mesiodens sebagai hambatan dihilangkan. Gaya harus diatur agar penutupan diastema terkontrol dan tidak hanya memiringkan gigi secara berlebihan."
   },
   {
     "id": "tryout-orthodonti-010",
@@ -4621,7 +4748,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Gaya terlalu besar dapat menutup pembuluh darah ligamen periodontal dan menghasilkan zona hialinisasi. Resorpsi tulang kemudian berlangsung dari sisi sumsum yang masih vital, disebut undermining resorption, sehingga pergerakan dapat tertunda."
   },
   {
     "id": "tryout-orthodonti-011",
@@ -4656,7 +4784,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Memperkecil U-loop membuat busur labial bergerak lebih palatal dan memberi gaya retraksi pada insisivus. Aktivasi perlu kecil dan terkontrol agar gaya tidak berlebihan."
   },
   {
     "id": "tryout-orthodonti-012",
@@ -4691,7 +4820,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "ANB dihitung dari SNA dikurangi SNB, yaitu 82° − 75° = 7°. Maksila mendekati acuan normal, sedangkan SNB rendah menunjukkan mandibula retrognatik sehingga relasi skeletal termasuk kelas II."
   },
   {
     "id": "tryout-orthodonti-013",
@@ -4726,7 +4856,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Gigi sulung yang menetap dapat mengganggu jalur erupsi insisivus permanen dan mengarahkannya ke palatal. Jika insisivus atas terperangkap di belakang gigi bawah, dapat terbentuk crossbite anterior."
   },
   {
     "id": "tryout-orthodonti-014",
@@ -4761,7 +4892,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Hubungan molar neutroklusi menunjukkan kelas I Angle. Pada modifikasi Dewey, insisivus atas yang protrusif termasuk tipe 2; diastema saja tidak cukup menentukan tipe tanpa informasi posisi insisivus tersebut."
   },
   {
     "id": "tryout-orthodonti-015",
@@ -4796,7 +4928,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Selisih SNA 80° dan SNB 75° menghasilkan ANB 5°, mendukung skeletal kelas II. Nilai SNB yang lebih rendah menunjukkan kontribusi mandibula retrognatik, sementara posisi maksila relatif mendekati acuan."
   },
   {
     "id": "tryout-orthodonti-016",
@@ -4831,7 +4964,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Finger spring memberi gaya pada mahkota tanpa pasangan gaya yang cukup untuk translasi seluruh akar. Akibatnya gerakan dominan berupa tipping, yaitu mahkota dan akar cenderung bergerak ke arah berlawanan."
   },
   {
     "id": "tryout-orthodonti-017",
@@ -4866,7 +5000,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Relasi molar distal kelas II disertai insisivus sentral atas yang retroklinasi dan gigitan dalam merupakan ciri divisi 2. Ini berbeda dari divisi 1 yang umumnya memiliki insisivus atas proklinasi."
   },
   {
     "id": "tryout-orthodonti-018",
@@ -4901,7 +5036,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Tongue thrust dapat memberi tekanan berulang pada gigi anterior dan mempertahankan open bite serta diastema. Gangguan pengucapan dengan hubungan skeletal mendekati normal mendukung keterlibatan fungsi lidah."
   },
   {
     "id": "tryout-orthodonti-019",
@@ -4936,7 +5072,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "SNB yang meningkat dibanding SNA menunjukkan mandibula relatif maju pada pasien yang masih tumbuh. Chin cup merupakan pilihan yang disebut untuk mengarahkan pola pertumbuhan mandibula, meskipun kemampuan membatasi pertumbuhan jangka panjang tidak dapat dijamin."
   },
   {
     "id": "tryout-orthodonti-020",
@@ -4971,7 +5108,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Ugly duckling stage merupakan fase perkembangan sementara dengan insisivus atas miring dan diastema saat kaninus permanen belum erupsi. Posisi gigi dapat membaik seiring erupsi kaninus, setelah penyebab patologis celah disingkirkan."
   },
   {
     "id": "tryout-orthodonti-021",
@@ -5006,7 +5144,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "SNA 80° dan SNB 84° menghasilkan ANB negatif yang mendukung skeletal kelas III. Proyeksi dagu yang lebih maju dapat membuat bibir atas tampak di belakang garis glabella–pogonion, sesuai kecenderungan profil cekung."
   },
   {
     "id": "tryout-orthodonti-022",
@@ -5041,7 +5180,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Tongue crib menghambat penempatan lidah di antara gigi anterior dan membantu menghentikan kebiasaan yang mempertahankan open bite. Alat ini dipilih setelah pola kebiasaan dipastikan serta penyebab jalan napas dan skeletal dievaluasi."
   },
   {
     "id": "tryout-orthodonti-023",
@@ -5076,7 +5216,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Usia 10 tahun masih memberi peluang intervensi saat pertumbuhan untuk memperbaiki ketidakseimbangan rahang. ANB 8° menunjukkan diskrepansi kelas II yang cukup besar, sehingga modifikasi pertumbuhan dipertimbangkan sesuai komponen skeletal dan maturasi pasien."
   },
   {
     "id": "tryout-orthodonti-024",
@@ -5111,7 +5252,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Space regainer mengembalikan ruang yang sudah hilang karena molar pertama bergeser ke mesial. Berbeda dengan space maintainer yang mempertahankan ruang yang masih tersedia, alat ini harus menghasilkan pergerakan aktif untuk membuka ruang erupsi 45."
   },
   {
     "id": "tryout-orthodonti-025",
@@ -5146,7 +5288,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "ANB dari SNA 82° dan SNB 80° adalah 2°, sesuai hubungan skeletal kelas I. Overjet yang meningkat dapat berasal dari posisi dental tanpa perubahan kelas skeletal."
   },
   {
     "id": "tryout-orthodonti-026",
@@ -5181,7 +5324,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Sudut ANB membandingkan posisi maksila dan mandibula terhadap titik nasion. Nilai negatif dapat mendukung skeletal kelas III, tetapi interpretasinya perlu bersama analisis lain karena dipengaruhi geometri kraniofasial."
   },
   {
     "id": "tryout-orthodonti-027",
@@ -5216,7 +5360,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Jumlah lebar gigi yang melebihi panjang lengkung menyebabkan kekurangan ruang dan crowding. Faktor herediter dapat berkontribusi pada ukuran gigi dan rahang, meskipun pola pewarisan tidak dapat ditentukan hanya dari besar tubuh orang tua."
   },
   {
     "id": "tryout-orthodonti-028",
@@ -5251,7 +5396,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Relasi molar kelas II dengan insisivus atas protrusif dan overjet besar sesuai divisi 1. Kebiasaan mengisap ibu jari dapat menambah proklinasi dan penyempitan maksila, tetapi bukan satu-satunya penyebab maloklusi."
   },
   {
     "id": "tryout-orthodonti-029",
@@ -5286,7 +5432,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Inclined bite plane menggunakan bidang miring untuk mengarahkan insisivus atas keluar dari crossbite saat penutupan mandibula. Pilihan ini sesuai untuk crossbite anterior dental sederhana dengan hubungan skeletal normal dan ruang yang mencukupi."
   },
   {
     "id": "tryout-orthodonti-030",
@@ -5321,7 +5468,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Orthodonti"
+    "topic": "Orthodonti",
+    "explanation": "Bibir sulit menutup, palatum tinggi, lengkung sempit, dan hasil tes kebiasaan mendukung dugaan mouth breathing. Postur lidah serta keseimbangan otot dapat memengaruhi pertumbuhan lengkung, tetapi dugaan gangguan napas tetap perlu evaluasi klinis."
   },
   {
     "id": "tryout-paedodonti-001",
@@ -5356,7 +5504,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Frankl 3 menggambarkan anak yang menerima perawatan dan mengikuti instruksi meskipun masih berhati-hati. Sikap waspada tanpa penolakan nyata sesuai kategori positif, bukan kategori sangat positif yang menunjukkan hubungan lebih antusias."
   },
   {
     "id": "tryout-paedodonti-002",
@@ -5391,7 +5540,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Gigi yang baru erupsi sebagian lebih sulit diisolasi dari saliva. GIC relatif lebih toleran terhadap kelembapan dibanding sealant resin dan melepaskan fluor, sehingga dapat dipilih dengan pemantauan retensi berkala."
   },
   {
     "id": "tryout-paedodonti-003",
@@ -5426,7 +5576,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Amelogenesis imperfecta merupakan gangguan pembentukan email yang dapat menyebabkan perubahan warna, ketebalan, dan permukaan gigi. Perlu review manual: gambaran pada 11 dan 21 saja belum cukup membedakannya dari hipoplasia atau hipomineralisasi lain tanpa riwayat serta distribusi lesi yang lebih lengkap."
   },
   {
     "id": "tryout-paedodonti-004",
@@ -5461,7 +5612,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Preparasi menyediakan ruang, kemudian ukuran SSC dipilih agar menutup mahkota dengan baik. Contouring dan crimping menyesuaikan bentuk serta margin sebelum sementasi untuk memperoleh retensi dan adaptasi servikal."
   },
   {
     "id": "tryout-paedodonti-005",
@@ -5496,7 +5648,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Crown and loop sesuai bila gigi penyangga membutuhkan mahkota penuh setelah perawatan pulpa. Loop mempertahankan ruang gigi sulung yang hilang, sementara crown sekaligus melindungi gigi penyangga 85."
   },
   {
     "id": "tryout-paedodonti-006",
@@ -5531,7 +5684,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Pengenalan rangsangan secara bertahap dapat mengurangi kecemasan anak terhadap tindakan. Perlu review manual: urutan menjelaskan, memperlihatkan, lalu melakukan juga sangat sesuai dengan tell-show-do; istilah desensitisasi pada kunci perlu dibedakan dari teknik tersebut."
   },
   {
     "id": "tryout-paedodonti-007",
@@ -5566,7 +5720,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Karies yang berkembang cepat dan mengenai banyak gigi, termasuk permukaan yang biasanya lebih tahan, disebut rampant caries. Pada usia prasekolah pola ini juga perlu dinilai dalam kerangka early childhood caries dan faktor risikonya."
   },
   {
     "id": "tryout-paedodonti-008",
@@ -5601,7 +5756,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Fluoride varnish memperpanjang kontak fluor dengan permukaan gigi sehingga mendukung remineralisasi dan menekan demineralisasi. Aplikasi dipertimbangkan menurut risiko karies dan disertai perubahan kebiasaan konsumsi gula serta menyikat gigi."
   },
   {
     "id": "tryout-paedodonti-009",
@@ -5636,7 +5792,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Anestesi topikal mengurangi nyeri penusukan pada mukosa, kemudian infiltrasi memberi anestesi jaringan yang lebih dalam. Kombinasi ini membantu pencabutan gigi sulung persistensi pada anak yang kooperatif."
   },
   {
     "id": "tryout-paedodonti-010",
@@ -5671,7 +5828,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Fusi berasal dari penyatuan dua benih gigi, sehingga dapat mempertahankan dua sistem pulpa dan saluran akar. Anatomi akhirnya bervariasi menurut tahap penyatuan, jadi dua mahkota dan dua saluran pada kunci bukan pola wajib pada semua fusi."
   },
   {
     "id": "tryout-paedodonti-011",
@@ -5706,7 +5864,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Tidak adanya benih gigi permanen 41 pada radiograf mendukung agenesis satu gigi atau hipodonsia. Gigi sulung yang menetap dapat menjadi petunjuk karena tidak ada gigi pengganti yang mendorong proses pergantian normal."
   },
   {
     "id": "tryout-paedodonti-012",
@@ -5741,7 +5900,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Conditioner membersihkan smear layer dan mempersiapkan perlekatan GIC ke jaringan gigi. Setelah penumpatan serta pengecekan oklusi, pelindung permukaan membantu mencegah gangguan air selama pengerasan awal."
   },
   {
     "id": "tryout-paedodonti-013",
@@ -5776,7 +5936,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Revaskularisasi atau endodontik regeneratif biasanya ditujukan pada gigi permanen imatur dengan pulpa nekrotik. Perlu review manual: stem menyebut pulpa masih vital setelah trauma, sehingga alasan memilih regeneratif tidak cukup; mempertahankan pulpa vital untuk perkembangan akar perlu dipertimbangkan dalam evaluasi klinis."
   },
   {
     "id": "tryout-paedodonti-014",
@@ -5811,7 +5972,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Fusi merupakan penyatuan dua benih gigi sehingga terbentuk struktur gigi yang lebih besar atau tidak normal. Kelainan ini dibedakan dari geminasi, yaitu usaha pembelahan satu benih gigi."
   },
   {
     "id": "tryout-paedodonti-015",
@@ -5846,7 +6008,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Perforasi daerah bifurkasi dan lesi radiolusen menunjukkan kerusakan yang mengurangi prognosis gigi sulung tersebut. Ekstraksi dipilih bila gigi tidak layak dipertahankan, kemudian kebutuhan pemeliharaan ruang dinilai."
   },
   {
     "id": "tryout-paedodonti-016",
@@ -5881,7 +6044,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Space maintainer fungsional menggantikan permukaan kunyah yang hilang sekaligus mempertahankan ruang. Kehilangan beberapa molar sulung bilateral membuat penggantian fungsi kunyah relevan, dengan desain disesuaikan erupsi gigi permanen dan kerja sama anak."
   },
   {
     "id": "tryout-paedodonti-017",
@@ -5916,7 +6080,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "SSC memberi perlindungan menyeluruh pada molar sulung dengan kerusakan luas di banyak permukaan. Cakupan penuh lebih dapat diandalkan daripada tambalan kecil pada kondisi sisa jaringan terbatas dan risiko karies tinggi."
   },
   {
     "id": "tryout-paedodonti-018",
@@ -5951,7 +6116,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Distal shoe digunakan setelah kehilangan molar sulung kedua sebelum molar permanen pertama erupsi. Bagian pemandunya membantu mengarahkan erupsi molar permanen agar tidak bergeser ke mesial dan mengambil ruang pengganti."
   },
   {
     "id": "tryout-paedodonti-019",
@@ -5986,7 +6152,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Oligodontia adalah tidak terbentuknya enam atau lebih gigi permanen, umumnya tidak menghitung molar ketiga. Hilangnya banyak benih gigi pada pemeriksaan radiografis sesuai kategori tersebut."
   },
   {
     "id": "tryout-paedodonti-020",
@@ -6021,7 +6188,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Apeksogenesis merupakan kelanjutan pembentukan akar dengan mempertahankan pulpa yang masih vital. Pada gigi permanen muda yang mengalami trauma, terapi pulpa vital yang sesuai dapat menjaga penebalan dinding akar dan penutupan apeks."
   },
   {
     "id": "tryout-paedodonti-021",
@@ -6056,7 +6224,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Polip pulpa merupakan jaringan hiperplastik yang tumbuh dari pulpa vital meradang ke dalam kavitas terbuka. Gambaran ini sesuai istilah pulpitis kronis hiperplastik, dengan penilaian kondisi akar dan pulpa untuk menentukan terapi."
   },
   {
     "id": "tryout-paedodonti-022",
@@ -6091,7 +6260,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Akar gigi sulung yang menembus gingiva menjadi sumber trauma lokal dan menunjukkan gangguan proses resorpsi atau posisi akar. Ekstraksi menghilangkan penyebab iritasi setelah hubungan dengan gigi pengganti dinilai."
   },
   {
     "id": "tryout-paedodonti-023",
@@ -6126,7 +6296,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Ellis kelas III merupakan fraktur mahkota yang melibatkan email, dentin, dan membuka pulpa. Keterlibatan pulpa membedakannya dari kelas II yang terbatas pada email dan dentin."
   },
   {
     "id": "tryout-paedodonti-024",
@@ -6161,7 +6332,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Modeling memanfaatkan pengamatan terhadap orang lain yang menjalani perawatan dengan tenang. Anak meniru perilaku ibunya sehingga situasi perawatan menjadi lebih dikenal dan dapat diterima."
   },
   {
     "id": "tryout-paedodonti-025",
@@ -6196,7 +6368,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Subluksasi adalah cedera jaringan penyangga dengan mobilitas meningkat tanpa perpindahan posisi gigi. Perlu review manual: stem juga menyebut fraktur mahkota dengan paparan pulpa, sehingga subluksasi hanya menjelaskan cedera periodontal dan bukan keseluruhan diagnosis trauma."
   },
   {
     "id": "tryout-paedodonti-026",
@@ -6231,7 +6404,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Neonatal teeth adalah gigi yang erupsi dalam 30 hari pertama setelah kelahiran. Berbeda dengan natal teeth yang sudah ada saat lahir, penentuan kategori pada kasus ini memerlukan konfirmasi waktu erupsi karena riwayatnya mendekati batas satu bulan."
   },
   {
     "id": "tryout-paedodonti-027",
@@ -6266,7 +6440,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Menyikat dua kali sehari dengan pasta gigi berfluor membantu mengurangi biofilm yang menyebabkan gingivitis dan karies. Mengurangi frekuensi makanan serta minuman manis menekan paparan asam berulang, dengan pendampingan orang tua untuk kebersihan anak."
   },
   {
     "id": "tryout-paedodonti-028",
@@ -6301,7 +6476,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Karies dalam disertai pembengkakan menunjukkan sumber infeksi yang perlu dikendalikan. Trepanasi memberi akses untuk drainase/debridemen bila gigi layak dipertahankan, sedangkan kebutuhan obat ditentukan gejala dan penyebaran infeksi, bukan otomatis antibiotik pada semua bengkak lokal."
   },
   {
     "id": "tryout-paedodonti-029",
@@ -6336,7 +6512,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "PRR tipe C menggabungkan restorasi lesi yang mencapai dentin dengan penutupan pit-fisur lain yang masih sehat. Karena karies disebut mendekati tanduk pulpa, status pulpa dan perlindungan dentin harus dinilai terlebih dahulu agar tindakan preventif-restoratif tidak mengabaikan penyakit pulpa."
   },
   {
     "id": "tryout-paedodonti-030",
@@ -6371,7 +6548,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Paedodonti"
+    "topic": "Paedodonti",
+    "explanation": "Fenestrasi apikal terjadi ketika ujung akar terbuka melalui tulang dan mukosa. Akar 61 yang menembus gingiva sesuai kelainan ini, berbeda dari erupsi normal mahkota gigi pengganti."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-001",
@@ -6406,7 +6584,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Non-maleficence menuntut tenaga kesehatan menghindari tindakan maupun kelalaian yang memperburuk keselamatan pasien. Menolak begitu saja perdarahan yang tidak berhenti dapat menambah bahaya; risiko infeksi harus dikelola dengan prosedur perlindungan dan rujukan yang aman bila diperlukan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-002",
@@ -6441,7 +6620,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Autonomy menghormati hak pasien untuk menentukan tindakan setelah menerima informasi yang memadai. Penjelasan manfaat, risiko, alternatif, dan konsekuensi penolakan menjadi dasar persetujuan yang benar-benar dipahami pasien."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-003",
@@ -6476,7 +6656,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Kontrak terapeutik timbul dari kesepakatan pemberian pelayanan antara dokter dan pasien. Kewajiban dokter adalah melakukan upaya profesional sesuai standar, bukan menjamin kesembuhan tertentu sebagai hasil yang pasti."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-004",
@@ -6511,7 +6692,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Pelanggaran penerapan keilmuan dan standar praktik termasuk ranah disiplin profesi, yang dalam kerangka lama diperiksa MKDKI. Perlu review manual untuk konteks regulasi: mekanisme dan nomenklatur lembaga disiplin telah berubah, sehingga jawaban historis ini tidak boleh langsung dipakai sebagai petunjuk pengaduan terkini."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-005",
@@ -6546,7 +6728,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Mengutamakan anak yang mengalami perdarahan merupakan upaya mencegah bahaya lebih lanjut. Prinsip non-maleficence mendukung prioritas berdasarkan kegawatan, bukan urutan kedatangan semata."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-006",
@@ -6581,7 +6764,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Pasien berhak memperoleh informasi medis untuk melanjutkan perawatan. Ringkasan atau salinan isi rekam medis dapat diberikan melalui prosedur yang berlaku, sementara pengelolaan dokumen asli tetap menjadi tanggung jawab fasilitas pelayanan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-007",
@@ -6616,7 +6800,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Selesainya requirement pendidikan tidak otomatis memberi kewenangan praktik mandiri. Praktik tanpa memenuhi kualifikasi, registrasi, perizinan, dan supervisi yang diperlukan menimbulkan persoalan hukum serta kepatuhan terhadap aturan profesi."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-008",
@@ -6651,7 +6836,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Kunci menggambarkan alur rekomendasi antar-cabang organisasi profesi dalam prosedur lama. Perlu review manual: persyaratan perizinan praktik telah berubah, sehingga rekomendasi PDGI asal tidak boleh dinyatakan sebagai persyaratan universal SIP masa kini."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-009",
@@ -6686,7 +6872,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Dalam kerangka hukum lama praktik kedokteran, Konsil Kedokteran Indonesia menerbitkan STR dokter dan dokter gigi. Perlu review manual untuk konteks waktu karena sistem registrasi dan kelembagaan kini mengikuti kerangka Konsil Kesehatan Indonesia serta peraturan pelaksananya."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-010",
@@ -6721,7 +6908,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Rekam medis dapat menjadi bahan pembelajaran melalui evaluasi kasus dan pengembangan pengetahuan. Perlu review manual: bila fokusnya penggunaan sebagai data penelitian, istilah research value lebih spesifik daripada education value, walaupun keduanya dapat saling berkaitan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-011",
@@ -6756,7 +6944,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Mendengar tanpa memberi tanggapan empatik yang jelas menunjukkan keterlibatan yang masih rendah. Perlu review manual: level empati Bylund–Makoul dinilai dari respons terhadap kesempatan empatik, sehingga aktivitas mendengar sambil menyiapkan alat saja belum cukup memastikan level 1."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-012",
@@ -6791,7 +6980,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Promosi yang bersifat memuji diri atau menyesatkan dapat melanggar etika profesi. Perlu review manual: baliho dan internet sebagai media tidak otomatis merupakan pelanggaran; isi serta cara promosi dan aturan yang berlaku harus diketahui untuk menetapkan etik murni."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-013",
@@ -6826,7 +7016,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Justice mengharuskan pelayanan diberikan secara adil tanpa diskriminasi yang tidak relevan secara klinis. Memilih pasien berdasarkan kesamaan partai mengutamakan preferensi pribadi dan melanggar kesetaraan akses pelayanan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-014",
@@ -6861,7 +7052,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Empati adalah memahami pengalaman serta perasaan pasien dan menyampaikan pemahaman itu secara profesional. Mendengarkan dengan perhatian membantu dokter menangkap dampak keluhan dari sudut pandang pasien."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-015",
@@ -6896,7 +7088,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "CPITN dikembangkan untuk menilai kondisi periodontal dan kebutuhan perawatan pada tingkat populasi. Indeks ini menggunakan temuan seperti perdarahan, kalkulus, dan poket untuk mengelompokkan kebutuhan intervensi."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-016",
@@ -6931,7 +7124,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Rendahnya kunjungan dapat menghambat deteksi serta penanganan masalah gigi di masyarakat dengan akses sulit. Perlu review manual: rendahnya kunjungan tidak menjelaskan langsung penyebab bercak email; paparan fluor, perkembangan email, dan diagnosis lesi perlu ditelusuri sebelum menyimpulkan faktor pemicu."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-017",
@@ -6966,7 +7160,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Pertanyaan tertutup memungkinkan jawaban singkat atau isyarat ketika pasien sulit berbicara akibat trismus. Cara ini memudahkan penggalian informasi penting tanpa menambah beban komunikasi, kemudian riwayat dilengkapi setelah kondisi lebih memungkinkan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-018",
@@ -7001,7 +7196,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Isi rekam medis memuat informasi kesehatan yang menjadi hak pasien untuk diketahui dan diakses sesuai ketentuan. Hak ini berbeda dari kepemilikan atau penguasaan fisik dokumen yang dikelola fasilitas pelayanan kesehatan."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-019",
@@ -7036,7 +7232,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Adverse event menggambarkan kejadian merugikan selama pelayanan yang perlu ditelaah penyebabnya dan tidak otomatis berarti kelalaian. Perlu review manual: munculnya diagnosis ameloblastoma setelah pencabutan tidak membuktikan tumor disebabkan pencabutan; hubungan kausal dan proses diagnosis harus diperiksa."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-020",
@@ -7071,7 +7268,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Tindakan tanpa indikasi yang dapat dipertanggungjawabkan merupakan penyimpangan dari kewajiban profesional. Professional misconduct dinilai dari dasar tindakan dan kepatuhannya terhadap standar, bukan hanya karena reaksi anafilaksis terjadi."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-021",
@@ -7106,7 +7304,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Meminta izin sebelum membahas penyakit di hadapan pasangan menghormati kerahasiaan dan autonomy pasien. Risiko penularan perlu dikomunikasikan serta dikelola sesuai ketentuan kesehatan masyarakat, tanpa otomatis membuka semua informasi kepada pendamping."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-022",
@@ -7141,7 +7340,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Dereliction of duty berarti tidak menjalankan kewajiban pelayanan yang telah timbul. Tidak hadir tanpa pengaturan pengganti atau informasi yang memadai dapat menjadi bentuk penyimpangan kewajiban, sedangkan kelalaian hukum secara lengkap juga memerlukan penilaian kerugian dan hubungan sebab akibat."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-023",
@@ -7176,7 +7376,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Menolak pasien hanya karena dugaan status HIV atau kadar CD4 merupakan perlakuan diskriminatif. Prinsip justice menuntut kebutuhan klinis dinilai secara adil, dengan kewaspadaan standar dan rujukan bila kompetensi atau fasilitas tidak memadai."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-024",
@@ -7211,7 +7412,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Riwayat obat perlu digali sebelum tindakan agar risiko perdarahan dapat diantisipasi. Kunci “malefience” merujuk pada aspek menimbulkan bahaya atau pelanggaran non-maleficence; penggunaan aspirin tidak otomatis harus dihentikan, tetapi harus masuk dalam penilaian dan rencana hemostasis."
   },
   {
     "id": "tryout-etik-kedokteran-gigi-025",
@@ -7246,7 +7448,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Etik Kedokteran Gigi"
+    "topic": "Etik Kedokteran Gigi",
+    "explanation": "Beneficence menuntut penelitian memiliki manfaat yang bermakna dan dapat dipertanggungjawabkan. Manfaat potensial tetap harus ditimbang terhadap penderitaan hewan, disertai prinsip replacement, reduction, refinement, dan penilaian etik."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-001",
@@ -7281,7 +7484,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Kapitasi merupakan pembayaran kepada fasilitas tingkat pertama berdasarkan jumlah peserta terdaftar untuk periode tertentu. Pembayaran ini tidak dihitung per tindakan tambal yang dikerjakan, berbeda dari fee for service."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-002",
@@ -7316,7 +7520,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Noise adalah gangguan yang menghambat penyampaian atau penerimaan pesan. Suara renovasi menjadi gangguan fisik sehingga mahasiswa sulit memusatkan perhatian pada materi pengajar."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-003",
@@ -7351,7 +7556,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Kemitraan melibatkan pihak lain yang memiliki pengaruh atau sumber daya untuk mencapai tujuan kesehatan bersama. Pemuka agama membantu menjangkau masyarakat dan membangun penerimaan terhadap program vaksinasi."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-004",
@@ -7386,7 +7592,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Korelasi Pearson menilai arah dan kekuatan hubungan linear antara dua variabel numerik. Data yang memenuhi asumsi normalitas, linearitas, serta tidak didominasi pencilan mendukung penggunaan uji ini."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-005",
@@ -7421,7 +7628,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Guided response merupakan pelaksanaan keterampilan dengan mengikuti contoh atau bimbingan. Anak meniru gerakan menyikat gigi ibunya dan belum melakukannya secara mandiri sebagai kebiasaan otomatis."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-006",
@@ -7456,7 +7664,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Advokasi bertujuan memperoleh dukungan kebijakan, sumber daya, atau komitmen pengambil keputusan. Pendekatan kepada kecamatan untuk menyediakan sarana kesehatan sesuai fungsi tersebut."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-007",
@@ -7491,7 +7700,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Actuating adalah menggerakkan orang agar melaksanakan rencana yang sudah dibuat. Pemberian arahan dan koordinasi staf pada kegiatan sikat gigi massal merupakan contoh pelaksanaan fungsi ini."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-008",
@@ -7526,7 +7736,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Kejadian tidak diharapkan adalah insiden keselamatan pasien yang menimbulkan cedera. Luka kimia setelah irigasi tanpa isolasi memadai merupakan dampak merugikan pelayanan yang perlu ditangani dan dievaluasi penyebabnya."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-009",
@@ -7561,7 +7772,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Menemukan karies lalu menambalnya sebelum mencapai pulpa merupakan deteksi dan pengobatan dini. Tujuannya menghentikan progresi penyakit yang sudah ada sebelum menimbulkan komplikasi lebih berat."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-010",
@@ -7596,7 +7808,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Prevalensi menghitung semua orang yang mengalami karies pada waktu pengukuran dibagi populasi yang diperiksa. Pada tahun kelima nilainya 250/1000 × 100% = 25%, bukan hanya tambahan 50 kasus selama pengamatan."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-011",
@@ -7631,7 +7844,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Gigi dengan restorasi tetapi masih memiliki karies dicatat pada komponen D. Karies aktif mendapat prioritas sehingga satu gigi tidak sekaligus dihitung sebagai D dan F pada indeks DMFT."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-012",
@@ -7666,7 +7880,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Illness-centered communication menaruh perhatian pada pengalaman subjektif pasien terhadap sakitnya. Mendengarkan keluhan serta dampak sosial membantu memahami makna penyakit bagi pasien, bukan hanya tanda biologisnya."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-013",
@@ -7701,7 +7916,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Penelitian dimulai dengan kelompok sakit dan kelompok tidak sakit, lalu menelusuri paparan merokok sebelumnya. Alur berdasarkan status penyakit tersebut merupakan ciri studi case-control."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-014",
@@ -7736,7 +7952,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Penyuluhan untuk menjaga perilaku sehat dan kontrol kondisi tubuh termasuk health promotion. Kegiatan ini meningkatkan kemampuan lansia mempertahankan kesehatan mulut sebelum timbul komplikasi baru."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-015",
@@ -7771,7 +7988,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "SWOT memetakan strengths dan weaknesses sebagai faktor internal serta opportunities dan threats sebagai faktor eksternal. Hasilnya membantu organisasi memilih strategi program sesuai kemampuan dan lingkungannya."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-016",
@@ -7806,7 +8024,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Splinting mengurangi dampak kegoyangan gigi yang sudah terjadi sehingga fungsi dapat dipertahankan. Dalam kerangka pencegahan, tindakan ini termasuk pembatasan kecacatan atau disability limitation."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-017",
@@ -7841,7 +8060,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Kunci 10% diperoleh dari 200/2000 × 100% bila 2000 dianggap seluruh populasi. Perlu review manual: stem menyebut 2000 orang belum terkena penyakit; jika ditambah 200 kasus, penyebut prevalensi menjadi 2200 sehingga hasilnya sekitar 9,09%."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-018",
@@ -7876,7 +8096,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Pertemuan rutin untuk mengoordinasikan kegiatan lintas program merupakan pengelolaan pelaksanaan sehari-hari. Karena fokusnya pelaksanaan dan penyelesaian masalah program, kegiatan ini termasuk manajemen operasional."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-019",
@@ -7911,7 +8132,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Paparan dan kondisi karies dikumpulkan pada satu waktu, sehingga desainnya cross-sectional analitik observasional. Perlu review manual terhadap angka kategori menyikat gigi yang hanya berjumlah 340 dari 400 peserta, walaupun hal itu tidak mengubah identifikasi desain studi."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-020",
@@ -7946,7 +8168,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Penambalan karies sebelum mencapai pulpa merupakan pengobatan pada tahap awal penyakit. Dalam Leavell dan Clark, tindakan ini termasuk early diagnosis and prompt treatment, bukan pencegahan primer pada gigi yang belum sakit."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-021",
@@ -7981,7 +8204,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Fee for service berarti pasien membayar berdasarkan jenis pelayanan atau tindakan yang diterima. Pada skenario ini pasien memilih pembayaran mandiri sesuai tarif klinik, bukan menggunakan skema pembayaran peserta yang terdaftar."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-022",
@@ -8016,7 +8240,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Biaya satuan diperoleh dengan membagi total biaya produksi pelayanan dengan jumlah unit pelayanan. Jika unit yang digunakan adalah kunjungan, hasil perhitungannya merupakan biaya rata-rata per kunjungan."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-023",
@@ -8051,7 +8276,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Zona operator tangan kanan dalam four-handed dentistry umumnya berada di sekitar posisi jam 7 sampai 12. Posisi jam 11 berada dalam zona ini dan dipilih sesuai area kerja serta kebutuhan akses tanpa postur membungkuk berlebihan."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-024",
@@ -8086,7 +8312,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Sarung tangan dan masker menjadi penghalang terhadap pajanan darah, saliva, droplet, dan bahan terkontaminasi. Penggunaannya bersama kebersihan tangan dan pemrosesan instrumen membantu mencegah infeksi silang antara pasien serta petugas."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-025",
@@ -8121,7 +8348,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Normative need dalam kesehatan biasanya berarti kebutuhan yang ditentukan melalui standar atau penilaian profesional. Perlu review manual: kewajiban mengasah gigi sebagai adat menggambarkan norma budaya, yang tidak otomatis sama dengan kebutuhan kesehatan normatif."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-026",
@@ -8156,7 +8384,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Posisi jam 8 menempatkan operator tangan kanan di depan-kanan pasien sehingga akses ke gigi anterior maksila dapat lebih mudah. Posisi akhir tetap disesuaikan visibilitas, dukungan kepala pasien, dan ergonomi operator."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-027",
@@ -8191,7 +8420,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Lokasi klinik dekat pasar dan pusat pertokoan dapat menjadi kekuatan berupa akses serta keterlihatan bagi calon pasien. Dalam SWOT, keuntungan lokasi yang dimiliki klinik dapat diperlakukan sebagai aset internal yang mendukung pelayanan."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-028",
@@ -8226,7 +8456,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Kunci memakai cross referral untuk penyerahan penanganan kepada bidang keahlian lain yang lebih sesuai. Pada phlegmon, prioritasnya rujukan segera dengan komunikasi dan stabilisasi yang memadai karena infeksi dapat mengancam jalan napas; istilah rujukan juga dapat berbeda menurut sistem administrasi."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-029",
@@ -8261,7 +8492,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Rumah sakit tipe C secara historis merupakan salah satu tujuan rujukan dari layanan primer yang menyediakan pelayanan spesialistik dasar. Penentuan tujuan nyata tetap berdasarkan kompetensi, fasilitas, kegawatan, dan jejaring rujukan, bukan kelas rumah sakit saja."
   },
   {
     "id": "tryout-ilmu-kesehatan-gigi-masyarakat-030",
@@ -8296,7 +8528,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Ilmu Kesehatan Gigi Masyarakat"
+    "topic": "Ilmu Kesehatan Gigi Masyarakat",
+    "explanation": "Migrasi neto adalah jumlah pendatang dikurangi jumlah yang keluar, yaitu 200 − 50 = 150 orang. Membaginya dengan 5.000.000 penduduk menghasilkan rasio migrasi neto; bila dinyatakan per 1000 penduduk, nilainya dikalikan 1000."
   },
   {
     "id": "tryout-prosthodonti-001",
@@ -8331,7 +8564,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Heavy body memiliki viskositas tinggi sehingga digunakan sebagai cetakan awal yang menopang bahan pencatat detail. Pada teknik dua tahap, bahan yang lebih encer kemudian merekam batas preparasi dan permukaan gigi secara lebih rinci."
   },
   {
     "id": "tryout-prosthodonti-002",
@@ -8366,7 +8600,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Gigi 11 kehilangan jaringan mahkota lebih banyak dan nonvital sehingga kunci memilih dowel crown setelah perawatan endodontik yang memadai. Gigi 22 yang masih vital dapat menjadi penyangga dengan full veneer crown; kebutuhan pasak tetap bergantung pada sisa jaringan dan retensi inti."
   },
   {
     "id": "tryout-prosthodonti-003",
@@ -8401,7 +8636,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Vestibuloplasti memperdalam vestibulum dengan mengubah perlekatan jaringan lunak. Pada sulkus dangkal, tindakan ini dapat menambah luas ekstensi basis dan membantu retensi gigi tiruan setelah evaluasi jaringan pendukung."
   },
   {
     "id": "tryout-prosthodonti-004",
@@ -8436,7 +8672,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Pontik ovate memiliki permukaan dasar cembung yang masuk ke cekungan jaringan sehingga memberi kesan gigi tumbuh dari gingiva. Bentuk ini cocok untuk kebutuhan estetik anterior dengan soket dan jaringan lunak yang dipersiapkan serta dipelihara dengan baik."
   },
   {
     "id": "tryout-prosthodonti-005",
@@ -8471,7 +8708,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Galengan gigit membantu merekam hubungan rahang ketika kontak gigi yang tersisa tidak mencukupi untuk pemasangan model. Rekaman tersebut digunakan untuk mengorientasikan model pada artikulator dan menentukan hubungan oklusal prostesis."
   },
   {
     "id": "tryout-prosthodonti-006",
@@ -8506,7 +8744,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Fixed-fixed bridge menggunakan retainer pada kedua sisi ruang gigi 36 yang hilang. Namun, mahkota klinis 37 yang pendek memerlukan penilaian retensi dan jaringan periodontal sebelum desain tersebut dianggap layak."
   },
   {
     "id": "tryout-prosthodonti-007",
@@ -8541,7 +8780,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Anteroposterior palatal strap menghubungkan komponen anterior dan posterior melalui rancangan berbentuk cincin yang kaku. Desainnya dapat menghindari torus kecil di bagian tengah palatum sambil memberi dukungan pada gigi tiruan sebagian rahang atas."
   },
   {
     "id": "tryout-prosthodonti-008",
@@ -8576,7 +8816,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Kehilangan gigi posterior bilateral tanpa penyangga distal menentukan Kennedy kelas I. Di luar kedua daerah ujung bebas tersebut terdapat dua ruang edentulus tambahan, yaitu regio 31 dan 44, sehingga termasuk modifikasi 2."
   },
   {
     "id": "tryout-prosthodonti-009",
@@ -8611,7 +8852,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Metode Walkhoff memanfaatkan posisi lidah ke posterior untuk membantu pasien membawa mandibula ke hubungan yang diinginkan saat pencatatan rahang. Rekaman relasi sentrik perlu diperiksa berulang agar tidak sekadar mencatat posisi mandibula yang dipaksakan."
   },
   {
     "id": "tryout-prosthodonti-010",
@@ -8646,7 +8888,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Ruang kehilangan gigi anterior 12 sampai 22 melintasi garis tengah sehingga sesuai Kennedy kelas IV. Gigi molar ketiga yang hilang tidak diperhitungkan bila tidak akan diganti; kelas IV tidak mempunyai modifikasi."
   },
   {
     "id": "tryout-prosthodonti-011",
@@ -8681,7 +8924,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Free way space adalah selisih dimensi vertikal istirahat dan dimensi vertikal oklusi. Jika ruang ini terlalu kecil karena dimensi vertikal oklusi berlebihan, otot dapat terasa tegang dan fungsi menelan serta penggunaan gigi tiruan terganggu."
   },
   {
     "id": "tryout-prosthodonti-012",
@@ -8716,7 +8960,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Tonjolan tulang tajam pada daerah penyangga dapat menekan mukosa dan menimbulkan nyeri. Pengurangan serta penghalusan tulang secara konservatif sesuai kebutuhan prostetik menjelaskan pilihan alveolektomi pada kunci."
   },
   {
     "id": "tryout-prosthodonti-013",
@@ -8751,7 +8996,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Carbon marker digunakan untuk menggambar tanda pada model setelah arah pemasangan ditetapkan di surveyor. Penentuan kesejajaran permukaan sendiri dilakukan dengan analyzing rod; marker berfungsi mencatat hasil analisis tersebut."
   },
   {
     "id": "tryout-prosthodonti-014",
@@ -8786,7 +9032,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Resorpsi mandibula yang berat dapat menempatkan foramen mentale dekat permukaan puncak ridge. Tekanan basis gigi tiruan pada saraf di lokasi tersebut dapat menyebabkan rasa kebas bibir bawah sehingga daerah itu memerlukan evaluasi dan relief."
   },
   {
     "id": "tryout-prosthodonti-015",
@@ -8821,7 +9068,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Kehilangan satu gigi 46 dengan calon penyangga 45 dan 47 pada kedua sisinya sesuai konsep fixed-fixed bridge. Karies penyangga harus ditangani dan kelayakan periodontal serta retensinya dinilai sebelum pembuatan retainer."
   },
   {
     "id": "tryout-prosthodonti-016",
@@ -8856,7 +9104,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Glass ionomer cement tipe I digunakan sebagai semen luting untuk menyemen restorasi indirek. Bahan ini dapat digunakan pada mahkota logam-keramik jika preparasi memiliki retensi memadai dan ketentuan bahan dipenuhi."
   },
   {
     "id": "tryout-prosthodonti-017",
@@ -8891,7 +9140,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Dimensi vertikal oklusi yang tidak sesuai dapat menyebabkan wajah tampak tegang dan mengganggu menelan maupun pengunyahan. Gejala pada kasus mengarahkan evaluasi hubungan vertikal, termasuk pemeriksaan free way space dan kontak oklusal."
   },
   {
     "id": "tryout-prosthodonti-018",
@@ -8926,7 +9176,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Daerah edentulus paling posterior berupa ujung bebas bilateral menentukan Kennedy kelas I. Dua daerah kehilangan gigi lain yang terpisah, pada 31 dan 44, dihitung sebagai modifikasi 2."
   },
   {
     "id": "tryout-prosthodonti-019",
@@ -8961,7 +9212,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Konektor berbentuk U dapat menghindari torus yang memanjang ke posterior sehingga menghalangi konektor palatal melintang. Karena kekakuannya relatif lebih rendah, ketebalan dan dukungan desain harus diperhitungkan terutama pada kasus ujung bebas."
   },
   {
     "id": "tryout-prosthodonti-020",
@@ -8996,7 +9248,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Modified ridge lap menggabungkan kontak jaringan pada sisi fasial dengan permukaan lingual yang lebih mudah dibersihkan sehingga cocok untuk daerah anterior. Perlu review manual: rasio mahkota-akar 2:1 merupakan kondisi penyangga yang kurang menguntungkan, sehingga kelayakan jembatan tidak dapat disimpulkan dari pilihan pontiknya saja."
   },
   {
     "id": "tryout-prosthodonti-021",
@@ -9031,7 +9284,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Chamfer menyediakan batas preparasi yang jelas dengan pengurangan jaringan yang sesuai untuk tepi logam. Pada mahkota metal-keramik, pilihan ini sesuai bila bagian palatal memang direncanakan sebagai permukaan logam."
   },
   {
     "id": "tryout-prosthodonti-022",
@@ -9066,7 +9320,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Kerangka logam dapat dibuat relatif tipis tetapi tetap kaku dan kuat dibandingkan basis akrilik dengan ukuran serupa. Torus besar tetap harus dipertimbangkan dalam desain konektor agar tidak menimbulkan tekanan atau menghalangi pemasangan."
   },
   {
     "id": "tryout-prosthodonti-023",
@@ -9101,7 +9356,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Dalam klasifikasi House, pasien indifferent menunjukkan minat dan keterlibatan yang rendah terhadap perawatan. Sikap pasif serta membiarkan anak menjawab pada kasus mendukung kategori tersebut, sambil tetap perlu mengevaluasi kemampuan komunikasi pasien."
   },
   {
     "id": "tryout-prosthodonti-024",
@@ -9136,7 +9392,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Teknik selective pressure mengarahkan beban ke daerah yang mampu menahannya dan mengurangi tekanan pada jaringan yang mudah bergeser. Hal ini relevan pada ujung bebas dengan ridge rendah karena dukungan mukosa dan gigi memiliki respons beban berbeda."
   },
   {
     "id": "tryout-prosthodonti-025",
@@ -9171,7 +9428,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Adhesive bridge membutuhkan preparasi lebih sedikit karena retensinya terutama melalui perlekatan sayap pada email penyangga. Ruang anterior tunggal, gigi penyangga sehat, dan kondisi oklusal yang memungkinkan mendukung pilihan konservatif ini."
   },
   {
     "id": "tryout-prosthodonti-026",
@@ -9206,7 +9464,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Pengucapan huruf S membantu mengevaluasi closest speaking space dan hubungan gigi anterior saat berbicara. Pemeriksaan ini dapat membantu menilai dimensi vertikal, tetapi angular cheilitis sendiri juga dapat mempunyai penyebab lain selain perubahan tinggi gigitan."
   },
   {
     "id": "tryout-prosthodonti-027",
@@ -9241,7 +9500,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Gigi 31 dan 33 berada tepat di mesial dan distal ruang kehilangan 32 sehingga dapat dipertimbangkan sebagai penyangga. Karies 31 dan kemiringan 33 perlu ditangani dalam perencanaan preparasi, arah pemasangan, serta evaluasi periodontal."
   },
   {
     "id": "tryout-prosthodonti-028",
@@ -9276,7 +9536,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Direct reline memperbaiki adaptasi permukaan dalam basis secara langsung sehingga pasien tidak lama tanpa gigi tiruan. Perlu review manual: jaringan flabby, tuberositas besar, ekstrusi gigi, dan sisa akar memerlukan evaluasi tersendiri; reline saja belum tentu menyelesaikan seluruh masalah pada kasus."
   },
   {
     "id": "tryout-prosthodonti-029",
@@ -9311,7 +9572,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Immediate denture dibuat sebelum pencabutan dan dipasang segera setelah gigi yang direncanakan dicabut. Pilihan ini memenuhi keinginan pasien agar tidak mengalami masa tanpa gigi, tetapi penyesuaian selama penyembuhan tetap diperlukan."
   },
   {
     "id": "tryout-prosthodonti-030",
@@ -9346,7 +9608,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Prosthodonti"
+    "topic": "Prosthodonti",
+    "explanation": "Kunci memilih dowel crown pada kedua penyangga nonvital untuk menyediakan retensi inti setelah perawatan saluran akar. Perlu review manual: status nonvital saja bukan indikasi pasak; khususnya pada 22, keputusan harus didasarkan pada sisa jaringan koronal dan ferrule."
   },
   {
     "id": "tryout-radiologi-dental-001",
@@ -9381,7 +9644,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Radiograf periapikal memperlihatkan seluruh gigi hingga apeks beserta jaringan tulang di sekitarnya. Cakupan tersebut sesuai untuk menilai gigi 37 dengan keterlibatan pulpa dan tanda inflamasi periapikal."
   },
   {
     "id": "tryout-radiologi-dental-002",
@@ -9416,7 +9680,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Mesiodens adalah gigi supernumerari yang terletak di daerah garis tengah rahang atas, biasanya di antara insisivus sentral. Keberadaannya dapat mengganggu erupsi atau menimbulkan diastema seperti pada kasus ini."
   },
   {
     "id": "tryout-radiologi-dental-003",
@@ -9451,7 +9716,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Granuloma periapikal dapat tampak sebagai radiolusensi di sekitar apeks gigi yang mengalami infeksi pulpa. Perlu review manual: istilah batas pada opsi tidak cukup spesifik, dan granuloma tidak dapat dipastikan hanya dari radiograf tanpa korelasi klinis atau histopatologi."
   },
   {
     "id": "tryout-radiologi-dental-004",
@@ -9486,7 +9752,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Nyeri berdenyut dan lesi periapikal difus pada gigi dengan karies mencapai pulpa mengarahkan kunci ke abses periapikal. Perlu review manual: diagnosis abses memerlukan temuan klinis seperti pembengkakan atau pus, bukan radiolusensi saja."
   },
   {
     "id": "tryout-radiologi-dental-005",
@@ -9521,7 +9788,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Compound odontoma tersusun atas struktur menyerupai gigi kecil atau dentikel. Kelompok dentikel radiopak yang dikelilingi pita radiolusen membedakannya dari complex odontoma yang berupa massa jaringan keras tidak teratur."
   },
   {
     "id": "tryout-radiologi-dental-006",
@@ -9556,7 +9824,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Radiografi panoramik memberi gambaran kedua rahang dalam satu pemeriksaan. Teknik ini sesuai sebagai evaluasi awal posisi keempat molar ketiga dan hubungannya dengan struktur sekitar sebelum menentukan pemeriksaan tambahan."
   },
   {
     "id": "tryout-radiologi-dental-007",
@@ -9591,7 +9860,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Infeksi periapikal dapat menyebabkan destruksi tulang yang tampak radiolusen dengan batas kurang jelas. Namun, abses akut awal dapat belum menimbulkan perubahan radiografis, sehingga diagnosis tetap memerlukan pemeriksaan klinis."
   },
   {
     "id": "tryout-radiologi-dental-008",
@@ -9626,7 +9896,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Condensing osteitis merupakan respons pembentukan tulang sklerotik di sekitar apeks akibat rangsangan inflamasi pulpa yang berlangsung lama. Gambaran radiopak di sekitar gigi dengan riwayat karies dan vitalitas negatif sesuai dengan respons tersebut."
   },
   {
     "id": "tryout-radiologi-dental-009",
@@ -9661,7 +9932,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Pembesaran gingiva fibrotik terkait amlodipine dapat membentuk pseudopocket tanpa kehilangan tulang. Gingivektomi dapat dipertimbangkan pada fase bedah bila pembesaran menetap setelah kontrol plak dan evaluasi obat bersama dokter yang merawat."
   },
   {
     "id": "tryout-radiologi-dental-010",
@@ -9696,7 +9968,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Dilaserasi adalah pembengkokan bentuk akar atau hubungan bagian-bagian gigi yang menyimpang dari arah normal. Lengkung akar dan saluran ke distal perlu diperhatikan dalam menentukan akses serta instrumentasi endodontik."
   },
   {
     "id": "tryout-radiologi-dental-011",
@@ -9731,7 +10004,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Vitalitas negatif dan nyeri perkusi menunjukkan keterlibatan pulpa serta jaringan apikal, sedangkan radiolusensi difus mendukung lesi inflamasi. Perlu review manual: tanpa keterangan pus atau pembengkakan, data belum membedakan abses apikal dari periodontitis apikal simptomatik secara pasti."
   },
   {
     "id": "tryout-radiologi-dental-012",
@@ -9766,7 +10040,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Eritema akibat radiasi merupakan reaksi jaringan somatik yang secara klasik disebut efek deterministik. Efek ini memiliki ambang dosis dan tingkat keparahannya meningkat dengan dosis setelah ambang terlampaui."
   },
   {
     "id": "tryout-radiologi-dental-013",
@@ -9801,7 +10076,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Gigi yang masih vital dengan pembengkakan gingiva dan kerusakan tulang dari marginal mengarahkan sumber infeksi ke jaringan periodontal. Tumpatan overhang menjadi faktor retensi plak yang mendukung abses periodontal dibandingkan infeksi primer dari pulpa."
   },
   {
     "id": "tryout-radiologi-dental-014",
@@ -9836,7 +10112,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Film yang dipasang terbalik dapat menampilkan pola lapisan timbal pelindung, sering disebut pola herringbone. Penyebabnya adalah berkas sinar melewati bagian belakang paket film sebelum mencapai emulsi."
   },
   {
     "id": "tryout-radiologi-dental-015",
@@ -9871,7 +10148,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Radiograf oklusal dapat memberikan sudut pandang tambahan terhadap gigi taring impaksi. Bila dikombinasikan dengan proyeksi lain, informasi ini membantu menentukan posisi gigi secara bukopalatal sesuai prinsip lokalisasi."
   },
   {
     "id": "tryout-radiologi-dental-016",
@@ -9906,7 +10184,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Cone cutting terjadi ketika berkas sinar tidak mencakup seluruh reseptor. Bagian yang tidak terpapar tampak putih dengan batas mengikuti bentuk kolimator, sehingga tidak menunjukkan detail gigi atau jaringan."
   },
   {
     "id": "tryout-radiologi-dental-017",
@@ -9941,7 +10220,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Panoramik memungkinkan evaluasi kedua molar ketiga bawah dan struktur rahang secara bersamaan. Pemeriksaan ini membantu menilai arah impaksi serta hubungan dengan gigi tetangga dan kanal mandibula sebelum perawatan."
   },
   {
     "id": "tryout-radiologi-dental-018",
@@ -9976,7 +10256,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Radiograf periapikal memberi detail akar dan jaringan pendukung pada gigi yang mengalami trauma. Bila dicurigai fraktur akar, proyeksi tambahan dengan perubahan sudut dapat diperlukan karena garis fraktur tidak selalu terlihat pada satu proyeksi."
   },
   {
     "id": "tryout-radiologi-dental-019",
@@ -10012,9 +10293,12 @@ export const tryoutQuestions = [
     ],
     "correctAnswer": "D",
     "topic": "Radiologi Dental",
+    "explanation": "Struktur radiopak berupa kumpulan gigi kecil yang dikelilingi batas radiolusen merupakan ciri compound odontoma. Lokasi anterior maksila dan gangguan erupsi gigi permanen pada kasus turut mendukung interpretasi tersebut.",
     "image": {
-      "src": "/questions/radiologi-dental/question-19.webp",
-      "alt": "Gambar soal 19 — Radiologi Dental"
+      "src": "/questions/radiologi-dental/question-19.png",
+      "alt": "Gambar soal 19 — Radiologi Dental",
+      "width": 652,
+      "height": 314
     }
   },
   {
@@ -10050,7 +10334,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Kista dentigerous berkaitan dengan mahkota gigi yang belum erupsi dan biasanya melekat di sekitar pertemuan email-sementum. Gambaran khasnya berupa radiolusensi perikoronal unilokular berbatas jelas, seperti yang dijelaskan pada gigi 38."
   },
   {
     "id": "tryout-radiologi-dental-021",
@@ -10085,7 +10370,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Bitewing memperlihatkan permukaan proksimal mahkota gigi posterior dengan baik sehingga membantu memperkirakan kedalaman karies. Pemilihan proyeksi sesuai kebutuhan diagnostik menghindari paparan yang tidak diperlukan."
   },
   {
     "id": "tryout-radiologi-dental-022",
@@ -10120,7 +10406,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Radiolusensi periapikal berbatas kortikal dapat mengarah pada dugaan kista radikular pada gigi dengan riwayat penyakit pulpa. Perlu review manual: batas radiopak tidak membuktikan kista; granuloma dan lesi lain dapat serupa sehingga diagnosis definitif tidak cukup dari foto saja."
   },
   {
     "id": "tryout-radiologi-dental-023",
@@ -10155,7 +10442,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Ankilosis adalah perlekatan langsung akar dengan tulang tanpa ligamen periodontal normal di antaranya. Hilangnya ruang periodontal serta lamina dura pada daerah perlekatan mendukung diagnosis dan dapat menyulitkan pencabutan."
   },
   {
     "id": "tryout-radiologi-dental-024",
@@ -10190,7 +10478,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Displasia dentin tipe radikular dapat menghasilkan mahkota yang tampak normal dengan akar sangat pendek atau hampir tidak terbentuk. Dukungan akar yang kurang menjelaskan kegoyangan gigi pada gambaran kasus."
   },
   {
     "id": "tryout-radiologi-dental-025",
@@ -10225,7 +10514,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Proyeksi reverse Towne digunakan untuk memperlihatkan daerah kondilus dan leher kondilus, termasuk pergeseran fragmen. Perlu review manual: teknik konvensional ini memerlukan posisi mulut yang sesuai, sehingga keterbatasan membuka mulut setelah trauma dapat menuntut pilihan pencitraan lain."
   },
   {
     "id": "tryout-radiologi-dental-026",
@@ -10260,7 +10550,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Kista residual adalah lesi kistik inflamasi yang tertinggal setelah gigi penyebab dicabut. Radiolusensi bulat berbatas tegas pada bekas lokasi gigi 36 sesuai dengan dugaan tersebut dan tetap memerlukan konfirmasi klinis serta pemeriksaan jaringan bila diangkat."
   },
   {
     "id": "tryout-radiologi-dental-027",
@@ -10295,7 +10586,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Infeksi berulang, fistula, dan destruksi tulang tidak teratur mendukung osteomielitis kronik. Sekuesterektomi berkaitan dengan pengangkatan tulang nekrotik atau sekuestrum yang dapat mempertahankan infeksi."
   },
   {
     "id": "tryout-radiologi-dental-028",
@@ -10330,7 +10622,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Fraksinasi membagi dosis radioterapi menjadi beberapa sesi agar jaringan normal memiliki kesempatan memperbaiki kerusakan antarsesi. Cara ini dapat mengurangi toksisitas, tetapi tidak sepenuhnya mencegah xerostomia; perencanaan dosis pada kelenjar saliva juga penting."
   },
   {
     "id": "tryout-radiologi-dental-029",
@@ -10365,7 +10658,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Gigi nonvital dengan radiolusensi apikal dapat mengalami lesi inflamasi odontogenik, termasuk kista radikular. Perlu review manual: diameter 3 mm dan batas tegas tidak cukup untuk menetapkan kista, karena granuloma atau lesi apikal lain dapat memberikan gambaran yang sama."
   },
   {
     "id": "tryout-radiologi-dental-030",
@@ -10400,7 +10694,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Radiologi Dental"
+    "topic": "Radiologi Dental",
+    "explanation": "Tidak adanya respons dingin mendukung nekrosis pulpa, sedangkan pembengkakan akut dan nyeri tekan serta perkusi mendukung abses apikal akut. Radiolusensi periapikal membantu menunjukkan keterlibatan jaringan apikal, tetapi diagnosis terutama menggabungkan temuan klinis dan tes pulpa."
   },
   {
     "id": "tryout-dental-material-001",
@@ -10435,7 +10730,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Sticky wax bersifat melekat saat dipanaskan dan menjadi kaku setelah dingin. Sifat tersebut membantu mempertahankan posisi fragmen gigi tiruan yang patah sementara sebelum prosedur reparasi permanen."
   },
   {
     "id": "tryout-dental-material-002",
@@ -10470,7 +10766,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Resin komposit direk dapat membangun kembali bagian insisal dengan warna menyerupai gigi dalam satu kunjungan. Fraktur yang terbatas pada email memungkinkan pendekatan adhesif yang mempertahankan jaringan gigi sehat."
   },
   {
     "id": "tryout-dental-material-003",
@@ -10505,7 +10802,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Eugenol dapat mengganggu proses polimerisasi radikal bebas pada bahan resin dan menurunkan kualitas ikatan dalam kondisi tertentu. Karena kasus melibatkan restorasi resin akrilik, kunci menghindari semen zinc oxide eugenol dan mengarahkan pilihan ke semen sementara yang kompatibel."
   },
   {
     "id": "tryout-dental-material-004",
@@ -10540,7 +10838,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Polyvinylsiloxane merupakan silikon adisi yang mengeras melalui reaksi tanpa produk sampingan volatil seperti alkohol. Hal ini membantu kestabilan dimensinya dibandingkan silikon kondensasi, dengan waktu pengecoran tetap mengikuti petunjuk produk."
   },
   {
     "id": "tryout-dental-material-005",
@@ -10575,7 +10874,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Alginat dan polyvinylsiloxane sama-sama menjadi bahan cetak elastik setelah mengeras. Keduanya dapat mengalami deformasi sementara saat melewati undercut lalu kembali mendekati bentuk awal, meskipun akurasi dan stabilitas dimensinya berbeda."
   },
   {
     "id": "tryout-dental-material-006",
@@ -10610,7 +10910,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Shear force bekerja sejajar dengan bidang perlekatan sehingga dapat menggeser bracket dari permukaan gigi. Beban saat menggigit benda keras dapat menghasilkan komponen gaya tersebut pada ikatan bracket dan bahan adhesif."
   },
   {
     "id": "tryout-dental-material-007",
@@ -10645,7 +10946,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Gipsum tipe IV memiliki kekuatan tinggi dan ekspansi pengerasan rendah. Karakteristik ini sesuai untuk pembuatan die yang harus mempertahankan detail serta ketepatan batas preparasi mahkota."
   },
   {
     "id": "tryout-dental-material-008",
@@ -10680,7 +10982,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Asam poliakrilat digunakan sebagai conditioner untuk membersihkan smear layer dan mempersiapkan permukaan dentin bagi GIC. Aplikasi harus mengikuti petunjuk bahan agar mendukung ikatan tanpa mengeringkan dentin secara berlebihan."
   },
   {
     "id": "tryout-dental-material-009",
@@ -10716,10 +11019,7 @@ export const tryoutQuestions = [
     ],
     "correctAnswer": "B",
     "topic": "Dental Material",
-    "image": {
-      "src": "/questions/dental-material/question-09.webp",
-      "alt": "Gambar soal 9 — Dental Material"
-    }
+    "explanation": "Cetakan alginat yang dibiarkan terbuka kehilangan air melalui penguapan dan dapat mengalami penyusutan, di samping proses sineresis. Penyimpanan lembap dalam wadah tertutup sesuai petunjuk produk serta pengecoran tepat waktu membantu mengurangi perubahan dimensi."
   },
   {
     "id": "tryout-dental-material-010",
@@ -10754,7 +11054,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Komposit flowable memiliki viskositas rendah sehingga dapat beradaptasi pada pit dan fisur yang sempit. Pemilihannya bergantung pada kedalaman lesi, kebutuhan preparasi, dan beban oklusal; fisur dalam tanpa kavitas juga perlu dinilai untuk sealant."
   },
   {
     "id": "tryout-dental-material-011",
@@ -10789,7 +11090,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Sectional matrix membantu membentuk kontur proksimal dan titik kontak pada restorasi komposit kelas II. Penggunaan wedge dan pemisahan gigi yang sesuai membantu menutup tepi gingival serta mengompensasi ketebalan matriks."
   },
   {
     "id": "tryout-dental-material-012",
@@ -10824,7 +11126,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Dalam klasifikasi generasi adhesif, generasi ketujuh menggabungkan etsa, primer, dan bonding dalam sistem self-etch satu langkah. Aplikasi tunggal tanpa tahap pembilasan pada kasus sesuai dengan konsep tersebut, dengan prosedur tetap mengikuti produk."
   },
   {
     "id": "tryout-dental-material-013",
@@ -10859,7 +11162,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Silikon adisi memberikan rekaman detail dan kestabilan dimensi yang baik untuk model kerja. Pada gigi tiruan sebagian, pemilihan bahan serta teknik cetak juga harus menyesuaikan dukungan gigi, mukosa, dan desain prostesis."
   },
   {
     "id": "tryout-dental-material-014",
@@ -10894,7 +11198,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Resin komposit menyusut saat monomer membentuk jaringan polimer. Bila tegangan penyusutan melampaui kekuatan ikatan, dapat terbentuk celah marginal; radiolusensi tetap perlu dibedakan dari karies sekunder atau artefak radiografis."
   },
   {
     "id": "tryout-dental-material-015",
@@ -10929,7 +11234,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Inlay wax digunakan untuk membuat pola restorasi yang kemudian diganti dengan logam melalui proses pengecoran. Pada mahkota metal-keramik, pola tersebut membentuk kerangka logam yang nantinya dilapisi porselen."
   },
   {
     "id": "tryout-dental-material-016",
@@ -10964,7 +11270,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Semen seng oksida eugenol dapat digunakan sebagai semen sementara karena relatif mudah dilepas. Perlu review manual: bila mahkota sementara atau prosedur adhesif berikutnya melibatkan resin, kompatibilitas eugenol harus diperiksa dan semen tanpa eugenol dapat lebih sesuai."
   },
   {
     "id": "tryout-dental-material-017",
@@ -10999,7 +11306,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Penyerapan air oleh matriks resin memudahkan masuknya zat pewarna dan dapat berkontribusi pada perubahan warna komposit. Pigmen kopi juga dapat menempel pada permukaan, terutama bila restorasi kasar atau kurang terpoles."
   },
   {
     "id": "tryout-dental-material-018",
@@ -11034,7 +11342,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Kalsium hidroksida digunakan sebagai medikamen intrakanal karena pH tingginya memberi efek antimikroba. Bahan ini tidak menjamin saluran steril dan tidak menggantikan debridemen serta irigasi yang memadai."
   },
   {
     "id": "tryout-dental-material-019",
@@ -11069,7 +11378,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Metal ceramic menggabungkan kerangka logam yang kuat dengan lapisan porselen untuk memperoleh bentuk dan warna gigi. Perlu review manual: informasi kehilangan jaringan pada soal belum cukup untuk memastikan mahkota diperlukan dibandingkan restorasi adhesif yang lebih konservatif."
   },
   {
     "id": "tryout-dental-material-020",
@@ -11104,7 +11414,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Kalsium hidroksida secara klasik digunakan sebagai bahan pelindung pulpa karena bersifat alkalis dan dapat merangsang pembentukan jaringan keras. Perlu review manual: pulpa yang sudah terbuka memerlukan diagnosis dan pemilihan terapi pulpa yang sesuai, bukan penempatan liner rutin semata."
   },
   {
     "id": "tryout-dental-material-021",
@@ -11139,7 +11450,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Adhesif generasi keempat menggunakan tiga tahap terpisah, yaitu etsa, primer, dan bonding. Adanya pembilasan setelah etsa membedakannya dari sistem self-etch."
   },
   {
     "id": "tryout-dental-material-022",
@@ -11174,7 +11486,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Sodium bikarbonat membantu pembersihan stain ekstrinsik melalui aksi abrasif dalam formulasi pasta gigi. Bahan ini tidak menghilangkan semua perubahan warna intrinsik, sehingga penyebab diskolorasi tetap perlu dibedakan."
   },
   {
     "id": "tryout-dental-material-023",
@@ -11209,7 +11522,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Benzoil peroksida merupakan inisiator yang menghasilkan radikal bebas untuk memulai polimerisasi resin akrilik. Aktivasi dapat terjadi melalui panas atau sistem kimia, bergantung pada jenis bahan."
   },
   {
     "id": "tryout-dental-material-024",
@@ -11244,7 +11558,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Camphorquinone menyerap cahaya biru dan bekerja bersama ko-inisiator untuk menghasilkan radikal bebas. Proses tersebut memulai polimerisasi komposit, dengan keberhasilan pengerasan dipengaruhi spektrum lampu, intensitas, ketebalan, dan waktu penyinaran."
   },
   {
     "id": "tryout-dental-material-025",
@@ -11279,7 +11594,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Gipsum tipe III atau dental stone umum digunakan untuk model kerja gigi tiruan lepasan. Kekuatan dan ketahanannya lebih baik daripada plaster tipe II, sementara kebutuhan die presisi tinggi dapat memerlukan tipe lain."
   },
   {
     "id": "tryout-dental-material-026",
@@ -11314,7 +11630,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Selopan strip atau matriks transparan memisahkan bahan restorasi anterior dari gigi sebelah dan membantu membentuk kontur proksimal. Transparansinya juga memungkinkan cahaya polimerisasi melewati matriks pada penumpatan komposit."
   },
   {
     "id": "tryout-dental-material-027",
@@ -11349,7 +11666,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "GIC dapat berikatan dengan jaringan gigi dan relatif lebih toleran terhadap kelembapan dibandingkan prosedur adhesif resin yang sangat sensitif terhadap kontaminasi. Perlu review manual: GIC tetap harus dilindungi dari saliva berlebihan dan pengeringan, terutama selama fase pengerasan awal; kelembapan tinggi bukan kondisi ideal."
   },
   {
     "id": "tryout-dental-material-028",
@@ -11384,7 +11702,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "ProTaper F3 merupakan finishing file yang digunakan dalam pembentukan saluran akar, terutama penyelesaian bagian apikal sesuai ukuran yang dibutuhkan. Pemilihan file harus mengikuti anatomi, ukuran apikal, dan urutan penggunaan yang sesuai."
   },
   {
     "id": "tryout-dental-material-029",
@@ -11419,7 +11738,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Alginat umum digunakan untuk mencetak model studi karena mudah dimanipulasi, elastik, dan cukup memadai untuk analisis bentuk lengkung. Cetakan perlu ditangani dan dicor sesuai waktu yang dianjurkan agar dimensinya tetap akurat."
   },
   {
     "id": "tryout-dental-material-030",
@@ -11454,7 +11774,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Dental Material"
+    "topic": "Dental Material",
+    "explanation": "Impression compound merupakan bahan termoplastik yang melunak saat dipanaskan dan mengeras kembali setelah dingin. Perlu review manual: tujuan pemeriksaan preparasi tidak dijelaskan rinci, sehingga kunci ini perlu ditinjau; compound bukan bahan cetak presisi untuk merekam seluruh detail preparasi inlay."
   },
   {
     "id": "tryout-biomedik-biologi-oral-001",
@@ -11489,7 +11810,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "IgG merupakan imunoglobulin yang dominan pada cairan sulkus gingiva dan berperan dalam respons terhadap antigen bakteri periodontal. Saat inflamasi meningkatkan aliran eksudat, komponen pertahanan dari serum lebih banyak mencapai sulkus."
   },
   {
     "id": "tryout-biomedik-biologi-oral-002",
@@ -11524,7 +11846,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Arteri alveolaris superior anterior menyuplai daerah gigi anterior maksila, termasuk insisivus sentral. Pada avulsi, hubungan vaskular gigi terputus sehingga penyebutan pembuluh ini merujuk pada suplai anatomis sebelum cedera."
   },
   {
     "id": "tryout-biomedik-biologi-oral-003",
@@ -11559,7 +11882,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Bikarbonat membantu menetralkan asam dengan menerima ion hidrogen dan membentuk sistem penyangga saliva. Fungsi ini penting untuk menekan penurunan pH yang memicu demineralisasi, terutama saat aliran saliva meningkat."
   },
   {
     "id": "tryout-biomedik-biologi-oral-004",
@@ -11594,7 +11918,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Reaksi segera setelah kontak lateks dengan gatal, bengkak, dan gangguan sistemik sesuai hipersensitivitas tipe I yang dimediasi IgE. Perlu review manual: pencatatan tekanan darah 60/100 tidak sesuai urutan sistolik-diastolik; gambaran klinis mengarah pada reaksi berat yang memerlukan penanganan segera."
   },
   {
     "id": "tryout-biomedik-biologi-oral-005",
@@ -11629,7 +11954,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Permukaan luar gingiva termasuk mukosa mastikasi yang dilapisi epitel skuamosa berlapis berkeratin atau parakeratin. Hal ini berbeda dari epitel sulkus dan junctional epithelium yang umumnya tidak berkeratin."
   },
   {
     "id": "tryout-biomedik-biologi-oral-006",
@@ -11664,7 +11990,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Sitologi eksfoliatif memanfaatkan sel permukaan yang terlepas atau diambil dengan usapan untuk dinilai morfologinya. Pada lesi menetap yang dicurigai karsinoma, sitologi tidak menggantikan biopsi jaringan untuk diagnosis definitif."
   },
   {
     "id": "tryout-biomedik-biologi-oral-007",
@@ -11699,7 +12026,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Proliferasi osteoblas dapat ditemukan pada lesi pembentuk tulang karena sel tersebut menghasilkan matriks osteoid. Perlu review manual: temuan ini sendiri tidak membuktikan tumor jinak dan harus dinilai bersama pola jaringan, atipia, serta gambaran klinis-radiologis."
   },
   {
     "id": "tryout-biomedik-biologi-oral-008",
@@ -11734,7 +12062,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Nekrosis sentral, sel epiteloid, limfosit, dan sel raksasa Langhans mengarahkan pada peradangan granulomatosa. Gejala batuk serta demam mendukung kemungkinan infeksi kronis spesifik seperti tuberkulosis, yang tetap membutuhkan pemeriksaan etiologi."
   },
   {
     "id": "tryout-biomedik-biologi-oral-009",
@@ -11769,7 +12098,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "White spot karies terbentuk karena mineral email berkurang sehingga porositas bawah permukaan meningkat. Perubahan hamburan cahaya membuat daerah tersebut tampak putih opak, terutama setelah dikeringkan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-010",
@@ -11804,7 +12134,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Osteoblas menghasilkan osteoid yang kemudian mengalami mineralisasi dalam pembentukan tulang baru. Aktivitasnya membantu menjembatani dan menyatukan daerah fraktur selama proses penyembuhan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-011",
@@ -11839,7 +12170,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Nervus lingualis membawa sensasi umum dari dua pertiga anterior lidah, dasar mulut, dan gingiva lingual mandibula. Kedekatan lokasinya dengan area blok mandibula menjelaskan baal pada lidah serta dasar mulut setelah injeksi."
   },
   {
     "id": "tryout-biomedik-biologi-oral-012",
@@ -11874,7 +12206,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Degenerasi hialin menggambarkan perubahan jaringan menjadi bahan homogen, amorf, dan eosinofilik pada pewarnaan histologi. Gambaran timbunan di antara fibroblas sesuai deskripsi tersebut, tetapi istilah ini merupakan pola perubahan jaringan dan bukan diagnosis etiologis tunggal."
   },
   {
     "id": "tryout-biomedik-biologi-oral-013",
@@ -11909,7 +12242,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Struktur epitel menyerupai duktus merupakan petunjuk khas adenomatoid odontogenic tumor, yang berkaitan dengan istilah lama pada kunci. Perlu review manual: lokasi posterior mandibula dan gambaran multilokular kurang khas untuk tumor ini sehingga perlu korelasi ulang dengan preparat histopatologi."
   },
   {
     "id": "tryout-biomedik-biologi-oral-014",
@@ -11944,7 +12278,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Depapilasi pada geographic tongue terutama mengenai papila filiformis sehingga tampak area merah yang relatif licin. Perubahan lokasi serta batas lesi dari waktu ke waktu sesuai sifat benign migratory glossitis."
   },
   {
     "id": "tryout-biomedik-biologi-oral-015",
@@ -11979,7 +12314,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Nervus alveolaris superior posterior memberi persarafan pada molar atas dan jaringan bukal terkait, sedangkan nervus palatinus mayor pada jaringan palatal posterior. Pencabutan 27 membutuhkan anestesi jaringan gigi serta mukosa di kedua sisi tersebut."
   },
   {
     "id": "tryout-biomedik-biologi-oral-016",
@@ -12014,7 +12350,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Biopsi insisi mengambil sebagian jaringan representatif untuk menilai plak putih yang menetap dan tidak dapat dikerok. Riwayat rokok serta alkohol meningkatkan perhatian terhadap displasia atau keganasan, yang tidak dapat dipastikan hanya dari tampilan klinis."
   },
   {
     "id": "tryout-biomedik-biologi-oral-017",
@@ -12049,7 +12386,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Poliuria, peningkatan nafsu makan, penurunan berat badan, dan hiposalivasi mengarahkan evaluasi ke diabetes melitus. Pemeriksaan gula darah puasa dapat digunakan untuk menilai kemungkinan hiperglikemia, dengan interpretasi serta konfirmasi sesuai konteks klinis."
   },
   {
     "id": "tryout-biomedik-biologi-oral-018",
@@ -12084,7 +12422,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Histatin merupakan peptida saliva yang berperan dalam pertahanan antijamur, termasuk terhadap Candida. Aktivitasnya membantu mengendalikan pertumbuhan jamur, bersama aliran saliva dan mekanisme pertahanan lainnya."
   },
   {
     "id": "tryout-biomedik-biologi-oral-019",
@@ -12119,7 +12458,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Tetrasiklin dapat berikatan dengan mineral jaringan gigi yang sedang terbentuk dan menyebabkan diskolorasi intrinsik. Perlu review manual: waktu paparan harus sesuai masa mineralisasi gigi yang terkena; paparan hanya saat trimester kedua tidak otomatis menjelaskan perubahan warna seluruh gigi permanen pada usia 13 tahun."
   },
   {
     "id": "tryout-biomedik-biologi-oral-020",
@@ -12154,7 +12494,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Serabut C tidak bermielin menghantarkan impuls relatif lambat dan berperan pada nyeri tumpul, menetap, serta sulit dilokalisasi. Karakter ini berbeda dari serabut A-delta yang lebih berkaitan dengan nyeri tajam singkat."
   },
   {
     "id": "tryout-biomedik-biologi-oral-021",
@@ -12189,7 +12530,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Mekanoreseptor ligamen periodontal mendeteksi perubahan tekanan dan perpindahan gigi saat menerima beban kunyah. Informasi sensoriknya membantu mengatur kekuatan gigitan dan melindungi gigi dari beban berlebihan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-022",
@@ -12224,7 +12566,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Histatin termasuk protein atau peptida kaya histidin dalam saliva yang mempunyai aktivitas antijamur. Perlu review manual: adanya kandidiasis tidak dengan sendirinya membuktikan gangguan komponen ini karena aliran saliva, gigi tiruan, obat, dan faktor sistemik juga dapat berperan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-023",
@@ -12259,7 +12602,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Prostaglandin terbentuk dalam respons inflamasi dan meningkatkan sensitivitas ujung saraf terhadap rangsangan nyeri. Mediator ini turut menjelaskan hiperalgesia pada inflamasi pulpa, bersama mediator inflamasi lainnya."
   },
   {
     "id": "tryout-biomedik-biologi-oral-024",
@@ -12294,7 +12638,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Candida albicans merupakan jamur yang sering terkait kandidiasis oral dan pemakaian gigi tiruan dapat menjadi faktor predisposisi. Perlu review manual: plak putih yang sulit dibersihkan dan menetap juga memerlukan diagnosis banding, sehingga penyebab tidak dapat dipastikan hanya dari riwayat gigi tiruan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-025",
@@ -12329,7 +12674,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "D",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Bahan pelindung pulpa bertujuan mempertahankan lingkungan yang mendukung vitalitas dan pembentukan dentin tersier. Pada karies dalam tanpa paparan pulpa, tindakan ini harus disertai pengendalian karies dan segel restorasi yang baik."
   },
   {
     "id": "tryout-biomedik-biologi-oral-026",
@@ -12364,7 +12710,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "B",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Fusobacterium nucleatum dapat berperan dalam komunitas bakteri pada penyakit periodontal nekrotik. Nekrosis papila, pseudomembran, nyeri, dan bau mulut mendukung kasus tersebut, tetapi penyakitnya bersifat polimikroba dan bukan disebabkan satu spesies saja."
   },
   {
     "id": "tryout-biomedik-biologi-oral-027",
@@ -12399,7 +12746,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Biopsi insisi memungkinkan pemeriksaan arsitektur jaringan pada lesi putih menetap yang dicurigai mengalami displasia. Riwayat merokok dan lokasi lidah memperkuat alasan evaluasi histopatologis, walaupun tidak memastikan keganasan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-028",
@@ -12434,7 +12782,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "A",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Papiloma menunjukkan pertumbuhan epitel skuamosa berbentuk tonjolan menyerupai jari dengan inti jaringan ikat. Akantosis dan hiperkeratosis pada struktur papiler sesuai gambaran histopatologis tersebut."
   },
   {
     "id": "tryout-biomedik-biologi-oral-029",
@@ -12469,7 +12818,8 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "C",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Cytological smear merupakan cara sederhana mengambil sel permukaan untuk pemeriksaan sitologi. Perlu review manual: ulkus 10 bulan dengan indurasi dan tepi menggulung sangat memerlukan biopsi atau rujukan segera; hasil usapan tidak cukup untuk menyingkirkan keganasan."
   },
   {
     "id": "tryout-biomedik-biologi-oral-030",
@@ -12504,6 +12854,7 @@ export const tryoutQuestions = [
       }
     ],
     "correctAnswer": "E",
-    "topic": "Biomedik & Biologi Oral"
+    "topic": "Biomedik & Biologi Oral",
+    "explanation": "Neutrofil merupakan sel yang cepat datang pada fase awal inflamasi akut untuk memfagositosis mikroorganisme dan debris. Pada tahap berikutnya, makrofag juga penting dalam pembersihan jaringan serta pengaturan proses perbaikan."
   }
 ] satisfies Question[];

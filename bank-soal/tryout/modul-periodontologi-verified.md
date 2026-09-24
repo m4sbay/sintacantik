@@ -22,6 +22,9 @@ Seorang wanita berusia 25 tahun datang ke RSGM dengan keluhan bau mulut. Pemerik
 **Jawaban Benar:**  
 D. Bleding on probing
 
+**Pembahasan:**
+Bleeding on probing menunjukkan jaringan gingiva mudah berdarah ketika diperiksa dengan tekanan probing yang sesuai. Temuan ini merupakan tanda inflamasi, terutama bila disertai plak atau kalkulus, tetapi tidak sendirian membuktikan kehilangan perlekatan periodontal.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Seorang wanita usia 30 tahun datang ke RSGM dengan keluhan gigi atas dan bawah k
 
 **Jawaban Benar:**  
 E. Aggregatibacter actinomycetemcomitans
+
+**Pembahasan:**
+Aggregatibacter actinomycetemcomitans dikaitkan dengan sebagian pola periodontitis progresif pada usia muda. Kerusakan berat dengan plak relatif sedikit mendukung alasan kunci, tetapi bakteri dominan tidak dapat dipastikan hanya melalui gambaran klinis tanpa pemeriksaan mikrobiologis.
 
 ---
 
@@ -56,6 +62,9 @@ Seorang laki-laki usia 40 tahun datang ke RSGM dengan keluhan gigi depan bawah g
 **Jawaban Benar:**  
 D. Chronic periodontitis
 
+**Pembahasan:**
+Kalkulus/plak yang banyak, inflamasi, kegoyangan, dan kehilangan tulang horizontal mendukung periodontitis yang dalam klasifikasi lama disebut kronis. Diabetes dapat memodifikasi risiko serta respons penyembuhan; klasifikasi modern menggunakan stadium dan derajat penyakit.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang laki-laki usia 26 tahun datang ke RSGM dengan keluhan gusi bawah depan s
 
 **Jawaban Benar:**  
 B. Debridement, scaling supragingiva, medikamentosa
+
+**Pembahasan:**
+Papila berbentuk crater, nyeri, perdarahan, dan gejala sistemik sesuai penyakit gingiva nekrotik. Kunjungan awal berfokus pada debridemen lembut, pembersihan supragingiva, serta medikasi sesuai kebutuhan untuk mengendalikan fase akut.
 
 ---
 
@@ -90,6 +102,9 @@ Seorang Wanita berusia 50 tahun datang ke RSGM dengan keluhan sakit pada gigi ba
 **Jawaban Benar:**  
 B. Trauma oklusi sekunder
 
+**Pembahasan:**
+Trauma oklusi sekunder terjadi ketika gaya oklusal bekerja pada jaringan penyangga yang sudah berkurang. Poket dalam dan kerusakan tulang menandakan dukungan periodontal terganggu, sedangkan gigi yang miring setelah kehilangan tetangga dapat menerima beban tidak menguntungkan.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Seorang Wanita berusia 25 tahun datang ke RSGM dengan keluhan gusi depan atas me
 
 **Jawaban Benar:**  
 E. Chronic inflammatory enlargement
+
+**Pembahasan:**
+Alat ortodontik dapat memudahkan retensi plak sehingga memicu pembesaran gingiva inflamatorik kronis. Gingiva merah, BOP positif, dan tidak adanya kehilangan tulang mendukung pembesaran dengan pseudopoket dibanding kerusakan periodontal tulang.
 
 ---
 
@@ -124,6 +142,9 @@ Seorang perempuan berusia 38 tahun datang ke RSGM dengan keluhan gusi berdarah s
 **Jawaban Benar:**  
 D. Poket infraboni
 
+**Pembahasan:**
+Pada poket infraboni, dasar poket terletak lebih apikal daripada puncak tulang alveolar yang berdekatan. Defek tulang anguler atau vertikal mendukung konfigurasi ini.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Seorang wanita berusia 54 tahun datang ke RSGM dengan keluhan gusi bawah depan s
 
 **Jawaban Benar:**  
 A. Gingivektomi
+
+**Pembahasan:**
+Gingivektomi dapat menghilangkan pembesaran gingiva dan pseudopoket tanpa kehilangan tulang bila kondisi jaringan memungkinkan. Tindakan dilakukan setelah pengendalian plak dan evaluasi obat penyebab, bukan hanya karena pasien memiliki hipertensi.
 
 ---
 
@@ -158,6 +182,9 @@ Seorang Wanita berusia 25 tahun dating ke RSGM dengan keluhan gusi bawah depan a
 **Jawaban Benar:**  
 A. Eksisi trimester 1
 
+**Pembahasan:**
+Eksisi dapat dipertimbangkan bila epulis mengganggu fungsi atau menyebabkan perdarahan yang sulit dikendalikan. Perlu review manual: trimester pertama bukan waktu rutin yang wajib untuk eksisi elektif; lesi kehamilan sering ditangani dengan kontrol iritan dan pemantauan, sedangkan tindakan ditentukan kebutuhan klinis.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Seorang wanita berusia 54 tahun datang ke RSGM dengan keluhan gusi bawah depan s
 
 **Jawaban Benar:**  
 C. Orband, kirkland, pocket marker
+
+**Pembahasan:**
+Pocket marker menandai kedalaman poket pada permukaan gingiva sebelum eksisi. Pisau Kirkland digunakan pada permukaan fasial/lingual, sedangkan pisau Orban membantu area interdental dalam prosedur gingivektomi.
 
 ---
 
@@ -192,6 +222,9 @@ Seorang wanita berusia 54 tahun datang ke RSGM dengan keluhan gigi depan atas go
 **Jawaban Benar:**  
 A. Resesi belum mencapai mucogingival junction, pergerakan gigi arah horizontal lebih dari 1mm
 
+**Pembahasan:**
+Kegoyangan derajat 2 berarti pergerakan horizontal lebih dari 1 mm tanpa mobilitas vertikal. Perlu review manual: resesi Miller kelas II justru mencapai atau melewati mucogingival junction tanpa kehilangan jaringan interdental, sehingga bagian deskripsi resesi dalam kunci tidak konsisten.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Seorang perempuan berusia 38 tahun, datang ke RSGMP dengan keluhan Gusi atas kir
 
 **Jawaban Benar:**  
 A. Kuret gracey
+
+**Pembahasan:**
+Kuret Gracey merupakan instrumen spesifik area untuk debridemen subgingiva dan permukaan akar. Instrumen ini dapat dipakai dalam tindakan periodontal, tetapi istilah fase 2 perlu diperjelas karena SRP umumnya termasuk terapi awal nonbedah.
 
 ---
 
@@ -226,6 +262,9 @@ Seorang laki-laki berusia 50 tahun datang ke RSGM dengan keluhan gigi depan bawa
 **Jawaban Benar:**  
 A. Skeling
 
+**Pembahasan:**
+Kebersihan mulut yang buruk menunjukkan biofilm dan kalkulus sebagai faktor lokal yang harus dikendalikan terlebih dahulu. Skeling merupakan langkah awal untuk mengurangi inflamasi sebelum menilai kebutuhan splint atau tindakan lanjutan.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ Seorang laki-laki berusia 37 tahun datang ke RSGM dengan keluhan sakit pada gusi
 
 **Jawaban Benar:**  
 A. Preliminary phase
+
+**Pembahasan:**
+Penyakit gingiva nekrotik dengan nyeri dan demam memerlukan penanganan kegawatan terlebih dahulu. Preliminary phase bertujuan mengendalikan gejala akut sebelum melanjutkan terapi periodontal komprehensif.
 
 ---
 
@@ -260,6 +302,9 @@ Seorang laki – laki berusia 28 tahun datang ke RSGM dengan keluhan gigi belaka
 **Jawaban Benar:**  
 A. Kombinasi Amoxycilin dan Metronidazole
 
+**Pembahasan:**
+Amoksisilin dan metronidazol memberikan cakupan terhadap kelompok bakteri periodontal yang berbeda. Kombinasi ini dapat menjadi tambahan pada kasus terpilih dengan progresi cepat, tetapi tidak rutin diberikan hanya karena poket dalam dan tidak menggantikan debridemen mekanis.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ Seorang laki-laki berusia 47 tahun datang ke RSGM dengan keluhan gigi belakang k
 
 **Jawaban Benar:**  
 C. Gingiva merah disertai poket 4 mm, terdapat Kehilangan tulang
+
+**Pembahasan:**
+Periodontitis ditandai kerusakan perlekatan dan tulang penyangga, bukan sekadar gingiva merah. Kombinasi poket, inflamasi, dan kehilangan tulang pada radiograf mendukung diagnosis yang disebut kronis dalam klasifikasi lama.
 
 ---
 
@@ -294,6 +342,9 @@ Seorang laki-laki berusia 30 tahun datang ke dokter gigi dengan keluhan gusi mud
 **Jawaban Benar:**  
 C. Pseudo pocket
 
+**Pembahasan:**
+Edema dapat menggeser margin gingiva ke arah koronal sehingga kedalaman probing meningkat tanpa migrasi perlekatan ke apikal. Kondisi ini disebut pseudopoket, berbeda dari poket periodontal sejati dengan kehilangan perlekatan.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ Seorang perempuan berusia 35 tahun datang ke RSGM dengan keluhan gusi berdarah t
 
 **Jawaban Benar:**  
 D. Periodontitis kronis generalis
+
+**Pembahasan:**
+Kunci menafsirkan perubahan puncak tulang sebagai periodontitis generalis. Perlu review manual: jarak crest sekitar 2 mm dari CEJ dan poket 3 mm dapat masih berada dalam rentang normal, sehingga diperlukan bukti kehilangan perlekatan serta distribusinya untuk membedakan periodontitis dari gingivitis.
 
 ---
 
@@ -328,6 +382,9 @@ Seorang laki-laki berusia 20 tahun datang ke RSGM dengan keluhan gigi depan atas
 **Jawaban Benar:**  
 B. Splinting dan bedah flap periodontal
 
+**Pembahasan:**
+Splint membantu menstabilkan gigi yang goyang sehingga fungsi dan kenyamanan membaik. Pada poket dalam yang menetap setelah terapi awal, flap periodontal memberi akses debridemen dan penilaian defek vertikal untuk perawatan lanjutan.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ Seorang perempuan berusia 25 tahun datang ke dokter gigi dengan keluhan gusi ber
 
 **Jawaban Benar:**  
 D. Kuret gracey #11-12
+
+**Pembahasan:**
+Gracey 11–12 dirancang untuk permukaan mesial gigi posterior. Bentuk shank dan working end memungkinkan adaptasi pada akar molar atas sehingga kalkulus subgingiva mesial dapat dibersihkan.
 
 ---
 
@@ -362,6 +422,9 @@ Seorang laki laki berusia 30 tahun datang ke RSGM dengan keluhan sakit pada gusi
 **Jawaban Benar:**  
 B. Drainase
 
+**Pembahasan:**
+Fluktuasi menunjukkan kumpulan pus yang membutuhkan jalan keluar. Drainase mengurangi tekanan dan nyeri, disertai pengeluaran benda asing atau faktor lokal yang memicu abses gingiva.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ Seorang laki-laki usia 35 tahun datang ke RSGM dengan keluhan gusi kanan bawah b
 
 **Jawaban Benar:**  
 E. Scalpel, rasparatorium dan kuret
+
+**Pembahasan:**
+Scalpel membuat insisi, rasparatorium mengangkat flap mukoperiosteal, dan kuret membersihkan jaringan granulasi serta deposit pada akar. Kombinasi instrumen ini mendukung akses bedah pada lesi periodontal dengan kerusakan tulang.
 
 ---
 
@@ -396,6 +462,9 @@ Pemeriksaan intraoral gigi 17 poket 5mm disertai trauma karena oklusi. Pada kunj
 **Jawaban Benar:**  
 E. Fase inisial
 
+**Pembahasan:**
+Occlusal adjustment mengurangi kontak prematur atau beban berlebihan sebagai bagian pengendalian faktor etiologis. Karena dilakukan pada terapi awal untuk mengurangi trauma oklusi, tindakan ini termasuk fase inisial.
+
 ---
 
 ## Soal 24
@@ -412,6 +481,9 @@ Seorang laki-laki berusia 33 tahun datang ke RSGM dengan keluhan bau mulut dan g
 
 **Jawaban Benar:**  
 D. DHE + scaling root planing
+
+**Pembahasan:**
+DHE membantu pasien mengendalikan plak setiap hari, sedangkan scaling-root planing menghilangkan deposit dan biofilm subgingiva. Kombinasi keduanya merupakan dasar terapi awal pada inflamasi periodontal dengan kehilangan perlekatan.
 
 ---
 
@@ -430,6 +502,9 @@ Seorang dokter gigi melakukan pemeriksaan kondisi jaringan periodontal pada pasi
 **Jawaban Benar:**  
 E. Jarak dari crest gingival margin ke dasar poket
 
+**Pembahasan:**
+Kedalaman poket diukur dari margin gingiva ke dasar sulkus atau poket menggunakan probe. Ini berbeda dari clinical attachment level yang memakai CEJ sebagai titik acuan tetap.
+
 ---
 
 ## Soal 26
@@ -446,6 +521,9 @@ Pasien usia 55 tahun datang dengan keluhan gigi goyang dan susah mengunyah makan
 
 **Jawaban Benar:**  
 D. Splinting
+
+**Pembahasan:**
+Splinting menghubungkan gigi goyang dengan gigi lain agar beban terbagi dan fungsi lebih nyaman. Tindakan ini bersifat pendukung sambil kondisi metabolik serta penyakit periodontal ditangani, bukan pengganti kontrol infeksi.
 
 ---
 
@@ -464,6 +542,9 @@ Seorang perempuan usia 29 tahun datang ke RSGM dengan keluhan gigi belakang kana
 **Jawaban Benar:**  
 D. Palm up fulcrum finger rest
 
+**Pembahasan:**
+Palm-up extraoral fulcrum dapat dipakai untuk memperoleh penopang tangan saat menginstrumentasi posterior maksila kanan. Penopang yang stabil membantu kontrol gerakan dan tekanan kuret pada permukaan bukal.
+
 ---
 
 ## Soal 28
@@ -480,6 +561,9 @@ Seorang perempuan berusia 33 tahun datang ke RSGM karena gusinya merah dan sanga
 
 **Jawaban Benar:**  
 D. Orange complex (P. Nigrescens, P. Micros, P. Intermedia)
+
+**Pembahasan:**
+Bakteri orange complex berperan dalam pematangan biofilm dan berasosiasi dengan inflamasi periodontal. Spesies yang dicantumkan pada kunci termasuk kelompok tersebut, tetapi warna gingiva dan indeks plak tidak dapat menentukan komposisi bakteri secara pasti.
 
 ---
 
@@ -498,6 +582,9 @@ Seorang laki-laki berusia 37 tahun datang ke RSGMdengan keluhan sakit saat makan
 **Jawaban Benar:**  
 B. Plunger cusps
 
+**Pembahasan:**
+Plunger cusp adalah cusp yang mendorong makanan ke ruang interproksimal gigi lawan saat oklusi. Kontak cusp gigi 17 tepat di antara 46 dan 47 menjelaskan impaksi makanan dan iritasi periodontal lokal.
+
 ---
 
 ## Soal 30
@@ -514,5 +601,8 @@ Seorang perempuan berusia 27 tahun datang ke RSGM dengan keluhan gusi depan bawa
 
 **Jawaban Benar:**  
 D. Necrotizing ulcerative gingivitis
+
+**Pembahasan:**
+Nyeri, perdarahan, bau atau rasa logam, serta pseudomembran keabuan mendukung necrotizing ulcerative gingivitis. Tidak adanya kehilangan tulang membedakannya dari penyakit periodontal nekrotik yang sudah merusak jaringan penyangga.
 
 ---

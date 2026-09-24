@@ -22,6 +22,9 @@ Seorang laki-laki berusia 30 tahun didiagnosis periodontitis. Hal ini menyebabka
 **Jawaban Benar:**  
 E. IgG
 
+**Pembahasan:**
+IgG merupakan imunoglobulin yang dominan pada cairan sulkus gingiva dan berperan dalam respons terhadap antigen bakteri periodontal. Saat inflamasi meningkatkan aliran eksudat, komponen pertahanan dari serum lebih banyak mencapai sulkus.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Seorang anak berusia 7 tahun datang ke dokter gigi bersama ibunya. Anamnesis, gi
 
 **Jawaban Benar:**  
 E. Arteri alveolaris superior anterior
+
+**Pembahasan:**
+Arteri alveolaris superior anterior menyuplai daerah gigi anterior maksila, termasuk insisivus sentral. Pada avulsi, hubungan vaskular gigi terputus sehingga penyebutan pembuluh ini merujuk pada suplai anatomis sebelum cedera.
 
 ---
 
@@ -56,6 +62,9 @@ Salah satu faktor resiko munculnya karies akar adalah menurunnya kuantitas dan k
 **Jawaban Benar:**  
 A. Bikarbonat
 
+**Pembahasan:**
+Bikarbonat membantu menetralkan asam dengan menerima ion hidrogen dan membentuk sistem penyangga saliva. Fungsi ini penting untuk menekan penurunan pH yang memicu demineralisasi, terutama saat aliran saliva meningkat.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang pasien datang ke dokter gigi untuk pertama kalinya, pasien ingin memerik
 
 **Jawaban Benar:**  
 C. Reaksi hipersensitivitas tipe 1
+
+**Pembahasan:**
+Reaksi segera setelah kontak lateks dengan gatal, bengkak, dan gangguan sistemik sesuai hipersensitivitas tipe I yang dimediasi IgE. Perlu review manual: pencatatan tekanan darah 60/100 tidak sesuai urutan sistolik-diastolik; gambaran klinis mengarah pada reaksi berat yang memerlukan penanganan segera.
 
 ---
 
@@ -90,6 +102,9 @@ Seorang anak berusia 7 tahun datang ke dokter gigi bersama ibunya. Anamnesis, gi
 **Jawaban Benar:**  
 A. Stratified squamous keratinized epithelium
 
+**Pembahasan:**
+Permukaan luar gingiva termasuk mukosa mastikasi yang dilapisi epitel skuamosa berlapis berkeratin atau parakeratin. Hal ini berbeda dari epitel sulkus dan junctional epithelium yang umumnya tidak berkeratin.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Seorang pasien laki-laki usia 50 tahun datang ke RSGM dengan keluhan sariawan di
 
 **Jawaban Benar:**  
 C. Karena sifat sel tumor ganas yang mudah lepas
+
+**Pembahasan:**
+Sitologi eksfoliatif memanfaatkan sel permukaan yang terlepas atau diambil dengan usapan untuk dinilai morfologinya. Pada lesi menetap yang dicurigai karsinoma, sitologi tidak menggantikan biopsi jaringan untuk diagnosis definitif.
 
 ---
 
@@ -124,6 +142,9 @@ Pasien laki-laki berusia 30 tahun datang ke RSGM dengan diagnosis sementara tumo
 **Jawaban Benar:**  
 A. Proliferasi sel osteoblas
 
+**Pembahasan:**
+Proliferasi osteoblas dapat ditemukan pada lesi pembentuk tulang karena sel tersebut menghasilkan matriks osteoid. Perlu review manual: temuan ini sendiri tidak membuktikan tumor jinak dan harus dinilai bersama pola jaringan, atipia, serta gambaran klinis-radiologis.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Penderita laki-laki berusia 45 tahun datang ke RSGM dengan keluhan adanya benjol
 
 **Jawaban Benar:**  
 E. Infeksi kronis spesifik granulomatosa
+
+**Pembahasan:**
+Nekrosis sentral, sel epiteloid, limfosit, dan sel raksasa Langhans mengarahkan pada peradangan granulomatosa. Gejala batuk serta demam mendukung kemungkinan infeksi kronis spesifik seperti tuberkulosis, yang tetap membutuhkan pemeriksaan etiologi.
 
 ---
 
@@ -158,6 +182,9 @@ Seorang perempuan berusia 40 tahun datang ke RSGM dengan keluhan gigi berlubang.
 **Jawaban Benar:**  
 E. Demineralisasi email
 
+**Pembahasan:**
+White spot karies terbentuk karena mineral email berkurang sehingga porositas bawah permukaan meningkat. Perubahan hamburan cahaya membuat daerah tersebut tampak putih opak, terutama setelah dikeringkan.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Seorang perempuan berusia 27 tahun datang ke RSGM untuk melakukan kontrol pasca 
 
 **Jawaban Benar:**  
 C. Osteoblas
+
+**Pembahasan:**
+Osteoblas menghasilkan osteoid yang kemudian mengalami mineralisasi dalam pembentukan tulang baru. Aktivitasnya membantu menjembatani dan menyatukan daerah fraktur selama proses penyembuhan.
 
 ---
 
@@ -192,6 +222,9 @@ Seorang laki-laki berusia 25 tahun datang ke RSGM dengan keluhan gigi geraham bu
 **Jawaban Benar:**  
 B. Nervus lingualis
 
+**Pembahasan:**
+Nervus lingualis membawa sensasi umum dari dua pertiga anterior lidah, dasar mulut, dan gingiva lingual mandibula. Kedekatan lokasinya dengan area blok mandibula menjelaskan baal pada lidah serta dasar mulut setelah injeksi.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Seorang perempuan berusia 40 tahun datang ke RSGM dengan keluhan adanya benjolan
 
 **Jawaban Benar:**  
 C. Degenerasi hyalin
+
+**Pembahasan:**
+Degenerasi hialin menggambarkan perubahan jaringan menjadi bahan homogen, amorf, dan eosinofilik pada pewarnaan histologi. Gambaran timbunan di antara fibroblas sesuai deskripsi tersebut, tetapi istilah ini merupakan pola perubahan jaringan dan bukan diagnosis etiologis tunggal.
 
 ---
 
@@ -226,6 +262,9 @@ Pasien laki-laki usia 30 tahun datang ke RSGM dengan pembengkakan rahang regio m
 **Jawaban Benar:**  
 D. Ameloblastik adenomatoid tumor
 
+**Pembahasan:**
+Struktur epitel menyerupai duktus merupakan petunjuk khas adenomatoid odontogenic tumor, yang berkaitan dengan istilah lama pada kunci. Perlu review manual: lokasi posterior mandibula dan gambaran multilokular kurang khas untuk tumor ini sehingga perlu korelasi ulang dengan preparat histopatologi.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ Seorang perempuan berusia 59 tahun datang ke RSGM ingin memeriksakan lidahnya ya
 
 **Jawaban Benar:**  
 E. Papilla filiformis
+
+**Pembahasan:**
+Depapilasi pada geographic tongue terutama mengenai papila filiformis sehingga tampak area merah yang relatif licin. Perubahan lokasi serta batas lesi dari waktu ke waktu sesuai sifat benign migratory glossitis.
 
 ---
 
@@ -260,6 +302,9 @@ Seorang perempuan berusia 30 tahun datang Ke dokter gigi Untuk melakukan pencabu
 **Jawaban Benar:**  
 A. N. alveolaris superior posterior dan n palatinus mayus
 
+**Pembahasan:**
+Nervus alveolaris superior posterior memberi persarafan pada molar atas dan jaringan bukal terkait, sedangkan nervus palatinus mayor pada jaringan palatal posterior. Pencabutan 27 membutuhkan anestesi jaringan gigi serta mukosa di kedua sisi tersebut.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ Seorang laki-laki berusia 43 tahun datang ke RSGM dengan keluhan bercak putih di
 
 **Jawaban Benar:**  
 E. Biopsi insisi
+
+**Pembahasan:**
+Biopsi insisi mengambil sebagian jaringan representatif untuk menilai plak putih yang menetap dan tidak dapat dikerok. Riwayat rokok serta alkohol meningkatkan perhatian terhadap displasia atau keganasan, yang tidak dapat dipastikan hanya dari tampilan klinis.
 
 ---
 
@@ -294,6 +342,9 @@ Seorang perempuan berusia 60 tahun datang ke RSGM dengan keluhan mulut kering se
 **Jawaban Benar:**  
 E. Gula darah puasa
 
+**Pembahasan:**
+Poliuria, peningkatan nafsu makan, penurunan berat badan, dan hiposalivasi mengarahkan evaluasi ke diabetes melitus. Pemeriksaan gula darah puasa dapat digunakan untuk menilai kemungkinan hiperglikemia, dengan interpretasi serta konfirmasi sesuai konteks klinis.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan keluhan bercak putih pa
 
 **Jawaban Benar:**  
 A. Histatin
+
+**Pembahasan:**
+Histatin merupakan peptida saliva yang berperan dalam pertahanan antijamur, termasuk terhadap Candida. Aktivitasnya membantu mengendalikan pertumbuhan jamur, bersama aliran saliva dan mekanisme pertahanan lainnya.
 
 ---
 
@@ -328,6 +382,9 @@ Seorang anak perempuan berusia 13 tahun diantar ibunya ke RSGM dengan keluhan wa
 **Jawaban Benar:**  
 E. Tetrasiklin
 
+**Pembahasan:**
+Tetrasiklin dapat berikatan dengan mineral jaringan gigi yang sedang terbentuk dan menyebabkan diskolorasi intrinsik. Perlu review manual: waktu paparan harus sesuai masa mineralisasi gigi yang terkena; paparan hanya saat trimester kedua tidak otomatis menjelaskan perubahan warna seluruh gigi permanen pada usia 13 tahun.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ Seorang laki-laki berusia 30 tahun datang ke RSGM dengan keluhan nyeri gigi bawa
 
 **Jawaban Benar:**  
 D. Saraf C tidak bermyelin
+
+**Pembahasan:**
+Serabut C tidak bermielin menghantarkan impuls relatif lambat dan berperan pada nyeri tumpul, menetap, serta sulit dilokalisasi. Karakter ini berbeda dari serabut A-delta yang lebih berkaitan dengan nyeri tajam singkat.
 
 ---
 
@@ -362,6 +422,9 @@ Seorang mahasiswa FKG sedang meneliti tentang perbandingan kekuatan gigit gigi a
 **Jawaban Benar:**  
 E. Mekanoreseptor
 
+**Pembahasan:**
+Mekanoreseptor ligamen periodontal mendeteksi perubahan tekanan dan perpindahan gigi saat menerima beban kunyah. Informasi sensoriknya membantu mengatur kekuatan gigitan dan melindungi gigi dari beban berlebihan.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ Seorang perempuan usia 65 tahun datang ke RSGM dengan keluhan sakit pada langit-
 
 **Jawaban Benar:**  
 D. Histidine-rich protein
+
+**Pembahasan:**
+Histatin termasuk protein atau peptida kaya histidin dalam saliva yang mempunyai aktivitas antijamur. Perlu review manual: adanya kandidiasis tidak dengan sendirinya membuktikan gangguan komponen ini karena aliran saliva, gigi tiruan, obat, dan faktor sistemik juga dapat berperan.
 
 ---
 
@@ -396,6 +462,9 @@ Seorang laki-laki berusia 25 tahun datang ke RSGM dengan keluhan gigi bengkak da
 **Jawaban Benar:**  
 E. Prostaglandin
 
+**Pembahasan:**
+Prostaglandin terbentuk dalam respons inflamasi dan meningkatkan sensitivitas ujung saraf terhadap rangsangan nyeri. Mediator ini turut menjelaskan hiperalgesia pada inflamasi pulpa, bersama mediator inflamasi lainnya.
+
 ---
 
 ## Soal 24
@@ -412,6 +481,9 @@ Seorang laki-laki berusia 67 tahun datang ke RSGM dengan keluhan bercak putih pa
 
 **Jawaban Benar:**  
 C. Candida albicans
+
+**Pembahasan:**
+Candida albicans merupakan jamur yang sering terkait kandidiasis oral dan pemakaian gigi tiruan dapat menjadi faktor predisposisi. Perlu review manual: plak putih yang sulit dibersihkan dan menetap juga memerlukan diagnosis banding, sehingga penyebab tidak dapat dipastikan hanya dari riwayat gigi tiruan.
 
 ---
 
@@ -430,6 +502,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan keluhan gigi bawah bela
 **Jawaban Benar:**  
 D. Meningkatkan pembentukan dentin tersier
 
+**Pembahasan:**
+Bahan pelindung pulpa bertujuan mempertahankan lingkungan yang mendukung vitalitas dan pembentukan dentin tersier. Pada karies dalam tanpa paparan pulpa, tindakan ini harus disertai pengendalian karies dan segel restorasi yang baik.
+
 ---
 
 ## Soal 26
@@ -446,6 +521,9 @@ Seorang laki-laki berusia 50 tahun datang ke praktek dokter gigi dengan keluhan 
 
 **Jawaban Benar:**  
 B. Fusobacterium nucleatum
+
+**Pembahasan:**
+Fusobacterium nucleatum dapat berperan dalam komunitas bakteri pada penyakit periodontal nekrotik. Nekrosis papila, pseudomembran, nyeri, dan bau mulut mendukung kasus tersebut, tetapi penyakitnya bersifat polimikroba dan bukan disebabkan satu spesies saja.
 
 ---
 
@@ -464,6 +542,9 @@ Seorang laki-laki usia 54 tahun datang ke RSGM untuk memeriksakan gigi secara ru
 **Jawaban Benar:**  
 A. Biopsi insisi
 
+**Pembahasan:**
+Biopsi insisi memungkinkan pemeriksaan arsitektur jaringan pada lesi putih menetap yang dicurigai mengalami displasia. Riwayat merokok dan lokasi lidah memperkuat alasan evaluasi histopatologis, walaupun tidak memastikan keganasan.
+
 ---
 
 ## Soal 28
@@ -480,6 +561,9 @@ Biopsi berasal dari dungkul pasien perempuan berusia 56 tahun. Pemeriksaan klini
 
 **Jawaban Benar:**  
 A. Papiloma
+
+**Pembahasan:**
+Papiloma menunjukkan pertumbuhan epitel skuamosa berbentuk tonjolan menyerupai jari dengan inti jaringan ikat. Akantosis dan hiperkeratosis pada struktur papiler sesuai gambaran histopatologis tersebut.
 
 ---
 
@@ -498,6 +582,9 @@ Perempuan berusia 50 tahun datang ke RSGM dengan keluhan nyeri akibat luka dalam
 **Jawaban Benar:**  
 C. Cytological smear
 
+**Pembahasan:**
+Cytological smear merupakan cara sederhana mengambil sel permukaan untuk pemeriksaan sitologi. Perlu review manual: ulkus 10 bulan dengan indurasi dan tepi menggulung sangat memerlukan biopsi atau rujukan segera; hasil usapan tidak cukup untuk menyingkirkan keganasan.
+
 ---
 
 ## Soal 30
@@ -514,5 +601,8 @@ Luka pada mukosa mulut yang disebabkan oleh iritasi mekanis dari gigi yang tajam
 
 **Jawaban Benar:**  
 E. Neutrofil
+
+**Pembahasan:**
+Neutrofil merupakan sel yang cepat datang pada fase awal inflamasi akut untuk memfagositosis mikroorganisme dan debris. Pada tahap berikutnya, makrofag juga penting dalam pembersihan jaringan serta pengaturan proses perbaikan.
 
 ---

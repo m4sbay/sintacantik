@@ -42,8 +42,8 @@ describe("integrated question bank", () => {
   it("keeps every source image question and a deterministic public path", () => {
     const images = questions.filter((question) => question.image);
     expect(images.map((question) => [question.moduleId, question.number])).toEqual([
-      ["konservasi", 21], ["orthodonti", 6], ["radiologi-dental", 19], ["dental-material", 9],
+      ["konservasi", 21], ["radiologi-dental", 19],
     ]);
-    for (const question of images) expect(question.image?.src).toBe(`/questions/${question.moduleId}/question-${String(question.number).padStart(2, "0")}.webp`);
+    for (const question of images) expect(question.image?.src).toBe(`/questions/${question.moduleId}/question-${String(question.number).padStart(2, "0")}.png`);
   });
 });

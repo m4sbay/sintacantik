@@ -49,7 +49,7 @@ describe("verified Markdown parser", () => {
 
 describe("optional source explanations", () => {
   const file = manifest[0].file;
-  const source = sourceFor(file);
+  const source = sourceFor(file).replace(/\n\*\*Pembahasan:\*\*[\s\S]*?(?=\n---|$)/g, "");
   it("adds real explanation text without changing question/options/key", () => {
     const original = parseTryoutModule(source, manifest[0].id, file);
     const text = "Paragraf pertama.\n\n- Poin satu\n- Poin dua";

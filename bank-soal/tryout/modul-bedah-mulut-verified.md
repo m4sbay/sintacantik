@@ -21,6 +21,9 @@ Seorang laki-laki berusia 45 tahun datang ke RSGM dengan keluhan terdapat pemben
 **Jawaban Benar:**  
 D. Abses submandibular kiri
 
+**Pembahasan:**
+Infeksi dari molar ketiga mandibula dapat menyebar ke ruang submandibula dan menimbulkan pembengkakan rahang bawah. Kunci menunjuk abses submandibular kiri, tetapi batas anatomis ruang yang terlibat perlu dikonfirmasi melalui pemeriksaan klinis; data stem belum merincinya.
+
 ---
 
 ## Soal 2
@@ -37,6 +40,9 @@ Seorang laki-laki berusia 30 tahun datang ke RSGM dengan keluhan adanya benjolan
 
 **Jawaban Benar:**  
 B. Enukleasi
+
+**Pembahasan:**
+Enukleasi mengangkat seluruh dinding kista beserta isinya. Pada kista nasopalatina berbatas tegas dengan ukuran yang memungkinkan pengangkatan menyeluruh, tindakan ini juga menyediakan jaringan untuk pemeriksaan histopatologi.
 
 ---
 
@@ -55,6 +61,9 @@ Seorang anak perempuan berusia 8 tahun dibawa oleh orang tuanya ke RSGM dengan k
 **Jawaban Benar:**  
 B. Mucocele
 
+**Pembahasan:**
+Riwayat bibir tergigit dapat merusak saluran kelenjar ludah minor sehingga mukus keluar dan terkumpul di jaringan. Benjolan kebiruan, lunak-kistik pada bibir bawah merupakan gambaran khas mukokel.
+
 ---
 
 ## Soal 4
@@ -71,6 +80,9 @@ Seorang laki-laki berusia 47 tahun datang ke RSGM ingin dilakukan pencabutan sis
 
 **Jawaban Benar:**  
 A. Full-thickness mucoperiosteal flap
+
+**Pembahasan:**
+Flap mukoperiosteal ketebalan penuh mengangkat mukosa dan periosteum sebagai satu kesatuan. Flap ini membuka akses ke tulang dan sisa akar sehingga ekstraksi terbuka dapat dilakukan dengan visualisasi yang memadai.
 
 ---
 
@@ -89,6 +101,9 @@ Seorang laki-laki berusia 35 tahun datang ke RSGM untuk mencabutkan giginya yang
 **Jawaban Benar:**  
 E. N. Facialis dekstra
 
+**Pembahasan:**
+Nervus fasialis mengendalikan otot ekspresi wajah, termasuk penutupan kelopak mata. Anestetik yang masuk terlalu posterior ke daerah parotis saat blok mandibula dapat menimbulkan kelumpuhan fasialis sementara; arah tarikan mulut dalam stem perlu review manual karena biasanya tertarik ke sisi sehat.
+
 ---
 
 ## Soal 6
@@ -105,6 +120,9 @@ Seorang perempuan berusia 35 tahun datang ke IGD RSGM karena tidak bisa menutup 
 
 **Jawaban Benar:**  
 B. Dislokasi sendi
+
+**Pembahasan:**
+Ketidakmampuan menutup mulut setelah membuka terlalu lebar mengarah ke dislokasi TMJ. Kondilus melewati eminensia artikularis dan tidak dapat kembali ke fossa, sehingga mandibula terkunci dalam posisi terbuka.
 
 ---
 
@@ -123,6 +141,9 @@ Seorang perempuan berusia 25 tahun datang ke IGD RSGM karena giginya tanggal aki
 **Jawaban Benar:**  
 A. Gigi yang avulsi akan direplantasi
 
+**Pembahasan:**
+Gigi permanen yang avulsi dapat direplantasi, dan waktu ekstraoral yang singkat mendukung peluang mempertahankan jaringan periodontal. Penyimpanan dalam air mineral bukan media ideal, tetapi tidak otomatis meniadakan indikasi replantasi; penanganan lanjutan mempertimbangkan kondisi akar dan jaringan pendukung.
+
 ---
 
 ## Soal 8
@@ -139,6 +160,9 @@ Pasien laki-laki usia 30 tahun datang ke RSGM dengan pembengkakan rahang regio m
 
 **Jawaban Benar:**  
 D. Ameloblastik adenomatoid tumor
+
+**Pembahasan:**
+Struktur epitel menyerupai duktus atau kelenjar merupakan petunjuk histologis tumor odontogenik adenomatoid, yang pada opsi disebut ameloblastik adenomatoid tumor. Lokasi posterior mandibula dan radiolusensi multilokular kurang khas untuk lesi ini, sehingga kesesuaian keseluruhan kasus perlu review manual.
 
 ---
 
@@ -157,6 +181,9 @@ Seorang perempuan berusia 55 tahun datang ke RSGM untuk mencabut giginya yang ti
 **Jawaban Benar:**  
 D. Konsul ke Spesialis Penyakit Dalam
 
+**Pembahasan:**
+Glibenklamid menunjukkan riwayat pengobatan diabetes, sedangkan gula darah sewaktu 210 mg/dL memerlukan penilaian kontrol metabolik. Konsultasi penyakit dalam membantu menentukan kondisi sistemik dan rencana perawatan, bukan semata-mata memakai satu angka sebagai batas mutlak pencabutan.
+
 ---
 
 ## Soal 10
@@ -173,6 +200,9 @@ Seorang laki-laki berusia 57 tahun datang ke RSGM untuk mencabutkan gigi geraham
 
 **Jawaban Benar:**  
 A. Paracetamol
+
+**Pembahasan:**
+Parasetamol tidak menghambat fungsi trombosit seperti aspirin dan sebagian NSAID. Karena pasien memakai clopidogrel dengan risiko perdarahan, parasetamol merupakan pilihan analgesik yang umumnya lebih sesuai dengan tetap memperhatikan dosis dan fungsi hati.
 
 ---
 
@@ -191,6 +221,9 @@ Seorang laki-laki berusia 20 tahun datang ke RSGM dengan gusi pada gigi belakang
 **Jawaban Benar:**  
 D. Odontektomi
 
+**Pembahasan:**
+Gigi impaksi dengan operkulum meradang dapat menjadi sumber perikoronitis. Odontektomi menghilangkan sumber anatomis tersebut setelah kondisi akut dinilai dan ditangani; keputusan definitif mempertimbangkan risiko kekambuhan serta manfaat-risiko operasi.
+
 ---
 
 ## Soal 12
@@ -207,6 +240,9 @@ Seorang laki berusia 27 tahun datang ke RSGM ingin dilakukan pencabutan gigi bel
 
 **Jawaban Benar:**  
 B. Triangular
+
+**Pembahasan:**
+Flap triangular memiliki insisi sulkular dan satu insisi pelepas sehingga akses ke gigi impaksi dan tulang sekitarnya lebih luas. Desain ini membantu visualisasi dan mobilisasi flap pada odontektomi molar ketiga.
 
 ---
 
@@ -225,6 +261,9 @@ Seorang laki-laki berusia 35 tahun datang ke dokter gigi untuk dilakukan pencabu
 **Jawaban Benar:**  
 C. Open methode
 
+**Pembahasan:**
+Akar yang patah dan berada di bawah servikal sulit dijangkau dengan teknik tertutup. Metode terbuka memungkinkan pembuatan flap dan akses tulang seperlunya untuk mengambil akar secara terkontrol.
+
 ---
 
 ## Soal 14
@@ -241,6 +280,9 @@ Seorang laki-laki berusia 22 tahun datang ke RSGM dengan keluhan gigi belakang k
 
 **Jawaban Benar:**  
 C. Pericoronitis
+
+**Pembahasan:**
+Perikoronitis merupakan inflamasi jaringan yang menutupi mahkota gigi yang erupsi sebagian. Operkulum merah, edema, nyeri, dan halitosis di sekitar molar ketiga merupakan petunjuk utamanya.
 
 ---
 
@@ -259,6 +301,9 @@ Seorang perempuan berusia 50 tahun datang todoe gigi ingin dicabutkan gigi belak
 **Jawaban Benar:**  
 B. Trismus
 
+**Pembahasan:**
+Trismus adalah keterbatasan membuka mulut akibat spasme atau inflamasi otot pengunyahan. Setelah blok mandibula, trauma jarum atau perdarahan di sekitar otot dapat memicu keluhan tersebut.
+
 ---
 
 ## Soal 16
@@ -275,6 +320,9 @@ Seorang perempuan berusia 55 tahun datang ke RSGM untuk mencabut giginya yang ti
 
 **Jawaban Benar:**  
 E. Lakukan Tindakan dengan anesthesi non adrenalin
+
+**Pembahasan:**
+Kunci memilih anestesi tanpa adrenalin untuk menghindari tambahan efek simpatomimetik. Perlu review manual: tekanan darah 120/180 mmHg pada stem tidak konsisten, dan hipertensi atau diabetes terkontrol tidak selalu mengharuskan anestesi tanpa vasokonstriktor; keputusan memerlukan pengukuran ulang dan penilaian individual.
 
 ---
 
@@ -293,6 +341,9 @@ Seorang perempuan berusia 65 tahun datang ke RSGM dengan keluhan gigi kiri atas 
 **Jawaban Benar:**  
 C. Hiperglikemi
 
+**Pembahasan:**
+Napas berbau aseton dan kulit kering mengarah ke hiperglikemia dengan kemungkinan ketosis serta dehidrasi. Penurunan kesadaran pada konteks ini merupakan kegawatan yang membutuhkan pemeriksaan glukosa dan penanganan medis segera.
+
 ---
 
 ## Soal 18
@@ -309,6 +360,9 @@ Seorang laki-laki berusia 16 tahun datang ke RSGM dengan keluhan pembengkakan ke
 
 **Jawaban Benar:**  
 B. Kista dentigerous
+
+**Pembahasan:**
+Kista dentigerous berhubungan dengan mahkota gigi yang belum erupsi dan biasanya melekat di sekitar pertemuan email-sementum. Radiolusensi berbatas kortikasi yang mengelilingi mahkota gigi impaksi merupakan petunjuk penting.
 
 ---
 
@@ -327,6 +381,9 @@ Seorang perempuan berusia 50 tahun datang ke RSGM dengan keluhan gigi geraham at
 **Jawaban Benar:**  
 A. Melakukan Nose Blowing Test
 
+**Pembahasan:**
+Kedekatan akar molar atas dengan sinus meningkatkan risiko komunikasi oroantral setelah ekstraksi. Kunci menyebut nose blowing test untuk mendeteksi aliran udara melalui soket, tetapi manuver tidak boleh dilakukan kuat atau berulang karena dapat memperbesar defek; perlu review manual terhadap cara evaluasinya.
+
 ---
 
 ## Soal 20
@@ -343,6 +400,9 @@ Seorang laki-laki berusia 19 tahun akan dilakukan pencabutan gigi 46 di RSGM. Ke
 
 **Jawaban Benar:**  
 A. Efek vasodilatasi dari obat anestesi local
+
+**Pembahasan:**
+Vasodilatasi dapat menurunkan tekanan darah dan perfusi serebral. Namun nyeri injeksi, tangan dingin-berkeringat, dan hipotensi juga mendukung respons vasovagal; penyebab tidak dapat dipastikan sebagai efek anestetik hanya dari stem, sehingga kunci ini perlu review manual.
 
 ---
 
@@ -361,6 +421,9 @@ Seorang perempuan berusia 52 tahun datang dirujuk oleh dokter spesialis THT ke R
 **Jawaban Benar:**  
 E. Gigi 26 & 27
 
+**Pembahasan:**
+Sinusitis berada di sinus maksilaris kiri, sehingga sumber gigi yang sesuai juga dicari di sisi kiri. Lesi periapikal gigi 26 dan 27 berdekatan dengan dasar sinus dan dapat menjadi fokus infeksi odontogenik.
+
 ---
 
 ## Soal 22
@@ -377,6 +440,9 @@ Seorang laki-laki usia 19 tahun dibawa ke IGD RSGM pasca kecelakaan lalu lintas.
 
 **Jawaban Benar:**  
 B. Fraktur Le fort II
+
+**Pembahasan:**
+Fraktur Le Fort II berpola piramidal dan melibatkan kompleks maksila serta nasal. Mobilitas maksila bersama tulang hidung disertai ekimosis periorbital mendukung pola tersebut.
 
 ---
 
@@ -395,6 +461,9 @@ Seorang perempuan berusia 45 tahun datang ke RSGM untuk melakukan operasi gigi b
 **Jawaban Benar:**  
 E. 30x kompresi dan 2x ventilasi
 
+**Pembahasan:**
+Pada resusitasi orang dewasa tanpa jalan napas lanjut, kompresi dan ventilasi diberikan dengan rasio 30:2. Rasio ini menjaga sirkulasi melalui kompresi berulang sambil menyediakan ventilasi di antara siklusnya.
+
 ---
 
 ## Soal 24
@@ -411,6 +480,9 @@ Seorang perempuan berusia 50 tahun datang ke dokter gigi ingin mencabut gigi dep
 
 **Jawaban Benar:**  
 D. Mepivacaine 3%
+
+**Pembahasan:**
+Mepivakain 3% tersedia sebagai anestetik lokal tanpa vasokonstriktor dan memiliki efek vasodilatasi yang relatif kecil. Ini menjelaskan pilihan pada soal, tetapi diabetes sendiri bukan larangan mutlak pemakaian adrenalin dalam dosis yang sesuai.
 
 ---
 
@@ -429,6 +501,9 @@ Seorang perempuan berusia 30 tahun datang ke RSGM dengan keluhan gigi belakang a
 **Jawaban Benar:**  
 C. N. Alveolaris Superior Media dan Posterior dan N. Palatinus Mayor
 
+**Pembahasan:**
+Molar pertama atas terutama dipersarafi cabang alveolar superior posterior, dengan kontribusi cabang media pada akar mesiobukal yang bervariasi. Jaringan palatalnya mendapat persarafan nervus palatinus mayor, sehingga pencabutan memerlukan anestesi pulpal dan palatal yang memadai.
+
 ---
 
 ## Soal 26
@@ -445,6 +520,9 @@ Seorang anak laki-laki berusia 8 tahun diantar ibunya ke RSGM dengan keluhan nye
 
 **Jawaban Benar:**  
 B. Greenstick fracture
+
+**Pembahasan:**
+Pada anak, tulang lebih lentur sehingga dapat mengalami fraktur tidak lengkap atau greenstick. Usia muda dan tidak adanya pergeseran fragmen mendukung kunci, meskipun fraktur tanpa displacement saja belum membuktikan pola greenstick tanpa gambaran korteks yang lebih jelas.
 
 ---
 
@@ -463,6 +541,9 @@ Seorang laki-laki berusia 30 tahun datang ke RSGM dengan keluhan ingin cabut gig
 **Jawaban Benar:**  
 B. Mencegah lisisnya bekuan darah
 
+**Pembahasan:**
+Tekanan tampon membantu pembentukan dan stabilisasi bekuan darah di soket. Menghindari berkumur keras mengurangi terlepasnya bekuan secara mekanis, sehingga penyembuhan lebih terlindungi; istilah lisis pada opsi dipakai secara luas untuk kehilangan bekuan.
+
 ---
 
 ## Soal 28
@@ -479,6 +560,9 @@ Seorang laki-laki usia 55 tahun datang ke praktek drg spesialis bedah mulut kelu
 
 **Jawaban Benar:**  
 B. Atrocentesis
+
+**Pembahasan:**
+Artrosentesis adalah pembilasan ruang sendi melalui jarum untuk mengeluarkan mediator inflamasi dan membantu melepaskan adhesi ringan. Deskripsi dua saluran untuk irigasi TMJ sesuai dengan prosedur ini.
 
 ---
 
@@ -497,6 +581,9 @@ Seorang laki-laki berusia 60 tahun datang ke RSGM dengan keluhan nyeri dan demam
 **Jawaban Benar:**  
 A. Osteomielitis kronis supuratif
 
+**Pembahasan:**
+Fistula bernanah, pembengkakan menetap, sumber infeksi gigi, dan parestesia mendukung keterlibatan tulang berupa osteomielitis supuratif. Namun durasi tujuh hari saja belum cukup membuktikan bentuk kronis, sehingga penetapan kronis perlu review manual dan pemeriksaan radiologis.
+
 ---
 
 ## Soal 30
@@ -513,3 +600,7 @@ Pasien laki-laki usia 28 tahun datang ke RSGM dengan keluhan mulutnya tidak bisa
 
 **Jawaban Benar:**  
 D. Di depan eminensia artikularis
+
+**Pembahasan:**
+Pada dislokasi anterior TMJ, kondilus bergerak melewati eminensia artikularis. Posisi di depan eminensia membuat kondilus sulit kembali ke fossa, sehingga mulut tidak dapat ditutup.
+

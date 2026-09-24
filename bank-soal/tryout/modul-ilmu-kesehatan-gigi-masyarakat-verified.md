@@ -22,6 +22,9 @@ Seorang laki-laki berusia 30 tahun peserta BPJS datang ke puskesmas dengan keluh
 **Jawaban Benar:**  
 D. Kapitasi
 
+**Pembahasan:**
+Kapitasi merupakan pembayaran kepada fasilitas tingkat pertama berdasarkan jumlah peserta terdaftar untuk periode tertentu. Pembayaran ini tidak dihitung per tindakan tambal yang dikerjakan, berbeda dari fee for service.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Seorang pengajar sedang melakukan perkuliahan di lantai 3 gedung kampus. Pada sa
 
 **Jawaban Benar:**  
 D. Adanya noise
+
+**Pembahasan:**
+Noise adalah gangguan yang menghambat penyampaian atau penerimaan pesan. Suara renovasi menjadi gangguan fisik sehingga mahasiswa sulit memusatkan perhatian pada materi pengajar.
 
 ---
 
@@ -56,6 +62,9 @@ Survei pada masyarakat di suatu daerah menunjukkan masih rendahnya partisipasi v
 **Jawaban Benar:**  
 A. Kemitraan
 
+**Pembahasan:**
+Kemitraan melibatkan pihak lain yang memiliki pengaruh atau sumber daya untuk mencapai tujuan kesehatan bersama. Pemuka agama membantu menjangkau masyarakat dan membangun penerimaan terhadap program vaksinasi.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang dokter gigi puskesmas, akan melakukan penelitian di wilayah kerjanya ten
 
 **Jawaban Benar:**  
 C. Korelasi Pearson
+
+**Pembahasan:**
+Korelasi Pearson menilai arah dan kekuatan hubungan linear antara dua variabel numerik. Data yang memenuhi asumsi normalitas, linearitas, serta tidak didominasi pencilan mendukung penggunaan uji ini.
 
 ---
 
@@ -90,6 +102,9 @@ Anak laki – laki berusia 4 tahun diajari ibunya menyikat gigi. Ibu menuntun an
 **Jawaban Benar:**  
 E. Respon Terpimpin (guided response)
 
+**Pembahasan:**
+Guided response merupakan pelaksanaan keterampilan dengan mengikuti contoh atau bimbingan. Anak meniru gerakan menyikat gigi ibunya dan belum melakukannya secara mandiri sebagai kebiasaan otomatis.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Survei pada masyarakat menunjukkan kualitas lingkungan yang buruk dan berdampak 
 
 **Jawaban Benar:**  
 B. Advokasi
+
+**Pembahasan:**
+Advokasi bertujuan memperoleh dukungan kebijakan, sumber daya, atau komitmen pengambil keputusan. Pendekatan kepada kecamatan untuk menyediakan sarana kesehatan sesuai fungsi tersebut.
 
 ---
 
@@ -124,6 +142,9 @@ Seorang dokter gigi Puskesmas sedang melaksanakan program pendidikan kesehatan g
 **Jawaban Benar:**  
 D. Actuating
 
+**Pembahasan:**
+Actuating adalah menggerakkan orang agar melaksanakan rencana yang sudah dibuat. Pemberian arahan dan koordinasi staf pada kegiatan sikat gigi massal merupakan contoh pelaksanaan fungsi ini.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Seorang dokter gigi melakukan perawatan saluran akar pada pasien. Pada tahapan i
 
 **Jawaban Benar:**  
 E. Kejadian Tidak diharapkan
+
+**Pembahasan:**
+Kejadian tidak diharapkan adalah insiden keselamatan pasien yang menimbulkan cedera. Luka kimia setelah irigasi tanpa isolasi memadai merupakan dampak merugikan pelayanan yang perlu ditangani dan dievaluasi penyebabnya.
 
 ---
 
@@ -158,6 +182,9 @@ Sebuah desa diketahui memiliki prevalensi karies yang tinggi pada anak usia 12 t
 **Jawaban Benar:**  
 D. Early Diagnosis and Prompt Treatment
 
+**Pembahasan:**
+Menemukan karies lalu menambalnya sebelum mencapai pulpa merupakan deteksi dan pengobatan dini. Tujuannya menghentikan progresi penyakit yang sudah ada sebelum menimbulkan komplikasi lebih berat.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Dokter gigi di puskesmas melakukan survei karies gigi selama 5 tahun pada 1000 o
 
 **Jawaban Benar:**  
 E. (250/1000)X100%
+
+**Pembahasan:**
+Prevalensi menghitung semua orang yang mengalami karies pada waktu pengukuran dibagi populasi yang diperiksa. Pada tahun kelima nilainya 250/1000 × 100% = 25%, bukan hanya tambahan 50 kasus selama pengamatan.
 
 ---
 
@@ -192,6 +222,9 @@ Survei kesehatan gigi dan mulut dilakukan untuk mengetahui tingkat keparahan kar
 **Jawaban Benar:**  
 A. Decay (D)
 
+**Pembahasan:**
+Gigi dengan restorasi tetapi masih memiliki karies dicatat pada komponen D. Karies aktif mendapat prioritas sehingga satu gigi tidak sekaligus dihitung sebagai D dan F pada indeks DMFT.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Seorang pasien datang ke praktik dokter gigi dengan keluhan pipi bengkak dan gig
 
 **Jawaban Benar:**  
 E. Illness centered communication style
+
+**Pembahasan:**
+Illness-centered communication menaruh perhatian pada pengalaman subjektif pasien terhadap sakitnya. Mendengarkan keluhan serta dampak sosial membantu memahami makna penyakit bagi pasien, bukan hanya tanda biologisnya.
 
 ---
 
@@ -226,6 +262,9 @@ Seorang peneliti ingin mengetahui pengaruh merokok terhadap kejadian penyakit pe
 **Jawaban Benar:**  
 C. Case Control
 
+**Pembahasan:**
+Penelitian dimulai dengan kelompok sakit dan kelompok tidak sakit, lalu menelusuri paparan merokok sebelumnya. Alur berdasarkan status penyakit tersebut merupakan ciri studi case-control.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ Sekelompok lansia pada suatu panti menderita penyakit diabetes melihat yang terk
 
 **Jawaban Benar:**  
 D. Health promotion
+
+**Pembahasan:**
+Penyuluhan untuk menjaga perilaku sehat dan kontrol kondisi tubuh termasuk health promotion. Kegiatan ini meningkatkan kemampuan lansia mempertahankan kesehatan mulut sebelum timbul komplikasi baru.
 
 ---
 
@@ -260,6 +302,9 @@ Kepala puskesmas B melakukan analisis situasi untuk melaksanakan program Pekan I
 **Jawaban Benar:**  
 B. SWOT
 
+**Pembahasan:**
+SWOT memetakan strengths dan weaknesses sebagai faktor internal serta opportunities dan threats sebagai faktor eksternal. Hasilnya membantu organisasi memilih strategi program sesuai kemampuan dan lingkungannya.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ Seorang pasien datang ke rsgm dengan keluhan gigi anterior rahang bawah sakit da
 
 **Jawaban Benar:**  
 D. Disability limitation
+
+**Pembahasan:**
+Splinting mengurangi dampak kegoyangan gigi yang sudah terjadi sehingga fungsi dapat dipertahankan. Dalam kerangka pencegahan, tindakan ini termasuk pembatasan kecacatan atau disability limitation.
 
 ---
 
@@ -294,6 +342,9 @@ Berdasarkan datatahun 2009 di Puskesmas X, jumlah kasus Periodontitis Kronis ada
 **Jawaban Benar:**  
 C. 10%
 
+**Pembahasan:**
+Kunci 10% diperoleh dari 200/2000 × 100% bila 2000 dianggap seluruh populasi. Perlu review manual: stem menyebut 2000 orang belum terkena penyakit; jika ditambah 200 kasus, penyebut prevalensi menjadi 2200 sehingga hasilnya sekitar 9,09%.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ Kepala Puskesmas secara rutin sebulan sekali mengadakan kegiatan pertemuan yang 
 
 **Jawaban Benar:**  
 C. Manajemen operasional
+
+**Pembahasan:**
+Pertemuan rutin untuk mengoordinasikan kegiatan lintas program merupakan pengelolaan pelaksanaan sehari-hari. Karena fokusnya pelaksanaan dan penyelesaian masalah program, kegiatan ini termasuk manajemen operasional.
 
 ---
 
@@ -328,6 +382,9 @@ Suatu penelitian pada 400 siswa SD kelas VI kecamatan X tahun 2012 bertujuan unt
 **Jawaban Benar:**  
 A. Penelitian analitik observasional dengan pendekatan studi cross sectional
 
+**Pembahasan:**
+Paparan dan kondisi karies dikumpulkan pada satu waktu, sehingga desainnya cross-sectional analitik observasional. Perlu review manual terhadap angka kategori menyikat gigi yang hanya berjumlah 340 dari 400 peserta, walaupun hal itu tidak mengubah identifikasi desain studi.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ Sebuah desa diketahui memiliki prevalensi yang tinggi pada anak usia 12 tahun. K
 
 **Jawaban Benar:**  
 D. Early Diagnosis And Prompt Treatment
+
+**Pembahasan:**
+Penambalan karies sebelum mencapai pulpa merupakan pengobatan pada tahap awal penyakit. Dalam Leavell dan Clark, tindakan ini termasuk early diagnosis and prompt treatment, bukan pencegahan primer pada gigi yang belum sakit.
 
 ---
 
@@ -362,6 +422,9 @@ Ibu A datang ke klinik utama untuk menambalkan gigi. Ibu A tercatat sebagai pese
 **Jawaban Benar:**  
 C. Fee for service
 
+**Pembahasan:**
+Fee for service berarti pasien membayar berdasarkan jenis pelayanan atau tindakan yang diterima. Pada skenario ini pasien memilih pembayaran mandiri sesuai tarif klinik, bukan menggunakan skema pembayaran peserta yang terdaftar.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ Drg ingin membangun klinik pribadi. Drg Hanan menghitung biaya tetap ditambah bi
 
 **Jawaban Benar:**  
 C. Biaya satuan
+
+**Pembahasan:**
+Biaya satuan diperoleh dengan membagi total biaya produksi pelayanan dengan jumlah unit pelayanan. Jika unit yang digunakan adalah kunjungan, hasil perhitungannya merupakan biaya rata-rata per kunjungan.
 
 ---
 
@@ -396,6 +462,9 @@ Dokter gigi menyusun tata letak tempat prakteknya agar sesuai dengan persyaratan
 **Jawaban Benar:**  
 A. 7-12
 
+**Pembahasan:**
+Zona operator tangan kanan dalam four-handed dentistry umumnya berada di sekitar posisi jam 7 sampai 12. Posisi jam 11 berada dalam zona ini dan dipilih sesuai area kerja serta kebutuhan akses tanpa postur membungkuk berlebihan.
+
 ---
 
 ## Soal 24
@@ -412,6 +481,9 @@ Apakah tujuan Dokter gigi menggunakan sarung tangan dan masker?
 
 **Jawaban Benar:**  
 D. Mencegah infeksi silang
+
+**Pembahasan:**
+Sarung tangan dan masker menjadi penghalang terhadap pajanan darah, saliva, droplet, dan bahan terkontaminasi. Penggunaannya bersama kebersihan tangan dan pemrosesan instrumen membantu mencegah infeksi silang antara pasien serta petugas.
 
 ---
 
@@ -430,6 +502,9 @@ Seorang dokter gigi melakukan penelitian mengenai keadaan gigi dan mulut masyara
 **Jawaban Benar:**  
 B. Normative need
 
+**Pembahasan:**
+Normative need dalam kesehatan biasanya berarti kebutuhan yang ditentukan melalui standar atau penilaian profesional. Perlu review manual: kewajiban mengasah gigi sebagai adat menggambarkan norma budaya, yang tidak otomatis sama dengan kebutuhan kesehatan normatif.
+
 ---
 
 ## Soal 26
@@ -446,6 +521,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan keluhan gigi depan RA y
 
 **Jawaban Benar:**  
 A. Posisi jam 8
+
+**Pembahasan:**
+Posisi jam 8 menempatkan operator tangan kanan di depan-kanan pasien sehingga akses ke gigi anterior maksila dapat lebih mudah. Posisi akhir tetap disesuaikan visibilitas, dukungan kepala pasien, dan ergonomi operator.
 
 ---
 
@@ -464,6 +542,9 @@ Dokter gigi baru lulus dan ingin buka klinik di suatu daerah. Daerah tersebut ma
 **Jawaban Benar:**  
 A. Klinik berada di sekitar pasar dan pusat pertokoan
 
+**Pembahasan:**
+Lokasi klinik dekat pasar dan pusat pertokoan dapat menjadi kekuatan berupa akses serta keterlihatan bagi calon pasien. Dalam SWOT, keuntungan lokasi yang dimiliki klinik dapat diperlakukan sebagai aset internal yang mendukung pelayanan.
+
 ---
 
 ## Soal 28
@@ -480,6 +561,9 @@ Seorang laki-laki berusia 25 tahun datang ke poliklinik bersama Ibunya dengan ke
 
 **Jawaban Benar:**  
 D. Cross referral
+
+**Pembahasan:**
+Kunci memakai cross referral untuk penyerahan penanganan kepada bidang keahlian lain yang lebih sesuai. Pada phlegmon, prioritasnya rujukan segera dengan komunikasi dan stabilisasi yang memadai karena infeksi dapat mengancam jalan napas; istilah rujukan juga dapat berbeda menurut sistem administrasi.
 
 ---
 
@@ -498,6 +582,9 @@ seorang pasien laki-laki berusia 40 tahun datang ke puskesmas dengan keluhan bat
 **Jawaban Benar:**  
 C. Rumah sakit tipe C
 
+**Pembahasan:**
+Rumah sakit tipe C secara historis merupakan salah satu tujuan rujukan dari layanan primer yang menyediakan pelayanan spesialistik dasar. Penentuan tujuan nyata tetap berdasarkan kompetensi, fasilitas, kegawatan, dan jejaring rujukan, bukan kelas rumah sakit saja.
+
 ---
 
 ## Soal 30
@@ -514,5 +601,8 @@ di sebuah kota metropolis yang ber penduduk 5 juta jiwa pada tahun 2000 banyak d
 
 **Jawaban Benar:**  
 C. 150/ 5.000.000
+
+**Pembahasan:**
+Migrasi neto adalah jumlah pendatang dikurangi jumlah yang keluar, yaitu 200 − 50 = 150 orang. Membaginya dengan 5.000.000 penduduk menghasilkan rasio migrasi neto; bila dinyatakan per 1000 penduduk, nilainya dikalikan 1000.
 
 ---

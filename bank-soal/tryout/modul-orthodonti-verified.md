@@ -4,7 +4,6 @@
 > Total soal: 30
 > Status: 30/30 kunci jawaban terverifikasi langsung dari penanda `Benar` atau `Jawaban yang benar` pada sumber.
 > Catatan: kunci jawaban tidak ditentukan atau dikoreksi menggunakan pengetahuan eksternal.
-> Soal 6 menyebut foto extraoral lateral terlampir. Gambar asli akan disusulkan.
 
 ---
 
@@ -23,6 +22,9 @@ Seorang perempuan berusia 23 tahun datang ke RSGM mengeluhkan gigi-gigi depan at
 **Jawaban Benar:**  
 D. Mouth breathing
 
+**Pembahasan:**
+Bernapas melalui mulut dapat berkaitan dengan postur bibir terbuka, bibir kering, dan perubahan keseimbangan otot sekitar lengkung gigi. Temuan tersebut mendukung kunci mouth breathing, tetapi penyebab harus dikonfirmasi melalui anamnesis dan penilaian jalan napas.
+
 ---
 
 ## Soal 2
@@ -39,6 +41,9 @@ Seorang anak laki-laki berusia 13 tahun datang ke RSGM diantar ayahnya dengan ke
 
 **Jawaban Benar:**  
 B. Kelas 1 Angle dengan Dewey Tipe 1 dan 3
+
+**Pembahasan:**
+Hubungan cusp mesiobukal molar atas dengan groove bukal molar bawah menunjukkan kelas I Angle. Crowding sesuai Dewey tipe 1, sedangkan overjet negatif pada insisivus menunjukkan crossbite anterior yang sesuai tipe 3.
 
 ---
 
@@ -57,6 +62,9 @@ Seorang anak laki-laki berusia 12 tahun diantar ibunya ke RSGM dengan keluhan in
 **Jawaban Benar:**  
 D. Plat aktif dilengkapi skrup ekspansi
 
+**Pembahasan:**
+Lengkung atas yang sempit dan crossbite posterior bilateral menunjukkan kebutuhan koreksi transversal. Plat aktif dengan sekrup ekspansi dapat memperlebar lengkung pada kasus dental yang sesuai, dengan batas ekspansi ditentukan analisis klinis.
+
 ---
 
 ## Soal 4
@@ -73,6 +81,9 @@ Seorang anak laki-laki berusia 11 tahun datang ke RSGM diantar oleh orang tuanya
 
 **Jawaban Benar:**  
 C. Labial bow, Adam’s clasp, continuous spring pada gigi-gigi anterior, bite plane posterior, plat dasar akrilik
+
+**Pembahasan:**
+Pegas anterior memberi gaya ke labial untuk mengoreksi crossbite, sedangkan bite plane posterior membebaskan interlocking oklusal. Perlu review manual terhadap overbite -3 mm pada stem karena menunjukkan open bite, sehingga kebutuhan pembukaan gigitan harus dinilai ulang.
 
 ---
 
@@ -91,15 +102,15 @@ Seorang anak perempuan berusia 11 tahun datang ke klinik Ortodonti RSKGMP dengan
 **Jawaban Benar:**  
 A. Aktivator/ bionator
 
+**Pembahasan:**
+Aktivator atau bionator merupakan alat fungsional untuk memanfaatkan pertumbuhan pada pasien kelas II yang sesuai. Usia pertumbuhan dan overjet besar mendukung pertimbangan ini, tetapi kontribusi mandibula dan tahap maturasi harus dinilai sebelum memilih alat.
+
 ---
 
 ## Soal 6
 
 **Pertanyaan:**  
 Seorang anak perempuan berusia 12 tahun datang bersama ibunya ke RSGM, dengan keluhan gigi atas depan maju. Anamnesis; pasien memiliki kebiasaan buruk menghisap bibir bawah. Pemeriksaan ekstra oral; rahang atas lebih maju dari rahang bawah. Foto extraoral lateral terlampir apakah bentuk profil wajah pasien pada kasus tersebut ?
-
-**Gambar:**  
-> [PLACEHOLDER GAMBAR — foto extraoral lateral akan disusulkan]
 
 **Pilihan Jawaban:**
 - A. Cembung
@@ -110,6 +121,9 @@ Seorang anak perempuan berusia 12 tahun datang bersama ibunya ke RSGM, dengan ke
 
 **Jawaban Benar:**  
 A. Cembung
+
+**Pembahasan:**
+Rahang atas yang relatif lebih maju dibanding mandibula menghasilkan profil cembung. Kebiasaan mengisap bibir bawah juga dapat mendorong insisivus atas ke labial dan memperbesar overjet.
 
 ---
 
@@ -128,6 +142,9 @@ Seorang anak perempuan berusia 14 tahun datang ke RSGM diantar ibunya dengan kel
 **Jawaban Benar:**  
 A. Maloklusi skeletal klas 1, Angle Klas III Tipe 3
 
+**Pembahasan:**
+ANB sekitar 2° mendukung hubungan skeletal kelas I, meskipun relasi dental molar dapat menunjukkan kelas III. Perlu review manual untuk label Angle kelas III tipe 3 karena stem belum menjelaskan ciri lengkung atau posisi insisivus yang membedakan subtipe tersebut.
+
 ---
 
 ## Soal 8
@@ -144,6 +161,9 @@ Seorang laki-laki berusia 16 tahun datang ke RSGM dengan keluhan gigi depan berc
 
 **Jawaban Benar:**  
 D. Frenektomi, retraksi gigi 11 dan 21
+
+**Pembahasan:**
+Frenulum tinggi dapat menghambat penutupan diastema atau mempertahankan celah setelah koreksi. Penutupan ruang ortodontik dan frenektomi dapat dikombinasikan bila benar-benar diindikasikan, dengan waktu operasi ditentukan agar jaringan parut tidak mengganggu pergerakan gigi.
 
 ---
 
@@ -162,6 +182,9 @@ Seorang anak perempuan berusia 13 tahun diantar ibunya datang ke RSGM dengan kel
 **Jawaban Benar:**  
 E. Menggunakan koil spring/finger spring
 
+**Pembahasan:**
+Finger spring dapat diarahkan untuk menggerakkan insisivus ke mesial setelah mesiodens sebagai hambatan dihilangkan. Gaya harus diatur agar penutupan diastema terkontrol dan tidak hanya memiringkan gigi secara berlebihan.
+
 ---
 
 ## Soal 10
@@ -178,6 +201,9 @@ Seorang dokter gigi sedang melakukan aktivasi komponen aktif peranti ortodonti u
 
 **Jawaban Benar:**  
 E. Undermining resorption
+
+**Pembahasan:**
+Gaya terlalu besar dapat menutup pembuluh darah ligamen periodontal dan menghasilkan zona hialinisasi. Resorpsi tulang kemudian berlangsung dari sisi sumsum yang masih vital, disebut undermining resorption, sehingga pergerakan dapat tertunda.
 
 ---
 
@@ -196,6 +222,9 @@ Seorang laki-laki berusia 21 tahun datang ke RSGM untuk kontrol peranti ortodont
 **Jawaban Benar:**  
 D. Memperkecil kedua U loop
 
+**Pembahasan:**
+Memperkecil U-loop membuat busur labial bergerak lebih palatal dan memberi gaya retraksi pada insisivus. Aktivasi perlu kecil dan terkontrol agar gaya tidak berlebihan.
+
 ---
 
 ## Soal 12
@@ -212,6 +241,9 @@ Seorang anak laki-laki berumur 11 tahun datang ke RSGM diantar ibunya dengan kel
 
 **Jawaban Benar:**  
 C. Klas II, maksila normal, mandibula retrognati
+
+**Pembahasan:**
+ANB dihitung dari SNA dikurangi SNB, yaitu 82° − 75° = 7°. Maksila mendekati acuan normal, sedangkan SNB rendah menunjukkan mandibula retrognatik sehingga relasi skeletal termasuk kelas II.
 
 ---
 
@@ -230,6 +262,9 @@ Anak perempuan berusia 8 tahun ditemani ibunya datang ke RSGM dengan keluhan gig
 **Jawaban Benar:**  
 A. Crossbite anterior
 
+**Pembahasan:**
+Gigi sulung yang menetap dapat mengganggu jalur erupsi insisivus permanen dan mengarahkannya ke palatal. Jika insisivus atas terperangkap di belakang gigi bawah, dapat terbentuk crossbite anterior.
+
 ---
 
 ## Soal 14
@@ -246,6 +281,9 @@ Seorang laki-laki berusia 12 tahun datang ke RSGM diantar ibunya dengan keluhan 
 
 **Jawaban Benar:**  
 B. Kelas I Angle tipe 2
+
+**Pembahasan:**
+Hubungan molar neutroklusi menunjukkan kelas I Angle. Pada modifikasi Dewey, insisivus atas yang protrusif termasuk tipe 2; diastema saja tidak cukup menentukan tipe tanpa informasi posisi insisivus tersebut.
 
 ---
 
@@ -264,6 +302,9 @@ Perempuan 11 tahun diantar ibunya ke rsgm dengan keluhan giginya maju. Pemeriksa
 **Jawaban Benar:**  
 D. Skeletal klas II maksila normal mandibula retrognati
 
+**Pembahasan:**
+Selisih SNA 80° dan SNB 75° menghasilkan ANB 5°, mendukung skeletal kelas II. Nilai SNB yang lebih rendah menunjukkan kontribusi mandibula retrognatik, sementara posisi maksila relatif mendekati acuan.
+
 ---
 
 ## Soal 16
@@ -280,6 +321,9 @@ Seorang laki-laki berusia 16 tahun datang ke RSGM dengan keluhan gigi depan atas
 
 **Jawaban Benar:**  
 A. Tipping
+
+**Pembahasan:**
+Finger spring memberi gaya pada mahkota tanpa pasangan gaya yang cukup untuk translasi seluruh akar. Akibatnya gerakan dominan berupa tipping, yaitu mahkota dan akar cenderung bergerak ke arah berlawanan.
 
 ---
 
@@ -298,6 +342,9 @@ Seorang laki-laki 18 tahun datang dengan keluhan gigi berjejal terutama pada rah
 **Jawaban Benar:**  
 C. Kelas II divisi 2 Angle
 
+**Pembahasan:**
+Relasi molar distal kelas II disertai insisivus sentral atas yang retroklinasi dan gigitan dalam merupakan ciri divisi 2. Ini berbeda dari divisi 1 yang umumnya memiliki insisivus atas proklinasi.
+
 ---
 
 ## Soal 18
@@ -314,6 +361,9 @@ Seorang anak laki-laki berusia 10 tahun datang diantar orang tuanya ke RSGM deng
 
 **Jawaban Benar:**  
 D. Menjulurkan lidah
+
+**Pembahasan:**
+Tongue thrust dapat memberi tekanan berulang pada gigi anterior dan mempertahankan open bite serta diastema. Gangguan pengucapan dengan hubungan skeletal mendekati normal mendukung keterlibatan fungsi lidah.
 
 ---
 
@@ -332,6 +382,9 @@ Seorang anak laki-laki berusia 11 tahun datang diantar ibunya ke RSGM dengan kel
 **Jawaban Benar:**  
 D. Chin cup
 
+**Pembahasan:**
+SNB yang meningkat dibanding SNA menunjukkan mandibula relatif maju pada pasien yang masih tumbuh. Chin cup merupakan pilihan yang disebut untuk mengarahkan pola pertumbuhan mandibula, meskipun kemampuan membatasi pertumbuhan jangka panjang tidak dapat dijamin.
+
 ---
 
 ## Soal 20
@@ -348,6 +401,9 @@ Seorang anak perempuan berusia 12 tahun datang diantar ibunya ke RSGM dengan kel
 
 **Jawaban Benar:**  
 B. Ugly duckling stage
+
+**Pembahasan:**
+Ugly duckling stage merupakan fase perkembangan sementara dengan insisivus atas miring dan diastema saat kaninus permanen belum erupsi. Posisi gigi dapat membaik seiring erupsi kaninus, setelah penyebab patologis celah disingkirkan.
 
 ---
 
@@ -366,6 +422,9 @@ Seorang anak berusia 9 tahun datang diantar ibunya ke RSGM untuk dirawat karena 
 **Jawaban Benar:**  
 A. Titik terdepan bibir atas terletak dibelakang garis Glabella-Pog
 
+**Pembahasan:**
+SNA 80° dan SNB 84° menghasilkan ANB negatif yang mendukung skeletal kelas III. Proyeksi dagu yang lebih maju dapat membuat bibir atas tampak di belakang garis glabella–pogonion, sesuai kecenderungan profil cekung.
+
 ---
 
 ## Soal 22
@@ -382,6 +441,9 @@ Seorang anak perempuan berusia 9 tahun diantar ibunya ke RSGM dengan keluhan gig
 
 **Jawaban Benar:**  
 C. Tongue crib
+
+**Pembahasan:**
+Tongue crib menghambat penempatan lidah di antara gigi anterior dan membantu menghentikan kebiasaan yang mempertahankan open bite. Alat ini dipilih setelah pola kebiasaan dipastikan serta penyebab jalan napas dan skeletal dievaluasi.
 
 ---
 
@@ -400,6 +462,9 @@ Seorang ibu mengantarkan anak perempuannya berusia 10 tahun datang ke praktek do
 **Jawaban Benar:**  
 A. Perawatan ortodonti modifikasi pertumbuhan
 
+**Pembahasan:**
+Usia 10 tahun masih memberi peluang intervensi saat pertumbuhan untuk memperbaiki ketidakseimbangan rahang. ANB 8° menunjukkan diskrepansi kelas II yang cukup besar, sehingga modifikasi pertumbuhan dipertimbangkan sesuai komponen skeletal dan maturasi pasien.
+
 ---
 
 ## Soal 24
@@ -416,6 +481,9 @@ Seorang anak perempuan berusia 8 tahun diantar orang tuanya ke RSGM. Pemeriksaan
 
 **Jawaban Benar:**  
 D. Space regainer
+
+**Pembahasan:**
+Space regainer mengembalikan ruang yang sudah hilang karena molar pertama bergeser ke mesial. Berbeda dengan space maintainer yang mempertahankan ruang yang masih tersedia, alat ini harus menghasilkan pergerakan aktif untuk membuka ruang erupsi 45.
 
 ---
 
@@ -434,6 +502,9 @@ Seorang anak laki-laki berusia 15 tahun datang ke RSGM dengan keluhan gigi depn 
 **Jawaban Benar:**  
 A. Klas I skeletal
 
+**Pembahasan:**
+ANB dari SNA 82° dan SNB 80° adalah 2°, sesuai hubungan skeletal kelas I. Overjet yang meningkat dapat berasal dari posisi dental tanpa perubahan kelas skeletal.
+
 ---
 
 ## Soal 26
@@ -450,6 +521,9 @@ Pasien anak usia 11 tahun diantar ayahnya ke RSGM dengan keluhan gigi bawahnya m
 
 **Jawaban Benar:**  
 C. ANB
+
+**Pembahasan:**
+Sudut ANB membandingkan posisi maksila dan mandibula terhadap titik nasion. Nilai negatif dapat mendukung skeletal kelas III, tetapi interpretasinya perlu bersama analisis lain karena dipengaruhi geometri kraniofasial.
 
 ---
 
@@ -468,6 +542,9 @@ Seorang perempuan berusia 19 tahun datang ke RSGM dengan keluhan gigi depan atas
 **Jawaban Benar:**  
 B. Faktor herediter dengan lengkung basal sempit
 
+**Pembahasan:**
+Jumlah lebar gigi yang melebihi panjang lengkung menyebabkan kekurangan ruang dan crowding. Faktor herediter dapat berkontribusi pada ukuran gigi dan rahang, meskipun pola pewarisan tidak dapat ditentukan hanya dari besar tubuh orang tua.
+
 ---
 
 ## Soal 28
@@ -484,6 +561,9 @@ Seorang anak laki-laki usia 10 tahun datang diantar oleh ibunya ke RSGM dengan k
 
 **Jawaban Benar:**  
 D. Maloklusi Angle kelas II divisi 1
+
+**Pembahasan:**
+Relasi molar kelas II dengan insisivus atas protrusif dan overjet besar sesuai divisi 1. Kebiasaan mengisap ibu jari dapat menambah proklinasi dan penyempitan maksila, tetapi bukan satu-satunya penyebab maloklusi.
 
 ---
 
@@ -502,6 +582,9 @@ Seorang anak laki-laki berusia 10 tahun bersama ibunya ke RSGM dengan keluhan gi
 **Jawaban Benar:**  
 C. Inclined bite plane
 
+**Pembahasan:**
+Inclined bite plane menggunakan bidang miring untuk mengarahkan insisivus atas keluar dari crossbite saat penutupan mandibula. Pilihan ini sesuai untuk crossbite anterior dental sederhana dengan hubungan skeletal normal dan ruang yang mencukupi.
+
 ---
 
 ## Soal 30
@@ -518,5 +601,8 @@ Seorang wanita berusia 15 tahun datang ke dokter gigi dengan keluhan gigi rahang
 
 **Jawaban Benar:**  
 A. Mouth breathing
+
+**Pembahasan:**
+Bibir sulit menutup, palatum tinggi, lengkung sempit, dan hasil tes kebiasaan mendukung dugaan mouth breathing. Postur lidah serta keseimbangan otot dapat memengaruhi pertumbuhan lengkung, tetapi dugaan gangguan napas tetap perlu evaluasi klinis.
 
 ---

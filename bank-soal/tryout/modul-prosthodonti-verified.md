@@ -22,6 +22,9 @@ Seorang pasien perempuan berusia 27 tahun datang untuk membuat mahkota tiruan un
 **Jawaban Benar:**  
 C. Heavy body
 
+**Pembahasan:**
+Heavy body memiliki viskositas tinggi sehingga digunakan sebagai cetakan awal yang menopang bahan pencatat detail. Pada teknik dua tahap, bahan yang lebih encer kemudian merekam batas preparasi dan permukaan gigi secara lebih rinci.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Pasien laki-laki usia 45 tahun datang dengan keluhan giginya rusak. Pemeriksaan 
 
 **Jawaban Benar:**  
 C. Gigi 11 dowel crown, gigi 22 full veneer crown
+
+**Pembahasan:**
+Gigi 11 kehilangan jaringan mahkota lebih banyak dan nonvital sehingga kunci memilih dowel crown setelah perawatan endodontik yang memadai. Gigi 22 yang masih vital dapat menjadi penyangga dengan full veneer crown; kebutuhan pasak tetap bergantung pada sisa jaringan dan retensi inti.
 
 ---
 
@@ -56,6 +62,9 @@ Perempuan berusia 60 tahun ingin dibuatkan gigi tiruan. Pada pemeriksaan terliha
 **Jawaban Benar:**  
 A. Vestibuloplasti
 
+**Pembahasan:**
+Vestibuloplasti memperdalam vestibulum dengan mengubah perlekatan jaringan lunak. Pada sulkus dangkal, tindakan ini dapat menambah luas ekstensi basis dan membantu retensi gigi tiruan setelah evaluasi jaringan pendukung.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang laki-laki usia 27 tahun datang ke RSGM dengan keluhan ingin memperbaiki 
 
 **Jawaban Benar:**  
 A. Ovate
+
+**Pembahasan:**
+Pontik ovate memiliki permukaan dasar cembung yang masuk ke cekungan jaringan sehingga memberi kesan gigi tumbuh dari gingiva. Bentuk ini cocok untuk kebutuhan estetik anterior dengan soket dan jaringan lunak yang dipersiapkan serta dipelihara dengan baik.
 
 ---
 
@@ -90,6 +102,9 @@ Pasien laki-laki usia 62 tahun datang ke RSGM untuk dibuatkan gigi tiruan. Pemer
 **Jawaban Benar:**  
 C. Menggunakan galengan gigit
 
+**Pembahasan:**
+Galengan gigit membantu merekam hubungan rahang ketika kontak gigi yang tersisa tidak mencukupi untuk pemasangan model. Rekaman tersebut digunakan untuk mengorientasikan model pada artikulator dan menentukan hubungan oklusal prostesis.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Pasien datang dengan keluhan sulit mengunyah dan ingin dibuatkan gigi tiruan yan
 
 **Jawaban Benar:**  
 D. Fix-fix bridge
+
+**Pembahasan:**
+Fixed-fixed bridge menggunakan retainer pada kedua sisi ruang gigi 36 yang hilang. Namun, mahkota klinis 37 yang pendek memerlukan penilaian retensi dan jaringan periodontal sebelum desain tersebut dianggap layak.
 
 ---
 
@@ -124,6 +142,9 @@ Pasien datang dengan keluhan ingin dibuatkan gigi tiruan. Pemeriksaan intra oral
 **Jawaban Benar:**  
 A. Anteroposterior palatal strap
 
+**Pembahasan:**
+Anteroposterior palatal strap menghubungkan komponen anterior dan posterior melalui rancangan berbentuk cincin yang kaku. Desainnya dapat menghindari torus kecil di bagian tengah palatum sambil memberi dukungan pada gigi tiruan sebagian rahang atas.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Seorang perempuan 33 tahun datang ke RSGM untuk dibuatkan gigi tiruan. Pada peme
 
 **Jawaban Benar:**  
 A. Kelas I kennedy modifikasi 2
+
+**Pembahasan:**
+Kehilangan gigi posterior bilateral tanpa penyangga distal menentukan Kennedy kelas I. Di luar kedua daerah ujung bebas tersebut terdapat dua ruang edentulus tambahan, yaitu regio 31 dan 44, sehingga termasuk modifikasi 2.
 
 ---
 
@@ -158,6 +182,9 @@ Seorang laki-laki usia 70 tahun, datang ke RSGM dengan keluhan terganggu ketika 
 **Jawaban Benar:**  
 D. Walkhoff
 
+**Pembahasan:**
+Metode Walkhoff memanfaatkan posisi lidah ke posterior untuk membantu pasien membawa mandibula ke hubungan yang diinginkan saat pencatatan rahang. Rekaman relasi sentrik perlu diperiksa berulang agar tidak sekadar mencatat posisi mandibula yang dipaksakan.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Seorang laki-laki berusia 60 tahun datang ke RSGM dengan keluhan gigi depan atas
 
 **Jawaban Benar:**  
 E. Kennedy klas 4
+
+**Pembahasan:**
+Ruang kehilangan gigi anterior 12 sampai 22 melintasi garis tengah sehingga sesuai Kennedy kelas IV. Gigi molar ketiga yang hilang tidak diperhitungkan bila tidak akan diganti; kelas IV tidak mempunyai modifikasi.
 
 ---
 
@@ -192,6 +222,9 @@ Seorang laki-laki usia 60 tahun datang ke praktek drg dengan kesulitan menelan d
 **Jawaban Benar:**  
 B. Kesalahan pengembalian free way space
 
+**Pembahasan:**
+Free way space adalah selisih dimensi vertikal istirahat dan dimensi vertikal oklusi. Jika ruang ini terlalu kecil karena dimensi vertikal oklusi berlebihan, otot dapat terasa tegang dan fungsi menelan serta penggunaan gigi tiruan terganggu.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Seorang laki – laki berusia 60 tahun datang ke RSGM dengan keluhan kulit mengu
 
 **Jawaban Benar:**  
 C. alveolektomi
+
+**Pembahasan:**
+Tonjolan tulang tajam pada daerah penyangga dapat menekan mukosa dan menimbulkan nyeri. Pengurangan serta penghalusan tulang secara konservatif sesuai kebutuhan prostetik menjelaskan pilihan alveolektomi pada kunci.
 
 ---
 
@@ -226,6 +262,9 @@ Seorang perempuan berusia 35 tahun datang ke RSGM ingin dibuatkan gigi palsu kar
 **Jawaban Benar:**  
 D. Carbon Marker
 
+**Pembahasan:**
+Carbon marker digunakan untuk menggambar tanda pada model setelah arah pemasangan ditetapkan di surveyor. Penentuan kesejajaran permukaan sendiri dilakukan dengan analyzing rod; marker berfungsi mencatat hasil analisis tersebut.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ Seorang laki-laki berusia 70 tahun datang ke RSGM dengan keluhan terasa kebas di
 
 **Jawaban Benar:**  
 C. Tertekannya foramen mentalis
+
+**Pembahasan:**
+Resorpsi mandibula yang berat dapat menempatkan foramen mentale dekat permukaan puncak ridge. Tekanan basis gigi tiruan pada saraf di lokasi tersebut dapat menyebabkan rasa kebas bibir bawah sehingga daerah itu memerlukan evaluasi dan relief.
 
 ---
 
@@ -260,6 +302,9 @@ Seorang perempuan berusia 34 tahun datang Ke RSGM dengan Keluhan sulit mengunyah
 **Jawaban Benar:**  
 D. Fixed-fixed bridge
 
+**Pembahasan:**
+Kehilangan satu gigi 46 dengan calon penyangga 45 dan 47 pada kedua sisinya sesuai konsep fixed-fixed bridge. Karies penyangga harus ditangani dan kelayakan periodontal serta retensinya dinilai sebelum pembuatan retainer.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ Seorang perempuan berusia 28 tahun datang ke dokter gigi untuk pemasangan mahkot
 
 **Jawaban Benar:**  
 E. GIC Tipe I
+
+**Pembahasan:**
+Glass ionomer cement tipe I digunakan sebagai semen luting untuk menyemen restorasi indirek. Bahan ini dapat digunakan pada mahkota logam-keramik jika preparasi memiliki retensi memadai dan ketentuan bahan dipenuhi.
 
 ---
 
@@ -294,6 +342,9 @@ Seorang laki-laki berusia 60 tahun datang ke RSGM dengan Keluhan kesulitan menel
 **Jawaban Benar:**  
 E. Kesalahan pengukuran dimensi vertical
 
+**Pembahasan:**
+Dimensi vertikal oklusi yang tidak sesuai dapat menyebabkan wajah tampak tegang dan mengganggu menelan maupun pengunyahan. Gejala pada kasus mengarahkan evaluasi hubungan vertikal, termasuk pemeriksaan free way space dan kontak oklusal.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ Seorang perempuan berusia 33 tahun datang ke RSGM dengan keluhan gigi bawah bany
 
 **Jawaban Benar:**  
 C. Kelas I Kennedy modifikasi 2
+
+**Pembahasan:**
+Daerah edentulus paling posterior berupa ujung bebas bilateral menentukan Kennedy kelas I. Dua daerah kehilangan gigi lain yang terpisah, pada 31 dan 44, dihitung sebagai modifikasi 2.
 
 ---
 
@@ -328,6 +382,9 @@ Pasien laki-laki berusia 45 tahun datang ke RSGM ingin dibuatkan gigi tiruan yan
 **Jawaban Benar:**  
 A. U shape
 
+**Pembahasan:**
+Konektor berbentuk U dapat menghindari torus yang memanjang ke posterior sehingga menghalangi konektor palatal melintang. Karena kekakuannya relatif lebih rendah, ketebalan dan dukungan desain harus diperhitungkan terutama pada kasus ujung bebas.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ Seorang pasien perempuan berusia 36 tahun ingin dibuatkan gigi tiruan yang nyama
 
 **Jawaban Benar:**  
 A. Modified ridge lap
+
+**Pembahasan:**
+Modified ridge lap menggabungkan kontak jaringan pada sisi fasial dengan permukaan lingual yang lebih mudah dibersihkan sehingga cocok untuk daerah anterior. Perlu review manual: rasio mahkota-akar 2:1 merupakan kondisi penyangga yang kurang menguntungkan, sehingga kelayakan jembatan tidak dapat disimpulkan dari pilihan pontiknya saja.
 
 ---
 
@@ -362,6 +422,9 @@ Seorang laki-laki berusia 42 tahun datang ke praktek dokter gigi ingin dibuatkan
 **Jawaban Benar:**  
 B. Chamfer
 
+**Pembahasan:**
+Chamfer menyediakan batas preparasi yang jelas dengan pengurangan jaringan yang sesuai untuk tepi logam. Pada mahkota metal-keramik, pilihan ini sesuai bila bagian palatal memang direncanakan sebagai permukaan logam.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ Seorang perempuan berusia 39 tahun datang ke dokter gigi yang baru bertugas di p
 
 **Jawaban Benar:**  
 A. Gigi tiruan kerangka logam
+
+**Pembahasan:**
+Kerangka logam dapat dibuat relatif tipis tetapi tetap kaku dan kuat dibandingkan basis akrilik dengan ukuran serupa. Torus besar tetap harus dipertimbangkan dalam desain konektor agar tidak menimbulkan tekanan atau menghalangi pemasangan.
 
 ---
 
@@ -396,6 +462,9 @@ Seorang laki-laki berusia 65 tahun datang bersama anaknya ke RSGM untuk dibuatka
 **Jawaban Benar:**  
 E. Indifferent
 
+**Pembahasan:**
+Dalam klasifikasi House, pasien indifferent menunjukkan minat dan keterlibatan yang rendah terhadap perawatan. Sikap pasif serta membiarkan anak menjawab pada kasus mendukung kategori tersebut, sambil tetap perlu mengevaluasi kemampuan komunikasi pasien.
+
 ---
 
 ## Soal 24
@@ -412,6 +481,9 @@ Seorang perempuan berusia 45 tahun datang ke RSGM ingin dibuatkan gigi tiruan un
 
 **Jawaban Benar:**  
 D. Selective preasure
+
+**Pembahasan:**
+Teknik selective pressure mengarahkan beban ke daerah yang mampu menahannya dan mengurangi tekanan pada jaringan yang mudah bergeser. Hal ini relevan pada ujung bebas dengan ridge rendah karena dukungan mukosa dan gigi memiliki respons beban berbeda.
 
 ---
 
@@ -430,6 +502,9 @@ Seorang perempuan berusia 19 tahun datang ke RSGM dengan keluhan malu atas penam
 **Jawaban Benar:**  
 B. Adhesive bridge
 
+**Pembahasan:**
+Adhesive bridge membutuhkan preparasi lebih sedikit karena retensinya terutama melalui perlekatan sayap pada email penyangga. Ruang anterior tunggal, gigi penyangga sehat, dan kondisi oklusal yang memungkinkan mendukung pilihan konservatif ini.
+
 ---
 
 ## Soal 26
@@ -446,6 +521,9 @@ Pasien datang ingin membetulkan gigi tiruan penuh lepasan rahang atas dan rahang
 
 **Jawaban Benar:**  
 A. S
+
+**Pembahasan:**
+Pengucapan huruf S membantu mengevaluasi closest speaking space dan hubungan gigi anterior saat berbicara. Pemeriksaan ini dapat membantu menilai dimensi vertikal, tetapi angular cheilitis sendiri juga dapat mempunyai penyebab lain selain perubahan tinggi gigitan.
 
 ---
 
@@ -464,6 +542,9 @@ Seorang laki-laki berusia 37 tahun, datang ke RSGM dengan keluhan kehilangan gig
 **Jawaban Benar:**  
 A. Gigi 31 dan 33
 
+**Pembahasan:**
+Gigi 31 dan 33 berada tepat di mesial dan distal ruang kehilangan 32 sehingga dapat dipertimbangkan sebagai penyangga. Karies 31 dan kemiringan 33 perlu ditangani dalam perencanaan preparasi, arah pemasangan, serta evaluasi periodontal.
+
 ---
 
 ## Soal 28
@@ -480,6 +561,9 @@ Seorang pelukis perempuan berusia 61 tahun datang ke praktek dokter gigi swasta 
 
 **Jawaban Benar:**  
 D. Relining direk
+
+**Pembahasan:**
+Direct reline memperbaiki adaptasi permukaan dalam basis secara langsung sehingga pasien tidak lama tanpa gigi tiruan. Perlu review manual: jaringan flabby, tuberositas besar, ekstrusi gigi, dan sisa akar memerlukan evaluasi tersendiri; reline saja belum tentu menyelesaikan seluruh masalah pada kasus.
 
 ---
 
@@ -498,6 +582,9 @@ Pasien 46 tahun ingin dibuatkan gigi tiruan. Gigi 12, 11, 21, 22 goyang derajat 
 **Jawaban Benar:**  
 E. Immediate denture
 
+**Pembahasan:**
+Immediate denture dibuat sebelum pencabutan dan dipasang segera setelah gigi yang direncanakan dicabut. Pilihan ini memenuhi keinginan pasien agar tidak mengalami masa tanpa gigi, tetapi penyesuaian selama penyembuhan tetap diperlukan.
+
 ---
 
 ## Soal 30
@@ -514,5 +601,8 @@ Pasien laki-laki usia 45 tahun datang dengan keluhan giginya rusak. Pemeriksaan 
 
 **Jawaban Benar:**  
 D. Gigi 11 dan 22 dowel crown
+
+**Pembahasan:**
+Kunci memilih dowel crown pada kedua penyangga nonvital untuk menyediakan retensi inti setelah perawatan saluran akar. Perlu review manual: status nonvital saja bukan indikasi pasak; khususnya pada 22, keputusan harus didasarkan pada sisa jaringan koronal dan ferrule.
 
 ---

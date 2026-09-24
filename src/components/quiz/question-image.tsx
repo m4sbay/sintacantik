@@ -19,10 +19,10 @@ export function QuestionImage({ image }: { image: NonNullable<Question["image"]>
         <Image
           src={image.src}
           alt={image.alt}
-          width={960}
-          height={640}
+          width={image.width ?? 960}
+          height={image.height ?? 640}
           unoptimized
-          className="mx-auto h-auto max-h-[60vh] w-auto max-w-full object-contain"
+          className="mx-auto h-auto max-w-full object-contain"
           onError={() => setFailed(true)}
         />
       )}

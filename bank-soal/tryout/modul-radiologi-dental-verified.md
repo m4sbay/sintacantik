@@ -23,6 +23,9 @@ Seorang laki-laki berusia 22 tahun datang ke RSGM dengan keluhan sakit pada gigi
 **Jawaban Benar:**  
 A. Periapikal
 
+**Pembahasan:**
+Radiograf periapikal memperlihatkan seluruh gigi hingga apeks beserta jaringan tulang di sekitarnya. Cakupan tersebut sesuai untuk menilai gigi 37 dengan keterlibatan pulpa dan tanda inflamasi periapikal.
+
 ---
 
 ## Soal 2
@@ -39,6 +42,9 @@ Seorang perempuan berusia 38 tahun datang ke RSGM dengan keluhan ada celah di an
 
 **Jawaban Benar:**  
 A. Mesiodens
+
+**Pembahasan:**
+Mesiodens adalah gigi supernumerari yang terletak di daerah garis tengah rahang atas, biasanya di antara insisivus sentral. Keberadaannya dapat mengganggu erupsi atau menimbulkan diastema seperti pada kasus ini.
 
 ---
 
@@ -57,6 +63,9 @@ Seorang laki-laki berusia 25 tahun datang ke RSGM dengan keinginan menambal gigi
 **Jawaban Benar:**  
 B. Radiolusen berbatas jelas dan tidak tegas
 
+**Pembahasan:**
+Granuloma periapikal dapat tampak sebagai radiolusensi di sekitar apeks gigi yang mengalami infeksi pulpa. Perlu review manual: istilah batas pada opsi tidak cukup spesifik, dan granuloma tidak dapat dipastikan hanya dari radiograf tanpa korelasi klinis atau histopatologi.
+
 ---
 
 ## Soal 4
@@ -73,6 +82,9 @@ Seorang perempuan usia 20 tahun datang ke RSGM, dengan keluhan gigi atas kiri sa
 
 **Jawaban Benar:**  
 C. Abses periapikal
+
+**Pembahasan:**
+Nyeri berdenyut dan lesi periapikal difus pada gigi dengan karies mencapai pulpa mengarahkan kunci ke abses periapikal. Perlu review manual: diagnosis abses memerlukan temuan klinis seperti pembengkakan atau pus, bukan radiolusensi saja.
 
 ---
 
@@ -91,6 +103,9 @@ Seorang laki-laki usia 24 tahun datang ke RSGM dengan keluhan gigi depan yang be
 **Jawaban Benar:**  
 A. Odontoma compound
 
+**Pembahasan:**
+Compound odontoma tersusun atas struktur menyerupai gigi kecil atau dentikel. Kelompok dentikel radiopak yang dikelilingi pita radiolusen membedakannya dari complex odontoma yang berupa massa jaringan keras tidak teratur.
+
 ---
 
 ## Soal 6
@@ -107,6 +122,9 @@ Seorang laki – laki berusia 39 tahun datang ke instalasi Radiologi Kedokteran 
 
 **Jawaban Benar:**  
 C. Radiografi panoramik
+
+**Pembahasan:**
+Radiografi panoramik memberi gambaran kedua rahang dalam satu pemeriksaan. Teknik ini sesuai sebagai evaluasi awal posisi keempat molar ketiga dan hubungannya dengan struktur sekitar sebelum menentukan pemeriksaan tambahan.
 
 ---
 
@@ -125,6 +143,9 @@ Seorang laki-laki berusia 45 tahun datang ke RSGM dengan membawa rujukan dari Pu
 **Jawaban Benar:**  
 E. Radiolusen berbatas tidak jelas pada periapikal gigi
 
+**Pembahasan:**
+Infeksi periapikal dapat menyebabkan destruksi tulang yang tampak radiolusen dengan batas kurang jelas. Namun, abses akut awal dapat belum menimbulkan perubahan radiografis, sehingga diagnosis tetap memerlukan pemeriksaan klinis.
+
 ---
 
 ## Soal 8
@@ -141,6 +162,9 @@ Seorang laki-laki berusia 35 tahun datang ke RSGM dengan keluhan gigi belakang k
 
 **Jawaban Benar:**  
 E. Condensing osteitis
+
+**Pembahasan:**
+Condensing osteitis merupakan respons pembentukan tulang sklerotik di sekitar apeks akibat rangsangan inflamasi pulpa yang berlangsung lama. Gambaran radiopak di sekitar gigi dengan riwayat karies dan vitalitas negatif sesuai dengan respons tersebut.
 
 ---
 
@@ -159,6 +183,9 @@ Seorang laki-laki berusia 42 tahun datang ke RSGM dengan keluhan, gusi depan ben
 **Jawaban Benar:**  
 C. Gingivektomi
 
+**Pembahasan:**
+Pembesaran gingiva fibrotik terkait amlodipine dapat membentuk pseudopocket tanpa kehilangan tulang. Gingivektomi dapat dipertimbangkan pada fase bedah bila pembesaran menetap setelah kontrol plak dan evaluasi obat bersama dokter yang merawat.
+
 ---
 
 ## Soal 10
@@ -175,6 +202,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan membawa surat rujukan u
 
 **Jawaban Benar:**  
 D. Dilaserasi
+
+**Pembahasan:**
+Dilaserasi adalah pembengkokan bentuk akar atau hubungan bagian-bagian gigi yang menyimpang dari arah normal. Lengkung akar dan saluran ke distal perlu diperhatikan dalam menentukan akses serta instrumentasi endodontik.
 
 ---
 
@@ -193,6 +223,9 @@ Seorang perempuan usia 18 tahun datang ke RSGM dengan keluhan gigi depan atas sa
 **Jawaban Benar:**  
 C. Abses periapikal
 
+**Pembahasan:**
+Vitalitas negatif dan nyeri perkusi menunjukkan keterlibatan pulpa serta jaringan apikal, sedangkan radiolusensi difus mendukung lesi inflamasi. Perlu review manual: tanpa keterangan pus atau pembengkakan, data belum membedakan abses apikal dari periodontitis apikal simptomatik secara pasti.
+
 ---
 
 ## Soal 12
@@ -209,6 +242,9 @@ Seorang laki-laki berusia 45 tahun datang menjalani radioterapi karsinoma nasofa
 
 **Jawaban Benar:**  
 A. Somatic deterministic
+
+**Pembahasan:**
+Eritema akibat radiasi merupakan reaksi jaringan somatik yang secara klasik disebut efek deterministik. Efek ini memiliki ambang dosis dan tingkat keparahannya meningkat dengan dosis setelah ambang terlampaui.
 
 ---
 
@@ -227,6 +263,9 @@ Seorang laki-laki berusia 35 tahun datang dengan keluhan makanan sering terselip
 **Jawaban Benar:**  
 D. Abses periodontal
 
+**Pembahasan:**
+Gigi yang masih vital dengan pembengkakan gingiva dan kerusakan tulang dari marginal mengarahkan sumber infeksi ke jaringan periodontal. Tumpatan overhang menjadi faktor retensi plak yang mendukung abses periodontal dibandingkan infeksi primer dari pulpa.
+
 ---
 
 ## Soal 14
@@ -243,6 +282,9 @@ Seorang laki-laki berusia 28 tahun datang ke Instalasi Radiologi KG dengan memba
 
 **Jawaban Benar:**  
 A. Reverse film
+
+**Pembahasan:**
+Film yang dipasang terbalik dapat menampilkan pola lapisan timbal pelindung, sering disebut pola herringbone. Penyebabnya adalah berkas sinar melewati bagian belakang paket film sebelum mencapai emulsi.
 
 ---
 
@@ -261,6 +303,9 @@ Seorang perempuan berusia 35 tahun datang ke RSGM dengan keluhan gigi taring ata
 **Jawaban Benar:**  
 A. Oklusal radiografi
 
+**Pembahasan:**
+Radiograf oklusal dapat memberikan sudut pandang tambahan terhadap gigi taring impaksi. Bila dikombinasikan dengan proyeksi lain, informasi ini membantu menentukan posisi gigi secara bukopalatal sesuai prinsip lokalisasi.
+
 ---
 
 ## Soal 16
@@ -277,6 +322,9 @@ Pada radiografi periapikal regio kanan atas tampak kontras dan posisi obyek baik
 
 **Jawaban Benar:**  
 B. Cone cutting
+
+**Pembahasan:**
+Cone cutting terjadi ketika berkas sinar tidak mencakup seluruh reseptor. Bagian yang tidak terpapar tampak putih dengan batas mengikuti bentuk kolimator, sehingga tidak menunjukkan detail gigi atau jaringan.
 
 ---
 
@@ -295,6 +343,9 @@ Seorang perempuan berusia 22 tahun datang ke RSGM dengan keluhan semalam tidak d
 **Jawaban Benar:**  
 C. Panoramik
 
+**Pembahasan:**
+Panoramik memungkinkan evaluasi kedua molar ketiga bawah dan struktur rahang secara bersamaan. Pemeriksaan ini membantu menilai arah impaksi serta hubungan dengan gigi tetangga dan kanal mandibula sebelum perawatan.
+
 ---
 
 ## Soal 18
@@ -311,6 +362,9 @@ Pasien 20 tahun datang ke RSGM dengan keluhan gigi depan patah karena jatuh dari
 
 **Jawaban Benar:**  
 D. Periapikal
+
+**Pembahasan:**
+Radiograf periapikal memberi detail akar dan jaringan pendukung pada gigi yang mengalami trauma. Bila dicurigai fraktur akar, proyeksi tambahan dengan perubahan sudut dapat diperlukan karena garis fraktur tidak selalu terlihat pada satu proyeksi.
 
 ---
 
@@ -332,6 +386,9 @@ Seorang laki laki usia 22 tahun datang ke RSGM untuk memeriksakan gigi rahang at
 **Jawaban Benar:**  
 D. Compound odontoma
 
+**Pembahasan:**
+Struktur radiopak berupa kumpulan gigi kecil yang dikelilingi batas radiolusen merupakan ciri compound odontoma. Lokasi anterior maksila dan gangguan erupsi gigi permanen pada kasus turut mendukung interpretasi tersebut.
+
 ---
 
 ## Soal 20
@@ -348,6 +405,9 @@ Seorang laki-laki berusia 35 tahun, datang ke RSGM dengan keluhan pembengkakan p
 
 **Jawaban Benar:**  
 B. Lesi radiolusen, unilokuler, batas jelas dan tegas, diameter 3 cm mengelilingi mahkota gigi 38 yang impaksi
+
+**Pembahasan:**
+Kista dentigerous berkaitan dengan mahkota gigi yang belum erupsi dan biasanya melekat di sekitar pertemuan email-sementum. Gambaran khasnya berupa radiolusensi perikoronal unilokular berbatas jelas, seperti yang dijelaskan pada gigi 38.
 
 ---
 
@@ -366,6 +426,9 @@ Seorang perempuan berusia 24 tahun datang ke RSGM dengan keluhan gigi kanan bawa
 **Jawaban Benar:**  
 B. Bitewing
 
+**Pembahasan:**
+Bitewing memperlihatkan permukaan proksimal mahkota gigi posterior dengan baik sehingga membantu memperkirakan kedalaman karies. Pemilihan proyeksi sesuai kebutuhan diagnostik menghindari paparan yang tidak diperlukan.
+
 ---
 
 ## Soal 22
@@ -382,6 +445,9 @@ Seorang perempuan berusia 50 tahun datang ke RSGM dengan keluhan sakit pada gigi
 
 **Jawaban Benar:**  
 B. Kista radicular
+
+**Pembahasan:**
+Radiolusensi periapikal berbatas kortikal dapat mengarah pada dugaan kista radikular pada gigi dengan riwayat penyakit pulpa. Perlu review manual: batas radiopak tidak membuktikan kista; granuloma dan lesi lain dapat serupa sehingga diagnosis definitif tidak cukup dari foto saja.
 
 ---
 
@@ -400,6 +466,9 @@ Seorang laki-laki berusia 25 tahun datang ke RSGM dengan keluhan sisa akar gigi 
 **Jawaban Benar:**  
 A. Ankilosis
 
+**Pembahasan:**
+Ankilosis adalah perlekatan langsung akar dengan tulang tanpa ligamen periodontal normal di antaranya. Hilangnya ruang periodontal serta lamina dura pada daerah perlekatan mendukung diagnosis dan dapat menyulitkan pencabutan.
+
 ---
 
 ## Soal 24
@@ -416,6 +485,9 @@ Seorang radiologist menerima konsul dari dokter gigi terkait interpretasi radiog
 
 **Jawaban Benar:**  
 D. Dentinal dysplasia
+
+**Pembahasan:**
+Displasia dentin tipe radikular dapat menghasilkan mahkota yang tampak normal dengan akar sangat pendek atau hampir tidak terbentuk. Dukungan akar yang kurang menjelaskan kegoyangan gigi pada gambaran kasus.
 
 ---
 
@@ -434,6 +506,9 @@ Seorang laki-laki berusia 24 tahun datang ke RSGM dengan keluhan tidak bisa memb
 **Jawaban Benar:**  
 E. Reverse towne
 
+**Pembahasan:**
+Proyeksi reverse Towne digunakan untuk memperlihatkan daerah kondilus dan leher kondilus, termasuk pergeseran fragmen. Perlu review manual: teknik konvensional ini memerlukan posisi mulut yang sesuai, sehingga keterbatasan membuka mulut setelah trauma dapat menuntut pilihan pencitraan lain.
+
 ---
 
 ## Soal 26
@@ -450,6 +525,9 @@ Seorang laki-laki berusia 50 tahun datang ke RSGM dengan keluhan ada benjolan di
 
 **Jawaban Benar:**  
 A. kista residual
+
+**Pembahasan:**
+Kista residual adalah lesi kistik inflamasi yang tertinggal setelah gigi penyebab dicabut. Radiolusensi bulat berbatas tegas pada bekas lokasi gigi 36 sesuai dengan dugaan tersebut dan tetap memerlukan konfirmasi klinis serta pemeriksaan jaringan bila diangkat.
 
 ---
 
@@ -468,6 +546,9 @@ seorang laki-laki berusia 35 tahun datang ke RSGM dengan keluhan pada rahang baw
 **Jawaban Benar:**  
 A. Osteomielitis kronik
 
+**Pembahasan:**
+Infeksi berulang, fistula, dan destruksi tulang tidak teratur mendukung osteomielitis kronik. Sekuesterektomi berkaitan dengan pengangkatan tulang nekrotik atau sekuestrum yang dapat mempertahankan infeksi.
+
 ---
 
 ## Soal 28
@@ -484,6 +565,9 @@ Seorang laki-laki berusia 58 tahun datang ke instalasi radioterapi atas konsul d
 
 **Jawaban Benar:**  
 C. Pemberian radiasi dengan dosis terbagi
+
+**Pembahasan:**
+Fraksinasi membagi dosis radioterapi menjadi beberapa sesi agar jaringan normal memiliki kesempatan memperbaiki kerusakan antarsesi. Cara ini dapat mengurangi toksisitas, tetapi tidak sepenuhnya mencegah xerostomia; perencanaan dosis pada kelenjar saliva juga penting.
 
 ---
 
@@ -502,6 +586,9 @@ Pasien wanita berusia 35 tahun datang ke klinik, ingin merawatkan gigi geraham k
 **Jawaban Benar:**  
 A. Kista odontogenik
 
+**Pembahasan:**
+Gigi nonvital dengan radiolusensi apikal dapat mengalami lesi inflamasi odontogenik, termasuk kista radikular. Perlu review manual: diameter 3 mm dan batas tegas tidak cukup untuk menetapkan kista, karena granuloma atau lesi apikal lain dapat memberikan gambaran yang sama.
+
 ---
 
 ## Soal 30
@@ -518,5 +605,8 @@ Seorang perempua, 40 tahun, ibu rumah tangga, datang ke klinik konservasi gigi d
 
 **Jawaban Benar:**  
 E. Nekrosis pulpa disertai abses apikalis akut
+
+**Pembahasan:**
+Tidak adanya respons dingin mendukung nekrosis pulpa, sedangkan pembengkakan akut dan nyeri tekan serta perkusi mendukung abses apikal akut. Radiolusensi periapikal membantu menunjukkan keterlibatan jaringan apikal, tetapi diagnosis terutama menggabungkan temuan klinis dan tes pulpa.
 
 ---

@@ -4,7 +4,6 @@
 > Total soal: 30
 > Status: 30/30 kunci jawaban terverifikasi langsung dari penanda `Benar` atau `Jawaban yang benar` pada sumber.
 > Catatan: kunci jawaban tidak ditentukan atau dikoreksi menggunakan pengetahuan eksternal.
-> Soal yang menyebut gambar diberi placeholder sampai gambar asli disusulkan.
 
 ---
 
@@ -23,6 +22,9 @@ Seorang perempuan berusia 50 tahun datang bersama anaknya ke dokter gigi dengan 
 **Jawaban Benar:**  
 C. Sticky wax
 
+**Pembahasan:**
+Sticky wax bersifat melekat saat dipanaskan dan menjadi kaku setelah dingin. Sifat tersebut membantu mempertahankan posisi fragmen gigi tiruan yang patah sementara sebelum prosedur reparasi permanen.
+
 ---
 
 ## Soal 2
@@ -39,6 +41,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM ingin menambal gigi depan atas
 
 **Jawaban Benar:**  
 C. Restorasi direk resin komposit
+
+**Pembahasan:**
+Resin komposit direk dapat membangun kembali bagian insisal dengan warna menyerupai gigi dalam satu kunjungan. Fraktur yang terbatas pada email memungkinkan pendekatan adhesif yang mempertahankan jaringan gigi sehat.
 
 ---
 
@@ -57,6 +62,9 @@ Seorang perempuan berusia 30 tahun datang ke dokter gigi dengan keluhan ingin me
 **Jawaban Benar:**  
 B. Semen Zinc Oxide Eugenol
 
+**Pembahasan:**
+Eugenol dapat mengganggu proses polimerisasi radikal bebas pada bahan resin dan menurunkan kualitas ikatan dalam kondisi tertentu. Karena kasus melibatkan restorasi resin akrilik, kunci menghindari semen zinc oxide eugenol dan mengarahkan pilihan ke semen sementara yang kompatibel.
+
 ---
 
 ## Soal 4
@@ -73,6 +81,9 @@ Seorang laki-laki berusia 62 tahun datang ke dokter gigi dengan keluhan sulit me
 
 **Jawaban Benar:**  
 E. Polyvinylsiloxane
+
+**Pembahasan:**
+Polyvinylsiloxane merupakan silikon adisi yang mengeras melalui reaksi tanpa produk sampingan volatil seperti alkohol. Hal ini membantu kestabilan dimensinya dibandingkan silikon kondensasi, dengan waktu pengecoran tetap mengikuti petunjuk produk.
 
 ---
 
@@ -91,6 +102,9 @@ Seorang laki-laki berusia 62 tahun datang ke dokter gigi dengan keluhan sulit me
 **Jawaban Benar:**  
 B. Bersifat elastik
 
+**Pembahasan:**
+Alginat dan polyvinylsiloxane sama-sama menjadi bahan cetak elastik setelah mengeras. Keduanya dapat mengalami deformasi sementara saat melewati undercut lalu kembali mendekati bentuk awal, meskipun akurasi dan stabilitas dimensinya berbeda.
+
 ---
 
 ## Soal 6
@@ -107,6 +121,9 @@ Seorang perempuan berusia 19 tahun datang ke klinik gigi dengan keluhan behelnya
 
 **Jawaban Benar:**  
 D. Shear force
+
+**Pembahasan:**
+Shear force bekerja sejajar dengan bidang perlekatan sehingga dapat menggeser bracket dari permukaan gigi. Beban saat menggigit benda keras dapat menghasilkan komponen gaya tersebut pada ikatan bracket dan bahan adhesif.
 
 ---
 
@@ -125,6 +142,9 @@ Seorang perempuan berusia 37 tahun datang ke RSGM dengan keluhan gigi depan atas
 **Jawaban Benar:**  
 D. Gips Tipe IV
 
+**Pembahasan:**
+Gipsum tipe IV memiliki kekuatan tinggi dan ekspansi pengerasan rendah. Karakteristik ini sesuai untuk pembuatan die yang harus mempertahankan detail serta ketepatan batas preparasi mahkota.
+
 ---
 
 ## Soal 8
@@ -142,15 +162,15 @@ Seorang perempuan berusia 40 tahun datang ke RSGM dengan keluhan ngilu pada gigi
 **Jawaban Benar:**  
 E. Asam Poliakrilat 10%
 
+**Pembahasan:**
+Asam poliakrilat digunakan sebagai conditioner untuk membersihkan smear layer dan mempersiapkan permukaan dentin bagi GIC. Aplikasi harus mengikuti petunjuk bahan agar mendukung ikatan tanpa mengeringkan dentin secara berlebihan.
+
 ---
 
 ## Soal 9
 
 **Pertanyaan:**  
 Dokter gigi mencetak rahang bawah menggunakan bahan cetak alginat, tetapi tidak langsung dicor. Keesokan harinya pada saat dokter gigi akan melakukan pengecoran, kondisi cetakan terlihat kering dan menyusut (tanda panah pada gambar dibawah ini). Apakah yang menjadi penyebab terjadinya kondisi hasil cetakan pada kasus diatas ?
-
-**Gambar:**  
-> [PLACEHOLDER GAMBAR — gambar asli akan disusulkan]
 
 **Pilihan Jawaban:**
 - A. Bereaksi dengan cairan disinfeksi
@@ -161,6 +181,9 @@ Dokter gigi mencetak rahang bawah menggunakan bahan cetak alginat, tetapi tidak 
 
 **Jawaban Benar:**  
 B. Tidak disimpan pada wadah tertutup
+
+**Pembahasan:**
+Cetakan alginat yang dibiarkan terbuka kehilangan air melalui penguapan dan dapat mengalami penyusutan, di samping proses sineresis. Penyimpanan lembap dalam wadah tertutup sesuai petunjuk produk serta pengecoran tepat waktu membantu mengurangi perubahan dimensi.
 
 ---
 
@@ -179,6 +202,9 @@ Seorang laki – laki berusia 30 tahun datang ke RSGM dengan keluhan permukaan a
 **Jawaban Benar:**  
 C. Flowable hybrid composite
 
+**Pembahasan:**
+Komposit flowable memiliki viskositas rendah sehingga dapat beradaptasi pada pit dan fisur yang sempit. Pemilihannya bergantung pada kedalaman lesi, kebutuhan preparasi, dan beban oklusal; fisur dalam tanpa kavitas juga perlu dinilai untuk sealant.
+
 ---
 
 ## Soal 11
@@ -195,6 +221,9 @@ Seorang laki-laki, umur 32 tahun datang ke RSGMP dengan keluhan sering tersangku
 
 **Jawaban Benar:**  
 E. Sectional matrix
+
+**Pembahasan:**
+Sectional matrix membantu membentuk kontur proksimal dan titik kontak pada restorasi komposit kelas II. Penggunaan wedge dan pemisahan gigi yang sesuai membantu menutup tepi gingival serta mengompensasi ketebalan matriks.
 
 ---
 
@@ -213,6 +242,9 @@ Seorang laki-laki berusia 27 tahun datang ke dokter gigi ingin ditambal. Pemerik
 **Jawaban Benar:**  
 E. Generasi ke-7
 
+**Pembahasan:**
+Dalam klasifikasi generasi adhesif, generasi ketujuh menggabungkan etsa, primer, dan bonding dalam sistem self-etch satu langkah. Aplikasi tunggal tanpa tahap pembilasan pada kasus sesuai dengan konsep tersebut, dengan prosedur tetap mengikuti produk.
+
 ---
 
 ## Soal 13
@@ -229,6 +261,9 @@ Seorang perempuan berusia 45 tahun datang ke RSGM dengan Keluhan kesulitan mengu
 
 **Jawaban Benar:**  
 E. Silikon adisi
+
+**Pembahasan:**
+Silikon adisi memberikan rekaman detail dan kestabilan dimensi yang baik untuk model kerja. Pada gigi tiruan sebagian, pemilihan bahan serta teknik cetak juga harus menyesuaikan dukungan gigi, mukosa, dan desain prostesis.
 
 ---
 
@@ -247,6 +282,9 @@ Seorang laki-laki berusia 35 tahun datang ke dokter gigi dengan keluhan gigi ger
 **Jawaban Benar:**  
 E. Polymerization shrinkage
 
+**Pembahasan:**
+Resin komposit menyusut saat monomer membentuk jaringan polimer. Bila tegangan penyusutan melampaui kekuatan ikatan, dapat terbentuk celah marginal; radiolusensi tetap perlu dibedakan dari karies sekunder atau artefak radiografis.
+
 ---
 
 ## Soal 15
@@ -263,6 +301,9 @@ Seorang laki-laki berusia 30 tahun datang ke RSGM dengan keluhan gigi depan atas
 
 **Jawaban Benar:**  
 C. Inlay wax
+
+**Pembahasan:**
+Inlay wax digunakan untuk membuat pola restorasi yang kemudian diganti dengan logam melalui proses pengecoran. Pada mahkota metal-keramik, pola tersebut membentuk kerangka logam yang nantinya dilapisi porselen.
 
 ---
 
@@ -281,6 +322,9 @@ Seorang perempuan profesi guru usia 25 tahun datang ke RSGM untuk memperbaiki gi
 **Jawaban Benar:**  
 B. Semen seng oksida eugenol
 
+**Pembahasan:**
+Semen seng oksida eugenol dapat digunakan sebagai semen sementara karena relatif mudah dilepas. Perlu review manual: bila mahkota sementara atau prosedur adhesif berikutnya melibatkan resin, kompatibilitas eugenol harus diperiksa dan semen tanpa eugenol dapat lebih sesuai.
+
 ---
 
 ## Soal 17
@@ -297,6 +341,9 @@ Pasien ditumpat resin komposit dan mengaku suka meminum kopi. Pasien mengalami p
 
 **Jawaban Benar:**  
 A. Penyerapan air
+
+**Pembahasan:**
+Penyerapan air oleh matriks resin memudahkan masuknya zat pewarna dan dapat berkontribusi pada perubahan warna komposit. Pigmen kopi juga dapat menempel pada permukaan, terutama bila restorasi kasar atau kurang terpoles.
 
 ---
 
@@ -315,6 +362,9 @@ Seorang pasien pria berusia 20 tahun, datang dengan keluhan gigi depan atasnya b
 **Jawaban Benar:**  
 A. Kalsium hidroksia
 
+**Pembahasan:**
+Kalsium hidroksida digunakan sebagai medikamen intrakanal karena pH tingginya memberi efek antimikroba. Bahan ini tidak menjamin saluran steril dan tidak menggantikan debridemen serta irigasi yang memadai.
+
 ---
 
 ## Soal 19
@@ -331,6 +381,9 @@ Seorang penyiar TV dengan keluhan karies pada 1/3 insisal, gigi nonvital, sudah 
 
 **Jawaban Benar:**  
 D. Metal ceramic
+
+**Pembahasan:**
+Metal ceramic menggabungkan kerangka logam yang kuat dengan lapisan porselen untuk memperoleh bentuk dan warna gigi. Perlu review manual: informasi kehilangan jaringan pada soal belum cukup untuk memastikan mahkota diperlukan dibandingkan restorasi adhesif yang lebih konservatif.
 
 ---
 
@@ -349,6 +402,9 @@ Seorang perempuan berusia 50 tahun datang ke RSGM dengan keluhan gigi terasa ngi
 **Jawaban Benar:**  
 E. Calcium hidroxide
 
+**Pembahasan:**
+Kalsium hidroksida secara klasik digunakan sebagai bahan pelindung pulpa karena bersifat alkalis dan dapat merangsang pembentukan jaringan keras. Perlu review manual: pulpa yang sudah terbuka memerlukan diagnosis dan pemilihan terapi pulpa yang sesuai, bukan penempatan liner rutin semata.
+
 ---
 
 ## Soal 21
@@ -365,6 +421,9 @@ Seorang laki-laki berusia 45 tahun dating ke dokter gigi ingin menambal gigi bel
 
 **Jawaban Benar:**  
 A. Generasi 4
+
+**Pembahasan:**
+Adhesif generasi keempat menggunakan tiga tahap terpisah, yaitu etsa, primer, dan bonding. Adanya pembilasan setelah etsa membedakannya dari sistem self-etch.
 
 ---
 
@@ -383,6 +442,9 @@ Seorang laki-laki usia 25 tahun datang ke RSGMP dengan keluhan merasa terganggu 
 **Jawaban Benar:**  
 A. Sodium bikarbonat
 
+**Pembahasan:**
+Sodium bikarbonat membantu pembersihan stain ekstrinsik melalui aksi abrasif dalam formulasi pasta gigi. Bahan ini tidak menghilangkan semua perubahan warna intrinsik, sehingga penyebab diskolorasi tetap perlu dibedakan.
+
 ---
 
 ## Soal 23
@@ -399,6 +461,9 @@ Seorang pasien ingin dibuatkan gigi tiruan lepasan berbahan dasar resin akrilik.
 
 **Jawaban Benar:**  
 B. Benzoil peroksida
+
+**Pembahasan:**
+Benzoil peroksida merupakan inisiator yang menghasilkan radikal bebas untuk memulai polimerisasi resin akrilik. Aktivasi dapat terjadi melalui panas atau sistem kimia, bergantung pada jenis bahan.
 
 ---
 
@@ -417,6 +482,9 @@ Seorang pasien ingin giginya yang berlubang ditambal. Dokter gigi menambalnya de
 **Jawaban Benar:**  
 D. Champoroquinon
 
+**Pembahasan:**
+Camphorquinone menyerap cahaya biru dan bekerja bersama ko-inisiator untuk menghasilkan radikal bebas. Proses tersebut memulai polimerisasi komposit, dengan keberhasilan pengerasan dipengaruhi spektrum lampu, intensitas, ketebalan, dan waktu penyinaran.
+
 ---
 
 ## Soal 25
@@ -433,6 +501,9 @@ Pasien berencana dibuatkan gigi tiruan sebagian lepasan. Dokter gigi akan melaku
 
 **Jawaban Benar:**  
 C. Gipsum tipe 3
+
+**Pembahasan:**
+Gipsum tipe III atau dental stone umum digunakan untuk model kerja gigi tiruan lepasan. Kekuatan dan ketahanannya lebih baik daripada plaster tipe II, sementara kebutuhan die presisi tinggi dapat memerlukan tipe lain.
 
 ---
 
@@ -451,6 +522,9 @@ Pasien laki-laki 25 tahun datang ke RSGM Baiturrahmah dengan keluhan gigi depan 
 **Jawaban Benar:**  
 C. Selopan strip
 
+**Pembahasan:**
+Selopan strip atau matriks transparan memisahkan bahan restorasi anterior dari gigi sebelah dan membantu membentuk kontur proksimal. Transparansinya juga memungkinkan cahaya polimerisasi melewati matriks pada penumpatan komposit.
+
 ---
 
 ## Soal 27
@@ -467,6 +541,9 @@ Pasien laki-laki datang ke RSGM ingin menambal gigi yang berlubang. Diketahui gi
 
 **Jawaban Benar:**  
 C. Mampu beradaptasi dengan kelembapan tinggi
+
+**Pembahasan:**
+GIC dapat berikatan dengan jaringan gigi dan relatif lebih toleran terhadap kelembapan dibandingkan prosedur adhesif resin yang sangat sensitif terhadap kontaminasi. Perlu review manual: GIC tetap harus dilindungi dari saliva berlebihan dan pengeringan, terutama selama fase pengerasan awal; kelembapan tinggi bukan kondisi ideal.
 
 ---
 
@@ -485,6 +562,9 @@ Dokter gigi melakukan perawatan saluran akar gigi 11 dengan metode crown down me
 **Jawaban Benar:**  
 C. Membentuk saluran akar
 
+**Pembahasan:**
+ProTaper F3 merupakan finishing file yang digunakan dalam pembentukan saluran akar, terutama penyelesaian bagian apikal sesuai ukuran yang dibutuhkan. Pemilihan file harus mengikuti anatomi, ukuran apikal, dan urutan penggunaan yang sesuai.
+
 ---
 
 ## Soal 29
@@ -502,6 +582,9 @@ Seorang anak perempuan berusia 9 tahun datang bersama ibunya ke RSGM untuk memer
 **Jawaban Benar:**  
 B. Alginate
 
+**Pembahasan:**
+Alginat umum digunakan untuk mencetak model studi karena mudah dimanipulasi, elastik, dan cukup memadai untuk analisis bentuk lengkung. Cetakan perlu ditangani dan dicor sesuai waktu yang dianjurkan agar dimensinya tetap akurat.
+
 ---
 
 ## Soal 30
@@ -518,5 +601,8 @@ Seorang dokter gigi hendak membuat restorasi inlay pada gigi 26. Setelah melakuk
 
 **Jawaban Benar:**  
 E. Impression compound
+
+**Pembahasan:**
+Impression compound merupakan bahan termoplastik yang melunak saat dipanaskan dan mengeras kembali setelah dingin. Perlu review manual: tujuan pemeriksaan preparasi tidak dijelaskan rinci, sehingga kunci ini perlu ditinjau; compound bukan bahan cetak presisi untuk merekam seluruh detail preparasi inlay.
 
 ---

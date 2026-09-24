@@ -22,6 +22,9 @@ Seorang perempuan berusia 22 tahun datang ke klinik gigi mengeluhkan banyak sari
 **Jawaban Benar:**  
 E. Asiklovir
 
+**Pembahasan:**
+Asiklovir menghambat replikasi virus herpes simpleks penyebab gingivostomatitis herpetik primer. Terapi antivirus terutama dipertimbangkan pada fase dini atau gejala yang berat, disertai perawatan suportif untuk nyeri dan kecukupan cairan.
+
 ---
 
 ## Soal 2
@@ -38,6 +41,9 @@ Seorang perempuan berusia 50 tahun datang ke RSGM dengan keluhan bibir bawahnya 
 
 **Jawaban Benar:**  
 D. Paparan sinar matahari
+
+**Pembahasan:**
+Actinic cheilitis berkaitan dengan kerusakan kronis akibat radiasi ultraviolet, terutama pada bibir bawah yang lebih terpapar. Bibir kering, bersisik, dan batas vermilion yang mengabur merupakan petunjuk klinisnya.
 
 ---
 
@@ -56,6 +62,9 @@ Seorang perempuan berusia 40 tahun datang ke RSGM dengan keluhan bagian pipi kan
 **Jawaban Benar:**  
 B. lesi putih akut, nyeri, pada mukosa bukal.
 
+**Pembahasan:**
+Aspirin yang ditempel langsung pada mukosa dapat menyebabkan luka bakar kimia. Jaringan epitel mengalami nekrosis sehingga tampak putih, nyeri, dan dapat terkelupas; aspirin bukan bahan obat topikal untuk gigi berlubang.
+
 ---
 
 ## Soal 4
@@ -72,6 +81,9 @@ Seorang dokter gigi mencurigai pasien yang datang menderita Linea Alba pada kelu
 
 **Jawaban Benar:**  
 A. Penampilan klinis
+
+**Pembahasan:**
+Linea alba biasanya berupa garis putih horizontal pada mukosa bukal setinggi bidang oklusal. Bentuk dan lokasi khas akibat gesekan memungkinkan diagnosis klinis, sedangkan lesi yang tidak khas atau berubah memerlukan evaluasi tambahan.
 
 ---
 
@@ -90,6 +102,9 @@ Berbagai penyakit dijaringan lunak mulut utamanya yang ditandai hilangnya integr
 **Jawaban Benar:**  
 A. Riwayat Lesi
 
+**Pembahasan:**
+Hubungan waktu timbulnya ulkus dengan gigitan, tepi gigi tajam, atau trauma lain merupakan petunjuk utama ulkus traumatik. Diagnosis diperkuat oleh perbaikan setelah penyebab dihilangkan; ulkus menetap perlu diperiksa lebih lanjut.
+
 ---
 
 ## Soal 6
@@ -106,6 +121,9 @@ Seorang laki-laki berusia 36 tahun datang ke RSGM dengan membawa hasil pemeriksa
 
 **Jawaban Benar:**  
 A. Adenoid kistik karsinoma
+
+**Pembahasan:**
+Karsinoma adenoid kistik berasal dari kelenjar saliva dan dapat menunjukkan pola tubular atau kribriform. Perlu review manual: kelenjar irregular dan sel atipik saja tidak spesifik untuk tumor ini, sehingga pola histopatologi dan pemeriksaan lanjutan diperlukan untuk mendukung kunci.
 
 ---
 
@@ -124,6 +142,9 @@ Seorang anak perempuan berusia 6 tahun diantar ibunya datang ke dokter gigi kare
 **Jawaban Benar:**  
 C. Geographic Tongue
 
+**Pembahasan:**
+Geographic tongue ditandai area depapilasi kemerahan yang bentuk dan lokasinya berubah dari waktu ke waktu. Sifat berpindah serta dapat menghilang spontan membedakannya dari lesi merah yang menetap.
+
 ---
 
 ## Soal 8
@@ -140,6 +161,9 @@ Seorang perempuan berusia 45 tahun datang ke RSGM mengeluhkan bercak kehitaman p
 
 **Jawaban Benar:**  
 C. Amalgam tattoo
+
+**Pembahasan:**
+Partikel amalgam yang masuk ke jaringan dapat menghasilkan makula abu-abu kehitaman di dekat restorasi. Kedekatan lesi dengan tambalan amalgam subgingiva mendukung amalgam tattoo, tetapi pigmentasi yang tidak khas tetap perlu evaluasi.
 
 ---
 
@@ -158,6 +182,9 @@ Seorang perempuan berusia 27 tahun datang ke RSGM dengan keluhan benjolan dibawa
 **Jawaban Benar:**  
 C. Ranula
 
+**Pembahasan:**
+Ranula adalah kumpulan mukus pada dasar mulut, umumnya berkaitan dengan kelenjar sublingual. Benjolan kebiruan, lunak, dan dapat menggeser lidah sesuai dengan gambaran tersebut.
+
 ---
 
 ## Soal 10
@@ -174,6 +201,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan keluhan bibir pecah dan
 
 **Jawaban Benar:**  
 A. Eritema multiforme
+
+**Pembahasan:**
+Eritema multiforme dapat muncul akut dengan erosi mulut dan krusta hemoragik pada bibir setelah pemicu tertentu. Hubungan dengan obat mendukung kecurigaan, tetapi keterlibatan mata, kulit luas, atau kondisi sistemik berat perlu segera dinilai untuk reaksi mukokutan yang lebih serius.
 
 ---
 
@@ -192,6 +222,9 @@ Seorang perempuan berusia 22 tahun datang ke RSGM dengan keluhan sariawan di tep
 **Jawaban Benar:**  
 E. melakukan pengasahan gigi 46
 
+**Pembahasan:**
+Tepi gigi 46 yang tajam dapat terus melukai sisi lidah saat berfungsi. Menghaluskan bagian tajam menghilangkan penyebab mekanis ulkus, kemudian penyembuhannya perlu dipantau.
+
 ---
 
 ## Soal 12
@@ -208,6 +241,9 @@ Seorang perempuan berusia 35 tahun datang ke RSGM dengan keluhan nyeri dan tidak
 
 **Jawaban Benar:**  
 A. Atrophic Glossitis
+
+**Pembahasan:**
+Atrophic glossitis ditandai hilangnya papila sehingga lidah terlihat merah, licin, dan mengilap. Nyeri serta gangguan pengecapan dapat menyertainya; penyebab nutrisi, hematologis, maupun lokal perlu ditelusuri, bukan disimpulkan hanya dari riwayat maag.
 
 ---
 
@@ -226,6 +262,9 @@ Seorang laki - laki berusia 57 tahun datang ke RSGM dengan keluhan rasa terbakar
 **Jawaban Benar:**  
 A. Antifungal
 
+**Pembahasan:**
+Kemerahan mengikuti basis gigi tiruan yang jarang dibersihkan mendukung denture stomatitis dengan keterlibatan Candida. Antijamur perlu disertai pembersihan gigi tiruan dan pelepasan saat tidur agar faktor pemicunya teratasi.
+
 ---
 
 ## Soal 14
@@ -242,6 +281,9 @@ Seorang perempuan berusia 27 tahun datang ke RSGM dengan keluhan ada benjolan pa
 
 **Jawaban Benar:**  
 A. Epulis granulomatosa
+
+**Pembahasan:**
+Massa gingiva merah, lunak, bertangkai, dan mudah berdarah mendukung lesi reaktif granulomatosa. Kalkulus menjadi iritan lokal yang dapat memicu pertumbuhan tersebut, sedangkan diagnosis pasti memerlukan pemeriksaan jaringan bila lesi diangkat.
 
 ---
 
@@ -260,6 +302,9 @@ Seorang perempuan berusia 18 tahun datang ke dokter gigi dengan keluhan lidah te
 **Jawaban Benar:**  
 A. Scrotal Tongue
 
+**Pembahasan:**
+Scrotal tongue merupakan istilah lain untuk fissured tongue atau lidah berfisur. Alur-alur pada lidah tanpa perubahan warna atau gejala berat umumnya merupakan variasi jinak; kebersihan lidah membantu mencegah penumpukan debris.
+
 ---
 
 ## Soal 16
@@ -276,6 +321,9 @@ Seorang anak perempuan berusia 5 tahun datang ke RSGM bersama ibunya dengan kelu
 
 **Jawaban Benar:**  
 E. Coxsackie virus
+
+**Pembahasan:**
+Ulkus kecil pada palatum lunak, tonsil, dan pilar fauces setelah demam merupakan pola herpangina. Penyakit ini umumnya disebabkan enterovirus, termasuk Coxsackie virus.
 
 ---
 
@@ -294,6 +342,9 @@ Seorang perempuan berusia 17 tahun datang ke dokter gigi dengan keluhan luka di 
 **Jawaban Benar:**  
 A. Herpes labialis
 
+**Pembahasan:**
+Lesi berkelompok di batas bibir-kulit yang berkembang menjadi erosi dan krusta khas untuk herpes labialis. Rasa gatal atau perih sebelum lesi muncul dapat menjadi gejala prodromal reaktivasi HSV.
+
 ---
 
 ## Soal 18
@@ -310,6 +361,9 @@ Seorang perempuan berusia 20 tahun datang ke dokter gigi dengan keluhan nyeri pa
 
 **Jawaban Benar:**  
 A. Kandidiasis pseudomembran
+
+**Pembahasan:**
+Plak putih yang dapat dikerok dan meninggalkan mukosa merah merupakan ciri kandidiasis pseudomembran. Penggunaan antibiotik berkepanjangan mengganggu flora normal sehingga memudahkan pertumbuhan Candida.
 
 ---
 
@@ -328,6 +382,9 @@ Seorang anak perempuan usia 8 tahun datang dengan ibunya ke rsgm, dengan keluhan
 **Jawaban Benar:**  
 A. Paramyxovirus
 
+**Pembahasan:**
+Pembengkakan nyeri di depan telinga dengan demam mengarah ke parotitis epidemika atau gondongan. Virus penyebabnya termasuk keluarga Paramyxoviridae, sesuai pilihan Paramyxovirus.
+
 ---
 
 ## Soal 20
@@ -344,6 +401,9 @@ Seorang anak laki-laki berusia 15 tahun diantar ibunya datang ke RSGM dengan kel
 
 **Jawaban Benar:**  
 C. Ulkus traumatikus
+
+**Pembahasan:**
+Riwayat jatuh dengan luka bibir dan gigi yang fraktur menunjukkan penyebab mekanis yang jelas. Ulkus traumatik timbul akibat kerusakan mukosa, sehingga penanganan juga harus mengatasi bagian gigi yang melukai jaringan.
 
 ---
 
@@ -362,6 +422,9 @@ Seorang laki-laki berusia 32 tahun datang ke RSGM dengan keluhan terdapat benjol
 **Jawaban Benar:**  
 B. Sialolithiasis
 
+**Pembahasan:**
+Nyeri dan bengkak yang meningkat ketika produksi saliva dirangsang menunjukkan hambatan aliran kelenjar. Massa keras dalam duktus dengan gambaran radiopak mendukung batu saliva atau sialolitiasis.
+
 ---
 
 ## Soal 22
@@ -378,6 +441,9 @@ Anak perempuan berusia 7 tahun diantar neneknya ke RSGM dengan keluhan nyeri pad
 
 **Jawaban Benar:**  
 C. Anemia defisiensi B12
+
+**Pembahasan:**
+Defisiensi vitamin B12 dapat mengganggu pembentukan darah serta kesehatan mukosa dan berhubungan dengan angular cheilitis. Perlu review manual: pola makan buruk dan fisura komisura tidak cukup menentukan anemia B12 secara spesifik; pemeriksaan darah serta penilaian zat besi dan vitamin lain diperlukan.
 
 ---
 
@@ -396,6 +462,9 @@ Seorang perempuan berusia 65 tahun datang ke RSGM dengan keluhan ada rasa sakit 
 **Jawaban Benar:**  
 B. Epulis fissuratum
 
+**Pembahasan:**
+Epulis fissuratum adalah hiperplasia jaringan akibat iritasi kronis tepi gigi tiruan. Lipatan di vestibulum dekat basis yang longgar sesuai dengan jaringan yang berulang kali tertekan dan tergesek.
+
 ---
 
 ## Soal 24
@@ -412,6 +481,9 @@ Seorang laki-laki berusia 65 tahun datang ke klinik gigi dengan keluhan mulut te
 
 **Jawaban Benar:**  
 C. Gigi tiruan kurang baik
+
+**Pembahasan:**
+Gigi tiruan yang tidak sesuai dapat menyebabkan trauma dan menciptakan lingkungan yang mendukung denture stomatitis. Namun haus, lapar, dan sering berkemih juga mengarah ke kemungkinan diabetes, sehingga faktor sistemik ini perlu diperiksa dan tidak diabaikan.
 
 ---
 
@@ -430,6 +502,9 @@ Seorang laki-laki usia 45 tahun datang ke RSGM dengan keluhan bibir atas bawah s
 **Jawaban Benar:**  
 E. Hilangkan factor kemungkinan predisposisi dan terapi anti inflamsi
 
+**Pembahasan:**
+Hubungan lesi bibir akut dengan obat baru mengharuskan identifikasi serta penghentian pemicu yang dicurigai melalui evaluasi klinis. Terapi antiinflamasi dapat dipertimbangkan sesuai diagnosis dan derajat keparahan, disertai penilaian tanda reaksi obat berat.
+
 ---
 
 ## Soal 26
@@ -446,6 +521,9 @@ Seorang pasien berumur 5 tahun datang dengan keluhan terdapat sariawan yang bany
 
 **Jawaban Benar:**  
 A. Coxsackie virus
+
+**Pembahasan:**
+Kombinasi vesikel atau ulkus mulut dengan lesi pada telapak tangan dan kaki khas untuk hand, foot, and mouth disease. Coxsackie virus merupakan salah satu enterovirus penyebab utama penyakit ini.
 
 ---
 
@@ -464,6 +542,9 @@ Seorang perempuan berusia 50 tahun datang ke RSUD poli gigi dengan keluhan rasa 
 **Jawaban Benar:**  
 C. Lichen planus
 
+**Pembahasan:**
+Garis putih berbentuk jala yang tidak dapat dikerok merupakan striae Wickham, petunjuk oral lichen planus. Dasar eritematous dapat menyebabkan rasa terbakar, terutama saat terkena makanan pedas.
+
 ---
 
 ## Soal 28
@@ -480,6 +561,9 @@ Seorang pasien datang ke dokter gigi dengan keluhan adanya pembengkakan di bawah
 
 **Jawaban Benar:**  
 D. Marsupialisasi
+
+**Pembahasan:**
+Ranula dapat ditangani dengan marsupialisasi, yaitu membuka lesi dan mempertahankan jalan drainase ke rongga mulut. Pemilihan teknik mempertimbangkan ukuran, kekambuhan, serta keterlibatan kelenjar sublingual karena beberapa kasus memerlukan tindakan lain.
 
 ---
 
@@ -498,6 +582,9 @@ Seorang perempuan berusia 20 tahun datang ke dokter gigi dengan keluhan mulut te
 **Jawaban Benar:**  
 D. Obat kumur
 
+**Pembahasan:**
+Bentuk obat kumur dapat menjangkau banyak ulkus kecil yang tersebar di beberapa lokasi mukosa. Bahan aktif dipilih sesuai diagnosis; distribusi lesi pada mukosa berkeratin dan tidak berkeratin tetap perlu dinilai agar tidak salah menganggap semua ulkus sebagai aftosa.
+
 ---
 
 ## Soal 30
@@ -514,5 +601,8 @@ Seorang perempuan berusia 30 tahun datang ke RSGM dengan keluhanan timbul sariaw
 
 **Jawaban Benar:**  
 E. Defisiensi Vitamin B12
+
+**Pembahasan:**
+Defisiensi B12 dapat berkaitan dengan ulkus berulang dan gangguan mukosa. Perlu review manual: stem justru menyebut trauma gigitan dan tidak memberikan bukti defisiensi, sehingga B12 belum dapat dinyatakan sebagai faktor risiko paling berperan tanpa evaluasi tambahan.
 
 ---

@@ -49,7 +49,7 @@ export function parseTryoutModule(source, moduleId, sourceFile) {
     if (imageFields.length > 1 || (hasPlaceholder && imageFields.length !== 1)) fail(`Soal ${number}: ambiguous image placeholder.`);
     if (imageFields.length && !/\[PLACEHOLDER GAMBAR(?:\/RADIOGRAF)?\b/i.test(values.get(imageFields[0]))) fail(`Soal ${number}: unsupported image format.`);
     const image = hasPlaceholder ? {
-      src: `/questions/${moduleId}/question-${String(number).padStart(2, "0")}.webp`,
+      src: `/questions/${moduleId}/question-${String(number).padStart(2, "0")}.png`,
       alt: `Gambar soal ${number} — ${title}`,
     } : undefined;
     const explanation = values.get("Pembahasan");

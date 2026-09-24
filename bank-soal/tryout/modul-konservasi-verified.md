@@ -23,6 +23,9 @@ Seorang perempuan berusia 20 tahun datang ke dokter gigi dengan keluhan gigi dep
 **Jawaban Benar:**  
 D. Periodontitis apikalis simtomatik
 
+**Pembahasan:**
+Nyeri saat menggigit dan perkusi positif menunjukkan inflamasi jaringan sekitar apeks. Pelebaran ligamen periodontal mendukung periodontitis apikalis simtomatik meskipun gigi sudah menjalani perawatan saluran akar.
+
 ---
 
 ## Soal 2
@@ -39,6 +42,9 @@ Seorang perempuan berusia 20 tahun datang ke dokter gigi dengan keluhan gigi dep
 
 **Jawaban Benar:**  
 B. Previously treated
+
+**Pembahasan:**
+Saluran akar yang telah diisi dan riwayat perawatan endodontik lengkap masuk kategori previously treated. Istilah ini menjelaskan status perawatan pulpa, sedangkan nyeri perkusi dinilai terpisah sebagai diagnosis jaringan apikal.
 
 ---
 
@@ -57,6 +63,9 @@ Seorang Perempuan berusia 35 tahun datang ke RSGM inginmerawat gigi belakang kan
 **Jawaban Benar:**  
 C. Pulpektomi
 
+**Pembahasan:**
+Nyeri spontan, menetap, menjalar, dan mengganggu tidur menunjukkan inflamasi pulpa yang berat. Pulpektomi mengangkat jaringan pulpa dari kamar dan saluran akar sebagai bagian perawatan endodontik pada gigi yang masih dapat dipertahankan.
+
 ---
 
 ## Soal 4
@@ -73,6 +82,9 @@ Pasien perempuan berusia 35 tahun datang ke RSGM dengan keluhan gigi rahang atas
 
 **Jawaban Benar:**  
 C. Memilih file dengan besar file yang sama dengan foto awal pada 1/3 apikal
+
+**Pembahasan:**
+Kunci mengaitkan pemilihan file awal dengan perkiraan diameter apikal pada radiograf. Perlu review manual: initial apical file secara klinis ditentukan dengan penilaian saluran dan file yang mengikat di panjang kerja, bukan semata-mata menyamakan ukuran file dengan foto dua dimensi.
 
 ---
 
@@ -91,6 +103,9 @@ Seorang perempuan 32 tahun datang ke RSGM dengan gigi depan kanan berlubang besa
 **Jawaban Benar:**  
 E. Cold lateral condensation
 
+**Pembahasan:**
+Kon utama dan kon tambahan yang dipadatkan ke samping tanpa pemanasan merupakan ciri cold lateral condensation. Spreader membentuk ruang bagi kon aksesori sehingga pengisian saluran menjadi lebih rapat.
+
 ---
 
 ## Soal 6
@@ -107,6 +122,9 @@ Seorang perempuan berusia 25 tahun datang dengan keluhan linu pada gigi atas kir
 
 **Jawaban Benar:**  
 B. Restorasi kelas II resin komposit
+
+**Pembahasan:**
+Karies pada permukaan proksimal gigi posterior termasuk kelas II. Resin komposit memenuhi kebutuhan restorasi sewarna gigi bila isolasi dan sisa struktur gigi memadai.
 
 ---
 
@@ -125,6 +143,9 @@ Seorang pasien 40 tahun datang ke klinik RSGM dengan gigi depan kanan atas berlu
 **Jawaban Benar:**  
 B. Preparasi – etsa –bonding – light curing – komposit – light curing - finishing – polishing
 
+**Pembahasan:**
+Etsa menyiapkan permukaan untuk retensi mikromekanis, kemudian bonding membentuk perlekatan ke jaringan gigi. Pada sistem yang disebutkan, bonding disinar sebelum penempatan komposit, lalu komposit dipolimerisasi dan restorasi diakhiri dengan finishing serta polishing.
+
 ---
 
 ## Soal 8
@@ -141,6 +162,9 @@ Seorang laki – laki berusia 34 tahun dating ke klinik gigi ingin melanjutkan p
 
 **Jawaban Benar:**  
 d. onlay
+
+**Pembahasan:**
+Kehilangan jaringan yang cukup lebar pada gigi pascaperawatan saluran akar meningkatkan risiko fraktur cusp. Onlay memberikan perlindungan cusp sambil mempertahankan jaringan bukal dan lingual yang masih baik.
 
 ---
 
@@ -159,6 +183,9 @@ Seorang laki – laki berusia 30 tahun datang ke RSGM dengan keluhan gigi belaka
 **Jawaban Benar:**  
 c. Pulpitis Ireversibel Simtomatik; Periodontitis Apikalis Simtomatik
 
+**Pembahasan:**
+Nyeri spontan pada pulpa yang masih vital mendukung pulpitis ireversibel simtomatik. Nyeri mengunyah, perkusi positif, dan pelebaran ligamen periodontal menunjukkan keterlibatan apikal berupa periodontitis apikalis simtomatik.
+
 ---
 
 ## Soal 10
@@ -175,6 +202,9 @@ Seorang laki-laki, umur 32 tahun datang ke RSGM dengan keluhan linu dan sering t
 
 **Jawaban Benar:**  
 e. Restorasi kelas II resin komposit
+
+**Pembahasan:**
+Lesi proksimal-oklusal gigi posterior merupakan kavitas kelas II. Ukuran yang relatif terbatas dan cusp yang masih terdukung memungkinkan restorasi langsung resin komposit.
 
 ---
 
@@ -193,6 +223,9 @@ Seorang perempuan 35 tahun datang ke RSGM dengan keluhan gigi depan sakit berden
 **Jawaban Benar:**  
 e. Perawatan saluran akar
 
+**Pembahasan:**
+Tes vitalitas negatif dan lesi periapikal menunjukkan saluran akar sebagai sumber infeksi. Perawatan saluran akar membersihkan serta mendisinfeksi sistem saluran sebelum pengisian dan restorasi koronal.
+
 ---
 
 ## Soal 12
@@ -209,6 +242,9 @@ Seorang perempuan berusia 27 tahun datang ke RSGM dengan keluhan gigi bawah kiri
 
 **Jawaban Benar:**  
 e. Direct Pulp capping
+
+**Pembahasan:**
+Paparan pulpa kecil akibat preparasi dapat dipertimbangkan untuk direct pulp capping bila pulpa masih sesuai untuk terapi vital dan perdarahan dapat dikendalikan. Bahan penutup diletakkan langsung pada paparan untuk melindungi pulpa dan mendukung pembentukan jaringan keras.
 
 ---
 
@@ -227,6 +263,9 @@ Seseorang laki-laki berusia 40 tahun datang ke RSGM dengan keluhan gigi geraham 
 **Jawaban Benar:**  
 d. Anestesi, akses, ekstirpasi, preparasi saluran akar, irigasi, medikamen, tumpatan sementara
 
+**Pembahasan:**
+Anestesi dan akses memungkinkan pengangkatan pulpa serta pembersihan sistem saluran. Preparasi dilakukan bersama irigasi, kemudian medikamen bila diperlukan dan tumpatan sementara menjaga saluran dari kontaminasi antar-kunjungan.
+
 ---
 
 ## Soal 14
@@ -243,6 +282,9 @@ Seorang perempuan berusia 25 tahun, datang ke RSGM dengan keluhan nyeri pada gig
 
 **Jawaban Benar:**  
 b. Indirect pulp capping
+
+**Pembahasan:**
+Pulpa masih vital dan dipisahkan dari karies oleh lapisan dentin tipis, tanpa tanda jelas penyakit apikal. Indirect pulp capping bertujuan mempertahankan vitalitas dengan menghindari paparan pulpa dan memberi segel restorasi yang baik.
 
 ---
 
@@ -261,6 +303,9 @@ Seorang perempuan berusia 20 tahun datang ke RSGM dengan keluhan gigi belakang b
 **Jawaban Benar:**  
 a. Crown down
 
+**Pembahasan:**
+Crown down dimulai dari pelebaran bagian koronal lalu bergerak ke arah apikal. Urutan ini berbeda dari step back yang membentuk bagian apikal lebih dahulu lalu mundur ke koronal.
+
 ---
 
 ## Soal 16
@@ -277,6 +322,9 @@ Seorang perempuan berusia 27 tahun datang ke dokter gigi dengan keluhan gusi kan
 
 **Jawaban Benar:**  
 b. Trepanasi
+
+**Pembahasan:**
+Gigi nonvital dengan bengkak dan nyeri apikal mengarah ke infeksi endodontik akut. Trepanasi membuka akses untuk debridemen dan kemungkinan drainase melalui saluran, dilanjutkan pengendalian infeksi; gigi tidak dibiarkan terbuka tanpa rencana perawatan.
 
 ---
 
@@ -295,6 +343,9 @@ Seorang perempuan berusia 28 tahun datang ke klinik gigi dengan keluhan gigi bel
 **Jawaban Benar:**  
 b. Tes anestesi
 
+**Pembahasan:**
+Tes anestesi selektif membantu melokalisasi sumber nyeri ketika pasien sulit menunjuk gigi penyebab. Hilangnya nyeri setelah suatu wilayah dianestesi menjadi petunjuk, tetapi hasilnya harus dikaitkan dengan pemeriksaan lain karena anestesi dapat menyebar.
+
 ---
 
 ## Soal 18
@@ -311,6 +362,9 @@ Perempuan 27 tahun datang ke RSGM dengan mengeluhkan gigi depan atasnya berwarna
 
 **Jawaban Benar:**  
 c. Labial veneer komposit
+
+**Pembahasan:**
+Veneer komposit menutupi permukaan labial sehingga dapat memperbaiki warna dan defek email anterior. Pendekatan ini sesuai bila gigi vital dan kebutuhan estetik tidak memerlukan pengurangan jaringan untuk mahkota penuh.
 
 ---
 
@@ -329,6 +383,9 @@ Seorang perempuan berusia 25 tahun datang ke RSGM dengan keluhan gigi depan atas
 **Jawaban Benar:**  
 e. Pengaplikasian bahan adhesive
 
+**Pembahasan:**
+Bahan adhesif membentuk perlekatan antara jaringan gigi dan resin komposit setelah persiapan permukaan yang sesuai. Ikatan ini membantu retensi serta mengurangi celah marginal pada restorasi anterior.
+
 ---
 
 ## Soal 20
@@ -345,6 +402,9 @@ Karies gigi pada daerah singulum gigi termasuk dalam klasifikasi karies GV Black
 
 **Jawaban Benar:**  
 a. Klas I
+
+**Pembahasan:**
+Kelas I mencakup karies pada pit dan fisur, termasuk pit lingual di sekitar singulum gigi anterior. Klasifikasi ditentukan oleh lokasi pit tersebut, bukan hanya karena giginya berada di regio anterior.
 
 ---
 
@@ -366,6 +426,9 @@ Seorang pasien laki-laki usia 28 tahun datang ke RSGM dengan keluhan bengkak pad
 **Jawaban Benar:**  
 c. Menentukan elemen gigi yang menjadi sumber infeksi
 
+**Pembahasan:**
+Penelusuran saluran sinus dengan bahan radiopak membantu menentukan ujung jalur drainase pada radiograf. Jalur tersebut dapat mengarah ke gigi penyebab infeksi, yang tidak selalu tepat di sebelah benjolan gingiva.
+
 ---
 
 ## Soal 22
@@ -382,6 +445,9 @@ Seorang pasien datang ke RSGM mengeluhkan gigi 17 ngilu saat makan dan minum, te
 
 **Jawaban Benar:**  
 a. Pulp capping indirect
+
+**Pembahasan:**
+Nyeri yang hanya dipicu rangsangan, tanpa nyeri spontan, mendukung upaya mempertahankan pulpa vital. Indirect pulp capping menjaga dentin yang tersisa di dekat pulpa dan menutup kavitas untuk mengendalikan rangsangan serta bakteri.
 
 ---
 
@@ -400,6 +466,9 @@ Seorang laki-laki berusia 25 tahun datang ke dokter gigi dengan keluhan gigi ata
 **Jawaban Benar:**  
 e. Endodontik intrakanal
 
+**Pembahasan:**
+Gigi nonvital dengan perkusi positif memerlukan pengendalian infeksi di dalam sistem saluran akar. Perawatan endodontik intrakanal mencakup pembersihan, disinfeksi, dan pengisian saluran untuk mempertahankan gigi.
+
 ---
 
 ## Soal 24
@@ -416,6 +485,9 @@ Seorang laki-laki berusia 23 tahun datang ke RSGM dengan keluhan sakit pada gigi
 
 **Jawaban Benar:**  
 c. Resorbsi internal
+
+**Pembahasan:**
+Resorpsi internal berasal dari dinding bagian dalam ruang pulpa. Radiograf dapat memperlihatkan pelebaran membulat yang menyatu dengan kontur saluran, berbeda dari defek yang berasal dari permukaan akar luar.
 
 ---
 
@@ -434,6 +506,9 @@ Seorang laki-laki berusia 36 tahun, datang ke dokter gigi, dengan keluhan tambal
 **Jawaban Benar:**  
 c. Restorasi onlay
 
+**Pembahasan:**
+Kerusakan yang meluas ke cusp membuat restorasi intrakoronal saja kurang memberi perlindungan. Onlay menutupi cusp yang terlibat sehingga membantu menahan beban kunyah dan mengurangi risiko fraktur lebih lanjut.
+
 ---
 
 ## Soal 26
@@ -450,6 +525,9 @@ Seorang laki-laki berusia 16 tahun, datang ke praktek drg dengan keluhan gigi be
 
 **Jawaban Benar:**  
 a. Pulpekpotomi
+
+**Pembahasan:**
+Jaringan granulasi yang mudah berdarah dari kavitas besar menunjukkan pulpa masih memiliki jaringan vital yang meradang. Perlu review manual: istilah kunci “Pulpekpotomi” tidak baku dan dapat tertukar dengan pulpektomi atau pulpotomi; pilihan prosedur perlu diperjelas tanpa mengubah kunci sumber.
 
 ---
 
@@ -468,6 +546,9 @@ Seorang pasien perempuan berusia 17 tahun, datang dengan keluhan gigi depan atas
 **Jawaban Benar:**  
 e. Infiltration anesthesia
 
+**Pembahasan:**
+Tulang kortikal maksila anterior relatif tipis sehingga anestesi infiltrasi dapat mencapai cabang saraf gigi 21. Karena itu infiltrasi lazim digunakan untuk memperoleh anestesi pulpal pada insisivus atas.
+
 ---
 
 ## Soal 28
@@ -484,6 +565,9 @@ Pasien wanita berumur 24 tahun datang ke RSGM Baiturrahmah dengan keluhan gigi g
 
 **Jawaban Benar:**  
 d. Pulpitis akut serosa
+
+**Pembahasan:**
+Nyeri yang dipicu termal lalu menjalar dan bertambah saat berbaring menunjukkan inflamasi pulpa yang bermakna. Kunci memakai istilah lama pulpitis akut serosa; gejala saja tidak memastikan bentuk histologis serosa, sehingga padanannya dengan diagnosis pulpa modern perlu review manual.
 
 ---
 
@@ -502,6 +586,9 @@ Seorang pasien perempuan datang ke RSGM ingin memperbaiki tambalan gigi pecah-pe
 **Jawaban Benar:**  
 b. Tidak dilakukan pengolesan varnish setelah penambalan
 
+**Pembahasan:**
+GIC pada fase awal pengerasan sensitif terhadap kehilangan maupun penyerapan air. Lapisan varnish atau pelindung permukaan membantu menjaga keseimbangan air sehingga mengurangi retak permukaan akibat pengeringan.
+
 ---
 
 ## Soal 30
@@ -518,5 +605,8 @@ Seorang drg melakukan perawatan saluran akar pada gigi 11. Tahap pertama yang ha
 
 **Jawaban Benar:**  
 c. Pengukuran panjang kerja
+
+**Pembahasan:**
+Panjang kerja menentukan batas preparasi dan pengisian saluran akar. Setelah akses serta eksplorasi awal, panjang ini ditetapkan dengan penilaian elektronik/radiografis agar instrumentasi tidak terlalu pendek atau melewati apeks.
 
 ---

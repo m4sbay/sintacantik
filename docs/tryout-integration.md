@@ -25,10 +25,8 @@ Path relatif terhadap root project; URL publik menghilangkan awalan `public`. Ti
 
 | Modul | Nomor sumber | Path file | Status |
 | --- | ---: | --- | --- |
-| Konservasi | 21 | `public/questions/konservasi/question-21.webp` | Belum tersedia |
-| Orthodonti | 6 | `public/questions/orthodonti/question-06.webp` | Belum tersedia |
-| Radiologi Dental | 19 | `public/questions/radiologi-dental/question-19.webp` | Belum tersedia |
-| Dental Material | 9 | `public/questions/dental-material/question-09.webp` | Belum tersedia |
+| Konservasi | 21 | `public/questions/konservasi/question-21.png` | Tersedia |
+| Radiologi Dental | 19 | `public/questions/radiologi-dental/question-19.png` | Tersedia |
 
 ## Catatan data
 

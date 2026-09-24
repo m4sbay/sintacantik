@@ -27,7 +27,7 @@ export type Question = {
   topic: string;
   /** Optional plain text; blank text uses the review fallback. Supports paragraphs and bullet lines. */
   explanation?: string;
-  image?: { src: string; alt: string };
+  image?: { src: string; alt: string; width?: number; height?: number };
 };
 
 export type QuizConfiguration = {

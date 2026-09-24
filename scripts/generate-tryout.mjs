@@ -22,6 +22,18 @@ const questions = parsed.flatMap((entry) => entry.questions);
 if (new Set(questions.map((question) => question.id)).size !== questions.length) throw new Error("Duplicate question IDs.");
 const modules = parsed.map((entry) => entry.module);
 const images = questions.filter((question) => question.image);
+// Read PNG intrinsic dimensions so the browser reserves the correct aspect ratio.
+for (const question of images) {
+  const path = join(root, "public", question.image.src);
+  if (!existsSync(path)) continue;
+  const png = readFileSync(path);
+  if (png.length < 24 || png.subarray(0, 8).toString("hex") !== "89504e470d0a1a0a" || png.subarray(12, 16).toString() !== "IHDR") {
+    throw new Error(`Invalid PNG: ${path}`);
+  }
+  question.image.width = png.readUInt32BE(16);
+  question.image.height = png.readUInt32BE(20);
+  if (!question.image.width || !question.image.height) throw new Error(`Invalid PNG dimensions: ${path}`);
+}
 const warnings = parsed.flatMap((entry) => entry.warnings.map((warning) => `${entry.module.label}: ${warning}`));
 const output = `// Generated from bank-soal/tryout/*.md. Do not edit by hand.\nimport type { Question, QuestionModule } from "@/types/quiz";\n\nexport const tryoutModules = ${JSON.stringify(modules, null, 2)} satisfies QuestionModule[];\n\nexport const tryoutQuestions = ${JSON.stringify(questions, null, 2)} satisfies Question[];\n`;
 writeFileSync(join(root, "src/data/tryout-questions.ts"), output);
@@ -48,5 +60,5 @@ const report = [
 ].join("\n");
 writeFileSync(join(root, "docs/tryout-integration.md"), report);
 console.log(parsed.map((entry) => `${entry.module.label}: ${entry.questions.length} soal`).join("\n"));
-console.log(`TRY OUT: ${questions.length} soal, ${images.length} placeholder gambar, ${warnings.length} catatan sumber.`);
+console.log(`TRY OUT: ${questions.length} soal, ${images.length} soal bergambar, ${warnings.length} catatan sumber.`);
 for (const warning of warnings) console.warn(warning);
