@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { QuizShell } from "@/components/quiz/quiz-shell";
 
 export const metadata: Metadata = {
-  title: "Quiz — Sintacantik",
+  title: "simoe",
 };
 
 export default function QuizPage() {

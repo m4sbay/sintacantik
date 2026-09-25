@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { ResultPageContent } from "@/components/result/result-page-content";
 
 export const metadata: Metadata = {
-  title: "Hasil Latihan — Sintacantik",
+  title: "simoe",
 };
 
 export default function ResultPage() {

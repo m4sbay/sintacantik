@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sintacantik — Latihan Soal",
+  title: "simoe",
   description: "Platform latihan soal pribadi untuk belajar, menguji pemahaman, dan mengevaluasi jawaban.",
 };
 
